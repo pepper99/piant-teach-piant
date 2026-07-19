@@ -38,7 +38,21 @@
       "vocab-grammar-p5-001-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p5-001"
+      "ex-grammar-p5-001-01",
+      "ex-grammar-p5-001-02",
+      "ex-grammar-p5-001-03",
+      "ex-grammar-p5-001-04",
+      "ex-grammar-p5-001-05",
+      "ex-grammar-p5-001-06",
+      "ex-grammar-p5-001-07",
+      "ex-grammar-p5-001-08",
+      "ex-grammar-p5-001-09",
+      "ex-grammar-p5-001-10",
+      "ex-grammar-p5-001-11",
+      "ex-grammar-p5-001-12",
+      "ex-grammar-p5-001-13",
+      "ex-grammar-p5-001-14",
+      "ex-grammar-p5-001-15"
     ]
   },
   {
@@ -80,7 +94,21 @@
       "vocab-grammar-p5-002-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p5-002"
+      "ex-grammar-p5-002-01",
+      "ex-grammar-p5-002-02",
+      "ex-grammar-p5-002-03",
+      "ex-grammar-p5-002-04",
+      "ex-grammar-p5-002-05",
+      "ex-grammar-p5-002-06",
+      "ex-grammar-p5-002-07",
+      "ex-grammar-p5-002-08",
+      "ex-grammar-p5-002-09",
+      "ex-grammar-p5-002-10",
+      "ex-grammar-p5-002-11",
+      "ex-grammar-p5-002-12",
+      "ex-grammar-p5-002-13",
+      "ex-grammar-p5-002-14",
+      "ex-grammar-p5-002-15"
     ]
   },
   {
@@ -122,7 +150,21 @@
       "vocab-grammar-p5-003-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p5-003"
+      "ex-grammar-p5-003-01",
+      "ex-grammar-p5-003-02",
+      "ex-grammar-p5-003-03",
+      "ex-grammar-p5-003-04",
+      "ex-grammar-p5-003-05",
+      "ex-grammar-p5-003-06",
+      "ex-grammar-p5-003-07",
+      "ex-grammar-p5-003-08",
+      "ex-grammar-p5-003-09",
+      "ex-grammar-p5-003-10",
+      "ex-grammar-p5-003-11",
+      "ex-grammar-p5-003-12",
+      "ex-grammar-p5-003-13",
+      "ex-grammar-p5-003-14",
+      "ex-grammar-p5-003-15"
     ]
   },
   {
@@ -164,7 +206,21 @@
       "vocab-grammar-p5-004-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p5-004"
+      "ex-grammar-p5-004-01",
+      "ex-grammar-p5-004-02",
+      "ex-grammar-p5-004-03",
+      "ex-grammar-p5-004-04",
+      "ex-grammar-p5-004-05",
+      "ex-grammar-p5-004-06",
+      "ex-grammar-p5-004-07",
+      "ex-grammar-p5-004-08",
+      "ex-grammar-p5-004-09",
+      "ex-grammar-p5-004-10",
+      "ex-grammar-p5-004-11",
+      "ex-grammar-p5-004-12",
+      "ex-grammar-p5-004-13",
+      "ex-grammar-p5-004-14",
+      "ex-grammar-p5-004-15"
     ]
   },
   {
@@ -202,7 +258,21 @@
       "vocab-vocab-p5-002-10"
     ],
     "exerciseIds": [
-      "ex-vocab-p5-002"
+      "ex-vocab-p5-002-01",
+      "ex-vocab-p5-002-02",
+      "ex-vocab-p5-002-03",
+      "ex-vocab-p5-002-04",
+      "ex-vocab-p5-002-05",
+      "ex-vocab-p5-002-06",
+      "ex-vocab-p5-002-07",
+      "ex-vocab-p5-002-08",
+      "ex-vocab-p5-002-09",
+      "ex-vocab-p5-002-10",
+      "ex-vocab-p5-002-11",
+      "ex-vocab-p5-002-12",
+      "ex-vocab-p5-002-13",
+      "ex-vocab-p5-002-14",
+      "ex-vocab-p5-002-15"
     ]
   },
   {
@@ -240,7 +310,21 @@
       "vocab-vocab-p5-003-10"
     ],
     "exerciseIds": [
-      "ex-vocab-p5-003"
+      "ex-vocab-p5-003-01",
+      "ex-vocab-p5-003-02",
+      "ex-vocab-p5-003-03",
+      "ex-vocab-p5-003-04",
+      "ex-vocab-p5-003-05",
+      "ex-vocab-p5-003-06",
+      "ex-vocab-p5-003-07",
+      "ex-vocab-p5-003-08",
+      "ex-vocab-p5-003-09",
+      "ex-vocab-p5-003-10",
+      "ex-vocab-p5-003-11",
+      "ex-vocab-p5-003-12",
+      "ex-vocab-p5-003-13",
+      "ex-vocab-p5-003-14",
+      "ex-vocab-p5-003-15"
     ]
   },
   {
@@ -274,7 +358,21 @@
       "vocab-reading-p5-002-10"
     ],
     "exerciseIds": [
-      "ex-reading-p5-002"
+      "ex-reading-p5-002-01",
+      "ex-reading-p5-002-02",
+      "ex-reading-p5-002-03",
+      "ex-reading-p5-002-04",
+      "ex-reading-p5-002-05",
+      "ex-reading-p5-002-06",
+      "ex-reading-p5-002-07",
+      "ex-reading-p5-002-08",
+      "ex-reading-p5-002-09",
+      "ex-reading-p5-002-10",
+      "ex-reading-p5-002-11",
+      "ex-reading-p5-002-12",
+      "ex-reading-p5-002-13",
+      "ex-reading-p5-002-14",
+      "ex-reading-p5-002-15"
     ]
   },
   {
@@ -308,7 +406,21 @@
       "vocab-reading-p5-003-10"
     ],
     "exerciseIds": [
-      "ex-reading-p5-003"
+      "ex-reading-p5-003-01",
+      "ex-reading-p5-003-02",
+      "ex-reading-p5-003-03",
+      "ex-reading-p5-003-04",
+      "ex-reading-p5-003-05",
+      "ex-reading-p5-003-06",
+      "ex-reading-p5-003-07",
+      "ex-reading-p5-003-08",
+      "ex-reading-p5-003-09",
+      "ex-reading-p5-003-10",
+      "ex-reading-p5-003-11",
+      "ex-reading-p5-003-12",
+      "ex-reading-p5-003-13",
+      "ex-reading-p5-003-14",
+      "ex-reading-p5-003-15"
     ]
   },
   {
@@ -346,7 +458,21 @@
       "vocab-writing-p5-001-10"
     ],
     "exerciseIds": [
-      "ex-writing-p5-001"
+      "ex-writing-p5-001-01",
+      "ex-writing-p5-001-02",
+      "ex-writing-p5-001-03",
+      "ex-writing-p5-001-04",
+      "ex-writing-p5-001-05",
+      "ex-writing-p5-001-06",
+      "ex-writing-p5-001-07",
+      "ex-writing-p5-001-08",
+      "ex-writing-p5-001-09",
+      "ex-writing-p5-001-10",
+      "ex-writing-p5-001-11",
+      "ex-writing-p5-001-12",
+      "ex-writing-p5-001-13",
+      "ex-writing-p5-001-14",
+      "ex-writing-p5-001-15"
     ]
   },
   {
@@ -384,7 +510,21 @@
       "vocab-writing-p5-002-10"
     ],
     "exerciseIds": [
-      "ex-writing-p5-002"
+      "ex-writing-p5-002-01",
+      "ex-writing-p5-002-02",
+      "ex-writing-p5-002-03",
+      "ex-writing-p5-002-04",
+      "ex-writing-p5-002-05",
+      "ex-writing-p5-002-06",
+      "ex-writing-p5-002-07",
+      "ex-writing-p5-002-08",
+      "ex-writing-p5-002-09",
+      "ex-writing-p5-002-10",
+      "ex-writing-p5-002-11",
+      "ex-writing-p5-002-12",
+      "ex-writing-p5-002-13",
+      "ex-writing-p5-002-14",
+      "ex-writing-p5-002-15"
     ]
   },
   {
@@ -430,7 +570,21 @@
       "vocab-conversation-p5-001-10"
     ],
     "exerciseIds": [
-      "ex-conv-p5-001"
+      "ex-conversation-p5-001-01",
+      "ex-conversation-p5-001-02",
+      "ex-conversation-p5-001-03",
+      "ex-conversation-p5-001-04",
+      "ex-conversation-p5-001-05",
+      "ex-conversation-p5-001-06",
+      "ex-conversation-p5-001-07",
+      "ex-conversation-p5-001-08",
+      "ex-conversation-p5-001-09",
+      "ex-conversation-p5-001-10",
+      "ex-conversation-p5-001-11",
+      "ex-conversation-p5-001-12",
+      "ex-conversation-p5-001-13",
+      "ex-conversation-p5-001-14",
+      "ex-conversation-p5-001-15"
     ]
   },
   {
@@ -476,7 +630,21 @@
       "vocab-conversation-p5-002-10"
     ],
     "exerciseIds": [
-      "ex-conv-p5-002"
+      "ex-conversation-p5-002-01",
+      "ex-conversation-p5-002-02",
+      "ex-conversation-p5-002-03",
+      "ex-conversation-p5-002-04",
+      "ex-conversation-p5-002-05",
+      "ex-conversation-p5-002-06",
+      "ex-conversation-p5-002-07",
+      "ex-conversation-p5-002-08",
+      "ex-conversation-p5-002-09",
+      "ex-conversation-p5-002-10",
+      "ex-conversation-p5-002-11",
+      "ex-conversation-p5-002-12",
+      "ex-conversation-p5-002-13",
+      "ex-conversation-p5-002-14",
+      "ex-conversation-p5-002-15"
     ]
   },
   {
@@ -518,7 +686,21 @@
       "vocab-grammar-p6-001-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p6-001"
+      "ex-grammar-p6-001-01",
+      "ex-grammar-p6-001-02",
+      "ex-grammar-p6-001-03",
+      "ex-grammar-p6-001-04",
+      "ex-grammar-p6-001-05",
+      "ex-grammar-p6-001-06",
+      "ex-grammar-p6-001-07",
+      "ex-grammar-p6-001-08",
+      "ex-grammar-p6-001-09",
+      "ex-grammar-p6-001-10",
+      "ex-grammar-p6-001-11",
+      "ex-grammar-p6-001-12",
+      "ex-grammar-p6-001-13",
+      "ex-grammar-p6-001-14",
+      "ex-grammar-p6-001-15"
     ]
   },
   {
@@ -560,7 +742,21 @@
       "vocab-grammar-p6-002-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p6-002"
+      "ex-grammar-p6-002-01",
+      "ex-grammar-p6-002-02",
+      "ex-grammar-p6-002-03",
+      "ex-grammar-p6-002-04",
+      "ex-grammar-p6-002-05",
+      "ex-grammar-p6-002-06",
+      "ex-grammar-p6-002-07",
+      "ex-grammar-p6-002-08",
+      "ex-grammar-p6-002-09",
+      "ex-grammar-p6-002-10",
+      "ex-grammar-p6-002-11",
+      "ex-grammar-p6-002-12",
+      "ex-grammar-p6-002-13",
+      "ex-grammar-p6-002-14",
+      "ex-grammar-p6-002-15"
     ]
   },
   {
@@ -602,7 +798,21 @@
       "vocab-grammar-p6-003-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p6-003"
+      "ex-grammar-p6-003-01",
+      "ex-grammar-p6-003-02",
+      "ex-grammar-p6-003-03",
+      "ex-grammar-p6-003-04",
+      "ex-grammar-p6-003-05",
+      "ex-grammar-p6-003-06",
+      "ex-grammar-p6-003-07",
+      "ex-grammar-p6-003-08",
+      "ex-grammar-p6-003-09",
+      "ex-grammar-p6-003-10",
+      "ex-grammar-p6-003-11",
+      "ex-grammar-p6-003-12",
+      "ex-grammar-p6-003-13",
+      "ex-grammar-p6-003-14",
+      "ex-grammar-p6-003-15"
     ]
   },
   {
@@ -644,7 +854,21 @@
       "vocab-grammar-p6-004-10"
     ],
     "exerciseIds": [
-      "ex-grammar-p6-004"
+      "ex-grammar-p6-004-01",
+      "ex-grammar-p6-004-02",
+      "ex-grammar-p6-004-03",
+      "ex-grammar-p6-004-04",
+      "ex-grammar-p6-004-05",
+      "ex-grammar-p6-004-06",
+      "ex-grammar-p6-004-07",
+      "ex-grammar-p6-004-08",
+      "ex-grammar-p6-004-09",
+      "ex-grammar-p6-004-10",
+      "ex-grammar-p6-004-11",
+      "ex-grammar-p6-004-12",
+      "ex-grammar-p6-004-13",
+      "ex-grammar-p6-004-14",
+      "ex-grammar-p6-004-15"
     ]
   },
   {
@@ -682,7 +906,21 @@
       "vocab-vocab-p6-001-10"
     ],
     "exerciseIds": [
-      "ex-vocab-p6-001"
+      "ex-vocab-p6-001-01",
+      "ex-vocab-p6-001-02",
+      "ex-vocab-p6-001-03",
+      "ex-vocab-p6-001-04",
+      "ex-vocab-p6-001-05",
+      "ex-vocab-p6-001-06",
+      "ex-vocab-p6-001-07",
+      "ex-vocab-p6-001-08",
+      "ex-vocab-p6-001-09",
+      "ex-vocab-p6-001-10",
+      "ex-vocab-p6-001-11",
+      "ex-vocab-p6-001-12",
+      "ex-vocab-p6-001-13",
+      "ex-vocab-p6-001-14",
+      "ex-vocab-p6-001-15"
     ]
   },
   {
@@ -720,7 +958,21 @@
       "vocab-vocab-p6-002-10"
     ],
     "exerciseIds": [
-      "ex-vocab-p6-002"
+      "ex-vocab-p6-002-01",
+      "ex-vocab-p6-002-02",
+      "ex-vocab-p6-002-03",
+      "ex-vocab-p6-002-04",
+      "ex-vocab-p6-002-05",
+      "ex-vocab-p6-002-06",
+      "ex-vocab-p6-002-07",
+      "ex-vocab-p6-002-08",
+      "ex-vocab-p6-002-09",
+      "ex-vocab-p6-002-10",
+      "ex-vocab-p6-002-11",
+      "ex-vocab-p6-002-12",
+      "ex-vocab-p6-002-13",
+      "ex-vocab-p6-002-14",
+      "ex-vocab-p6-002-15"
     ]
   },
   {
@@ -754,7 +1006,21 @@
       "vocab-reading-p6-001-10"
     ],
     "exerciseIds": [
-      "ex-reading-p6-001"
+      "ex-reading-p6-001-01",
+      "ex-reading-p6-001-02",
+      "ex-reading-p6-001-03",
+      "ex-reading-p6-001-04",
+      "ex-reading-p6-001-05",
+      "ex-reading-p6-001-06",
+      "ex-reading-p6-001-07",
+      "ex-reading-p6-001-08",
+      "ex-reading-p6-001-09",
+      "ex-reading-p6-001-10",
+      "ex-reading-p6-001-11",
+      "ex-reading-p6-001-12",
+      "ex-reading-p6-001-13",
+      "ex-reading-p6-001-14",
+      "ex-reading-p6-001-15"
     ]
   },
   {
@@ -788,7 +1054,21 @@
       "vocab-reading-p6-002-10"
     ],
     "exerciseIds": [
-      "ex-reading-p6-002"
+      "ex-reading-p6-002-01",
+      "ex-reading-p6-002-02",
+      "ex-reading-p6-002-03",
+      "ex-reading-p6-002-04",
+      "ex-reading-p6-002-05",
+      "ex-reading-p6-002-06",
+      "ex-reading-p6-002-07",
+      "ex-reading-p6-002-08",
+      "ex-reading-p6-002-09",
+      "ex-reading-p6-002-10",
+      "ex-reading-p6-002-11",
+      "ex-reading-p6-002-12",
+      "ex-reading-p6-002-13",
+      "ex-reading-p6-002-14",
+      "ex-reading-p6-002-15"
     ]
   },
   {
@@ -826,7 +1106,21 @@
       "vocab-writing-p6-001-10"
     ],
     "exerciseIds": [
-      "ex-writing-p6-001"
+      "ex-writing-p6-001-01",
+      "ex-writing-p6-001-02",
+      "ex-writing-p6-001-03",
+      "ex-writing-p6-001-04",
+      "ex-writing-p6-001-05",
+      "ex-writing-p6-001-06",
+      "ex-writing-p6-001-07",
+      "ex-writing-p6-001-08",
+      "ex-writing-p6-001-09",
+      "ex-writing-p6-001-10",
+      "ex-writing-p6-001-11",
+      "ex-writing-p6-001-12",
+      "ex-writing-p6-001-13",
+      "ex-writing-p6-001-14",
+      "ex-writing-p6-001-15"
     ]
   },
   {
@@ -864,7 +1158,21 @@
       "vocab-writing-p6-002-10"
     ],
     "exerciseIds": [
-      "ex-writing-p6-002"
+      "ex-writing-p6-002-01",
+      "ex-writing-p6-002-02",
+      "ex-writing-p6-002-03",
+      "ex-writing-p6-002-04",
+      "ex-writing-p6-002-05",
+      "ex-writing-p6-002-06",
+      "ex-writing-p6-002-07",
+      "ex-writing-p6-002-08",
+      "ex-writing-p6-002-09",
+      "ex-writing-p6-002-10",
+      "ex-writing-p6-002-11",
+      "ex-writing-p6-002-12",
+      "ex-writing-p6-002-13",
+      "ex-writing-p6-002-14",
+      "ex-writing-p6-002-15"
     ]
   },
   {
@@ -910,7 +1218,21 @@
       "vocab-conversation-p6-001-10"
     ],
     "exerciseIds": [
-      "ex-conv-p6-001"
+      "ex-conversation-p6-001-01",
+      "ex-conversation-p6-001-02",
+      "ex-conversation-p6-001-03",
+      "ex-conversation-p6-001-04",
+      "ex-conversation-p6-001-05",
+      "ex-conversation-p6-001-06",
+      "ex-conversation-p6-001-07",
+      "ex-conversation-p6-001-08",
+      "ex-conversation-p6-001-09",
+      "ex-conversation-p6-001-10",
+      "ex-conversation-p6-001-11",
+      "ex-conversation-p6-001-12",
+      "ex-conversation-p6-001-13",
+      "ex-conversation-p6-001-14",
+      "ex-conversation-p6-001-15"
     ]
   },
   {
@@ -956,7 +1278,21 @@
       "vocab-conversation-p6-002-10"
     ],
     "exerciseIds": [
-      "ex-conv-p6-002"
+      "ex-conversation-p6-002-01",
+      "ex-conversation-p6-002-02",
+      "ex-conversation-p6-002-03",
+      "ex-conversation-p6-002-04",
+      "ex-conversation-p6-002-05",
+      "ex-conversation-p6-002-06",
+      "ex-conversation-p6-002-07",
+      "ex-conversation-p6-002-08",
+      "ex-conversation-p6-002-09",
+      "ex-conversation-p6-002-10",
+      "ex-conversation-p6-002-11",
+      "ex-conversation-p6-002-12",
+      "ex-conversation-p6-002-13",
+      "ex-conversation-p6-002-14",
+      "ex-conversation-p6-002-15"
     ]
   },
   {
@@ -998,7 +1334,21 @@
       "vocab-grammar-m1-001-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m1-001"
+      "ex-grammar-m1-001-01",
+      "ex-grammar-m1-001-02",
+      "ex-grammar-m1-001-03",
+      "ex-grammar-m1-001-04",
+      "ex-grammar-m1-001-05",
+      "ex-grammar-m1-001-06",
+      "ex-grammar-m1-001-07",
+      "ex-grammar-m1-001-08",
+      "ex-grammar-m1-001-09",
+      "ex-grammar-m1-001-10",
+      "ex-grammar-m1-001-11",
+      "ex-grammar-m1-001-12",
+      "ex-grammar-m1-001-13",
+      "ex-grammar-m1-001-14",
+      "ex-grammar-m1-001-15"
     ]
   },
   {
@@ -1040,7 +1390,21 @@
       "vocab-grammar-m1-002-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m1-002"
+      "ex-grammar-m1-002-01",
+      "ex-grammar-m1-002-02",
+      "ex-grammar-m1-002-03",
+      "ex-grammar-m1-002-04",
+      "ex-grammar-m1-002-05",
+      "ex-grammar-m1-002-06",
+      "ex-grammar-m1-002-07",
+      "ex-grammar-m1-002-08",
+      "ex-grammar-m1-002-09",
+      "ex-grammar-m1-002-10",
+      "ex-grammar-m1-002-11",
+      "ex-grammar-m1-002-12",
+      "ex-grammar-m1-002-13",
+      "ex-grammar-m1-002-14",
+      "ex-grammar-m1-002-15"
     ]
   },
   {
@@ -1082,7 +1446,21 @@
       "vocab-grammar-m1-003-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m1-003"
+      "ex-grammar-m1-003-01",
+      "ex-grammar-m1-003-02",
+      "ex-grammar-m1-003-03",
+      "ex-grammar-m1-003-04",
+      "ex-grammar-m1-003-05",
+      "ex-grammar-m1-003-06",
+      "ex-grammar-m1-003-07",
+      "ex-grammar-m1-003-08",
+      "ex-grammar-m1-003-09",
+      "ex-grammar-m1-003-10",
+      "ex-grammar-m1-003-11",
+      "ex-grammar-m1-003-12",
+      "ex-grammar-m1-003-13",
+      "ex-grammar-m1-003-14",
+      "ex-grammar-m1-003-15"
     ]
   },
   {
@@ -1124,7 +1502,21 @@
       "vocab-grammar-m1-004-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m1-004"
+      "ex-grammar-m1-004-01",
+      "ex-grammar-m1-004-02",
+      "ex-grammar-m1-004-03",
+      "ex-grammar-m1-004-04",
+      "ex-grammar-m1-004-05",
+      "ex-grammar-m1-004-06",
+      "ex-grammar-m1-004-07",
+      "ex-grammar-m1-004-08",
+      "ex-grammar-m1-004-09",
+      "ex-grammar-m1-004-10",
+      "ex-grammar-m1-004-11",
+      "ex-grammar-m1-004-12",
+      "ex-grammar-m1-004-13",
+      "ex-grammar-m1-004-14",
+      "ex-grammar-m1-004-15"
     ]
   },
   {
@@ -1162,7 +1554,21 @@
       "vocab-vocab-m1-001-10"
     ],
     "exerciseIds": [
-      "ex-vocab-m1-001"
+      "ex-vocab-m1-001-01",
+      "ex-vocab-m1-001-02",
+      "ex-vocab-m1-001-03",
+      "ex-vocab-m1-001-04",
+      "ex-vocab-m1-001-05",
+      "ex-vocab-m1-001-06",
+      "ex-vocab-m1-001-07",
+      "ex-vocab-m1-001-08",
+      "ex-vocab-m1-001-09",
+      "ex-vocab-m1-001-10",
+      "ex-vocab-m1-001-11",
+      "ex-vocab-m1-001-12",
+      "ex-vocab-m1-001-13",
+      "ex-vocab-m1-001-14",
+      "ex-vocab-m1-001-15"
     ]
   },
   {
@@ -1200,7 +1606,21 @@
       "vocab-vocab-m1-002-10"
     ],
     "exerciseIds": [
-      "ex-vocab-m1-002"
+      "ex-vocab-m1-002-01",
+      "ex-vocab-m1-002-02",
+      "ex-vocab-m1-002-03",
+      "ex-vocab-m1-002-04",
+      "ex-vocab-m1-002-05",
+      "ex-vocab-m1-002-06",
+      "ex-vocab-m1-002-07",
+      "ex-vocab-m1-002-08",
+      "ex-vocab-m1-002-09",
+      "ex-vocab-m1-002-10",
+      "ex-vocab-m1-002-11",
+      "ex-vocab-m1-002-12",
+      "ex-vocab-m1-002-13",
+      "ex-vocab-m1-002-14",
+      "ex-vocab-m1-002-15"
     ]
   },
   {
@@ -1234,7 +1654,21 @@
       "vocab-reading-m1-001-10"
     ],
     "exerciseIds": [
-      "ex-reading-m1-001"
+      "ex-reading-m1-001-01",
+      "ex-reading-m1-001-02",
+      "ex-reading-m1-001-03",
+      "ex-reading-m1-001-04",
+      "ex-reading-m1-001-05",
+      "ex-reading-m1-001-06",
+      "ex-reading-m1-001-07",
+      "ex-reading-m1-001-08",
+      "ex-reading-m1-001-09",
+      "ex-reading-m1-001-10",
+      "ex-reading-m1-001-11",
+      "ex-reading-m1-001-12",
+      "ex-reading-m1-001-13",
+      "ex-reading-m1-001-14",
+      "ex-reading-m1-001-15"
     ]
   },
   {
@@ -1268,7 +1702,21 @@
       "vocab-reading-m1-002-10"
     ],
     "exerciseIds": [
-      "ex-reading-m1-002"
+      "ex-reading-m1-002-01",
+      "ex-reading-m1-002-02",
+      "ex-reading-m1-002-03",
+      "ex-reading-m1-002-04",
+      "ex-reading-m1-002-05",
+      "ex-reading-m1-002-06",
+      "ex-reading-m1-002-07",
+      "ex-reading-m1-002-08",
+      "ex-reading-m1-002-09",
+      "ex-reading-m1-002-10",
+      "ex-reading-m1-002-11",
+      "ex-reading-m1-002-12",
+      "ex-reading-m1-002-13",
+      "ex-reading-m1-002-14",
+      "ex-reading-m1-002-15"
     ]
   },
   {
@@ -1306,7 +1754,21 @@
       "vocab-writing-m1-001-10"
     ],
     "exerciseIds": [
-      "ex-writing-m1-001"
+      "ex-writing-m1-001-01",
+      "ex-writing-m1-001-02",
+      "ex-writing-m1-001-03",
+      "ex-writing-m1-001-04",
+      "ex-writing-m1-001-05",
+      "ex-writing-m1-001-06",
+      "ex-writing-m1-001-07",
+      "ex-writing-m1-001-08",
+      "ex-writing-m1-001-09",
+      "ex-writing-m1-001-10",
+      "ex-writing-m1-001-11",
+      "ex-writing-m1-001-12",
+      "ex-writing-m1-001-13",
+      "ex-writing-m1-001-14",
+      "ex-writing-m1-001-15"
     ]
   },
   {
@@ -1344,7 +1806,21 @@
       "vocab-writing-m1-002-10"
     ],
     "exerciseIds": [
-      "ex-writing-m1-002"
+      "ex-writing-m1-002-01",
+      "ex-writing-m1-002-02",
+      "ex-writing-m1-002-03",
+      "ex-writing-m1-002-04",
+      "ex-writing-m1-002-05",
+      "ex-writing-m1-002-06",
+      "ex-writing-m1-002-07",
+      "ex-writing-m1-002-08",
+      "ex-writing-m1-002-09",
+      "ex-writing-m1-002-10",
+      "ex-writing-m1-002-11",
+      "ex-writing-m1-002-12",
+      "ex-writing-m1-002-13",
+      "ex-writing-m1-002-14",
+      "ex-writing-m1-002-15"
     ]
   },
   {
@@ -1390,7 +1866,21 @@
       "vocab-conversation-m1-001-10"
     ],
     "exerciseIds": [
-      "ex-conv-m1-001"
+      "ex-conversation-m1-001-01",
+      "ex-conversation-m1-001-02",
+      "ex-conversation-m1-001-03",
+      "ex-conversation-m1-001-04",
+      "ex-conversation-m1-001-05",
+      "ex-conversation-m1-001-06",
+      "ex-conversation-m1-001-07",
+      "ex-conversation-m1-001-08",
+      "ex-conversation-m1-001-09",
+      "ex-conversation-m1-001-10",
+      "ex-conversation-m1-001-11",
+      "ex-conversation-m1-001-12",
+      "ex-conversation-m1-001-13",
+      "ex-conversation-m1-001-14",
+      "ex-conversation-m1-001-15"
     ]
   },
   {
@@ -1436,7 +1926,21 @@
       "vocab-conversation-m1-002-10"
     ],
     "exerciseIds": [
-      "ex-conv-m1-002"
+      "ex-conversation-m1-002-01",
+      "ex-conversation-m1-002-02",
+      "ex-conversation-m1-002-03",
+      "ex-conversation-m1-002-04",
+      "ex-conversation-m1-002-05",
+      "ex-conversation-m1-002-06",
+      "ex-conversation-m1-002-07",
+      "ex-conversation-m1-002-08",
+      "ex-conversation-m1-002-09",
+      "ex-conversation-m1-002-10",
+      "ex-conversation-m1-002-11",
+      "ex-conversation-m1-002-12",
+      "ex-conversation-m1-002-13",
+      "ex-conversation-m1-002-14",
+      "ex-conversation-m1-002-15"
     ]
   },
   {
@@ -1478,7 +1982,21 @@
       "vocab-grammar-m2-001-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m2-001"
+      "ex-grammar-m2-001-01",
+      "ex-grammar-m2-001-02",
+      "ex-grammar-m2-001-03",
+      "ex-grammar-m2-001-04",
+      "ex-grammar-m2-001-05",
+      "ex-grammar-m2-001-06",
+      "ex-grammar-m2-001-07",
+      "ex-grammar-m2-001-08",
+      "ex-grammar-m2-001-09",
+      "ex-grammar-m2-001-10",
+      "ex-grammar-m2-001-11",
+      "ex-grammar-m2-001-12",
+      "ex-grammar-m2-001-13",
+      "ex-grammar-m2-001-14",
+      "ex-grammar-m2-001-15"
     ]
   },
   {
@@ -1520,7 +2038,21 @@
       "vocab-grammar-m2-002-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m2-002"
+      "ex-grammar-m2-002-01",
+      "ex-grammar-m2-002-02",
+      "ex-grammar-m2-002-03",
+      "ex-grammar-m2-002-04",
+      "ex-grammar-m2-002-05",
+      "ex-grammar-m2-002-06",
+      "ex-grammar-m2-002-07",
+      "ex-grammar-m2-002-08",
+      "ex-grammar-m2-002-09",
+      "ex-grammar-m2-002-10",
+      "ex-grammar-m2-002-11",
+      "ex-grammar-m2-002-12",
+      "ex-grammar-m2-002-13",
+      "ex-grammar-m2-002-14",
+      "ex-grammar-m2-002-15"
     ]
   },
   {
@@ -1562,7 +2094,21 @@
       "vocab-grammar-m2-003-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m2-003"
+      "ex-grammar-m2-003-01",
+      "ex-grammar-m2-003-02",
+      "ex-grammar-m2-003-03",
+      "ex-grammar-m2-003-04",
+      "ex-grammar-m2-003-05",
+      "ex-grammar-m2-003-06",
+      "ex-grammar-m2-003-07",
+      "ex-grammar-m2-003-08",
+      "ex-grammar-m2-003-09",
+      "ex-grammar-m2-003-10",
+      "ex-grammar-m2-003-11",
+      "ex-grammar-m2-003-12",
+      "ex-grammar-m2-003-13",
+      "ex-grammar-m2-003-14",
+      "ex-grammar-m2-003-15"
     ]
   },
   {
@@ -1604,7 +2150,21 @@
       "vocab-grammar-m2-004-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m2-004"
+      "ex-grammar-m2-004-01",
+      "ex-grammar-m2-004-02",
+      "ex-grammar-m2-004-03",
+      "ex-grammar-m2-004-04",
+      "ex-grammar-m2-004-05",
+      "ex-grammar-m2-004-06",
+      "ex-grammar-m2-004-07",
+      "ex-grammar-m2-004-08",
+      "ex-grammar-m2-004-09",
+      "ex-grammar-m2-004-10",
+      "ex-grammar-m2-004-11",
+      "ex-grammar-m2-004-12",
+      "ex-grammar-m2-004-13",
+      "ex-grammar-m2-004-14",
+      "ex-grammar-m2-004-15"
     ]
   },
   {
@@ -1642,7 +2202,21 @@
       "vocab-vocab-m2-001-10"
     ],
     "exerciseIds": [
-      "ex-vocab-m2-001"
+      "ex-vocab-m2-001-01",
+      "ex-vocab-m2-001-02",
+      "ex-vocab-m2-001-03",
+      "ex-vocab-m2-001-04",
+      "ex-vocab-m2-001-05",
+      "ex-vocab-m2-001-06",
+      "ex-vocab-m2-001-07",
+      "ex-vocab-m2-001-08",
+      "ex-vocab-m2-001-09",
+      "ex-vocab-m2-001-10",
+      "ex-vocab-m2-001-11",
+      "ex-vocab-m2-001-12",
+      "ex-vocab-m2-001-13",
+      "ex-vocab-m2-001-14",
+      "ex-vocab-m2-001-15"
     ]
   },
   {
@@ -1680,7 +2254,21 @@
       "vocab-vocab-m2-002-10"
     ],
     "exerciseIds": [
-      "ex-vocab-m2-002"
+      "ex-vocab-m2-002-01",
+      "ex-vocab-m2-002-02",
+      "ex-vocab-m2-002-03",
+      "ex-vocab-m2-002-04",
+      "ex-vocab-m2-002-05",
+      "ex-vocab-m2-002-06",
+      "ex-vocab-m2-002-07",
+      "ex-vocab-m2-002-08",
+      "ex-vocab-m2-002-09",
+      "ex-vocab-m2-002-10",
+      "ex-vocab-m2-002-11",
+      "ex-vocab-m2-002-12",
+      "ex-vocab-m2-002-13",
+      "ex-vocab-m2-002-14",
+      "ex-vocab-m2-002-15"
     ]
   },
   {
@@ -1714,7 +2302,21 @@
       "vocab-reading-m2-001-10"
     ],
     "exerciseIds": [
-      "ex-reading-m2-001"
+      "ex-reading-m2-001-01",
+      "ex-reading-m2-001-02",
+      "ex-reading-m2-001-03",
+      "ex-reading-m2-001-04",
+      "ex-reading-m2-001-05",
+      "ex-reading-m2-001-06",
+      "ex-reading-m2-001-07",
+      "ex-reading-m2-001-08",
+      "ex-reading-m2-001-09",
+      "ex-reading-m2-001-10",
+      "ex-reading-m2-001-11",
+      "ex-reading-m2-001-12",
+      "ex-reading-m2-001-13",
+      "ex-reading-m2-001-14",
+      "ex-reading-m2-001-15"
     ]
   },
   {
@@ -1748,7 +2350,21 @@
       "vocab-reading-m2-002-10"
     ],
     "exerciseIds": [
-      "ex-reading-m2-002"
+      "ex-reading-m2-002-01",
+      "ex-reading-m2-002-02",
+      "ex-reading-m2-002-03",
+      "ex-reading-m2-002-04",
+      "ex-reading-m2-002-05",
+      "ex-reading-m2-002-06",
+      "ex-reading-m2-002-07",
+      "ex-reading-m2-002-08",
+      "ex-reading-m2-002-09",
+      "ex-reading-m2-002-10",
+      "ex-reading-m2-002-11",
+      "ex-reading-m2-002-12",
+      "ex-reading-m2-002-13",
+      "ex-reading-m2-002-14",
+      "ex-reading-m2-002-15"
     ]
   },
   {
@@ -1786,7 +2402,21 @@
       "vocab-writing-m2-001-10"
     ],
     "exerciseIds": [
-      "ex-writing-m2-001"
+      "ex-writing-m2-001-01",
+      "ex-writing-m2-001-02",
+      "ex-writing-m2-001-03",
+      "ex-writing-m2-001-04",
+      "ex-writing-m2-001-05",
+      "ex-writing-m2-001-06",
+      "ex-writing-m2-001-07",
+      "ex-writing-m2-001-08",
+      "ex-writing-m2-001-09",
+      "ex-writing-m2-001-10",
+      "ex-writing-m2-001-11",
+      "ex-writing-m2-001-12",
+      "ex-writing-m2-001-13",
+      "ex-writing-m2-001-14",
+      "ex-writing-m2-001-15"
     ]
   },
   {
@@ -1824,7 +2454,21 @@
       "vocab-writing-m2-002-10"
     ],
     "exerciseIds": [
-      "ex-writing-m2-002"
+      "ex-writing-m2-002-01",
+      "ex-writing-m2-002-02",
+      "ex-writing-m2-002-03",
+      "ex-writing-m2-002-04",
+      "ex-writing-m2-002-05",
+      "ex-writing-m2-002-06",
+      "ex-writing-m2-002-07",
+      "ex-writing-m2-002-08",
+      "ex-writing-m2-002-09",
+      "ex-writing-m2-002-10",
+      "ex-writing-m2-002-11",
+      "ex-writing-m2-002-12",
+      "ex-writing-m2-002-13",
+      "ex-writing-m2-002-14",
+      "ex-writing-m2-002-15"
     ]
   },
   {
@@ -1870,7 +2514,21 @@
       "vocab-conversation-m2-001-10"
     ],
     "exerciseIds": [
-      "ex-conv-m2-001"
+      "ex-conversation-m2-001-01",
+      "ex-conversation-m2-001-02",
+      "ex-conversation-m2-001-03",
+      "ex-conversation-m2-001-04",
+      "ex-conversation-m2-001-05",
+      "ex-conversation-m2-001-06",
+      "ex-conversation-m2-001-07",
+      "ex-conversation-m2-001-08",
+      "ex-conversation-m2-001-09",
+      "ex-conversation-m2-001-10",
+      "ex-conversation-m2-001-11",
+      "ex-conversation-m2-001-12",
+      "ex-conversation-m2-001-13",
+      "ex-conversation-m2-001-14",
+      "ex-conversation-m2-001-15"
     ]
   },
   {
@@ -1916,7 +2574,21 @@
       "vocab-conversation-m2-002-10"
     ],
     "exerciseIds": [
-      "ex-conv-m2-002"
+      "ex-conversation-m2-002-01",
+      "ex-conversation-m2-002-02",
+      "ex-conversation-m2-002-03",
+      "ex-conversation-m2-002-04",
+      "ex-conversation-m2-002-05",
+      "ex-conversation-m2-002-06",
+      "ex-conversation-m2-002-07",
+      "ex-conversation-m2-002-08",
+      "ex-conversation-m2-002-09",
+      "ex-conversation-m2-002-10",
+      "ex-conversation-m2-002-11",
+      "ex-conversation-m2-002-12",
+      "ex-conversation-m2-002-13",
+      "ex-conversation-m2-002-14",
+      "ex-conversation-m2-002-15"
     ]
   },
   {
@@ -1958,7 +2630,21 @@
       "vocab-grammar-m3-001-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m3-001"
+      "ex-grammar-m3-001-01",
+      "ex-grammar-m3-001-02",
+      "ex-grammar-m3-001-03",
+      "ex-grammar-m3-001-04",
+      "ex-grammar-m3-001-05",
+      "ex-grammar-m3-001-06",
+      "ex-grammar-m3-001-07",
+      "ex-grammar-m3-001-08",
+      "ex-grammar-m3-001-09",
+      "ex-grammar-m3-001-10",
+      "ex-grammar-m3-001-11",
+      "ex-grammar-m3-001-12",
+      "ex-grammar-m3-001-13",
+      "ex-grammar-m3-001-14",
+      "ex-grammar-m3-001-15"
     ]
   },
   {
@@ -2000,7 +2686,21 @@
       "vocab-grammar-m3-002-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m3-002"
+      "ex-grammar-m3-002-01",
+      "ex-grammar-m3-002-02",
+      "ex-grammar-m3-002-03",
+      "ex-grammar-m3-002-04",
+      "ex-grammar-m3-002-05",
+      "ex-grammar-m3-002-06",
+      "ex-grammar-m3-002-07",
+      "ex-grammar-m3-002-08",
+      "ex-grammar-m3-002-09",
+      "ex-grammar-m3-002-10",
+      "ex-grammar-m3-002-11",
+      "ex-grammar-m3-002-12",
+      "ex-grammar-m3-002-13",
+      "ex-grammar-m3-002-14",
+      "ex-grammar-m3-002-15"
     ]
   },
   {
@@ -2042,7 +2742,21 @@
       "vocab-grammar-m3-003-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m3-003"
+      "ex-grammar-m3-003-01",
+      "ex-grammar-m3-003-02",
+      "ex-grammar-m3-003-03",
+      "ex-grammar-m3-003-04",
+      "ex-grammar-m3-003-05",
+      "ex-grammar-m3-003-06",
+      "ex-grammar-m3-003-07",
+      "ex-grammar-m3-003-08",
+      "ex-grammar-m3-003-09",
+      "ex-grammar-m3-003-10",
+      "ex-grammar-m3-003-11",
+      "ex-grammar-m3-003-12",
+      "ex-grammar-m3-003-13",
+      "ex-grammar-m3-003-14",
+      "ex-grammar-m3-003-15"
     ]
   },
   {
@@ -2084,7 +2798,21 @@
       "vocab-grammar-m3-004-10"
     ],
     "exerciseIds": [
-      "ex-grammar-m3-004"
+      "ex-grammar-m3-004-01",
+      "ex-grammar-m3-004-02",
+      "ex-grammar-m3-004-03",
+      "ex-grammar-m3-004-04",
+      "ex-grammar-m3-004-05",
+      "ex-grammar-m3-004-06",
+      "ex-grammar-m3-004-07",
+      "ex-grammar-m3-004-08",
+      "ex-grammar-m3-004-09",
+      "ex-grammar-m3-004-10",
+      "ex-grammar-m3-004-11",
+      "ex-grammar-m3-004-12",
+      "ex-grammar-m3-004-13",
+      "ex-grammar-m3-004-14",
+      "ex-grammar-m3-004-15"
     ]
   },
   {
@@ -2122,7 +2850,21 @@
       "vocab-vocab-m3-001-10"
     ],
     "exerciseIds": [
-      "ex-vocab-m3-001"
+      "ex-vocab-m3-001-01",
+      "ex-vocab-m3-001-02",
+      "ex-vocab-m3-001-03",
+      "ex-vocab-m3-001-04",
+      "ex-vocab-m3-001-05",
+      "ex-vocab-m3-001-06",
+      "ex-vocab-m3-001-07",
+      "ex-vocab-m3-001-08",
+      "ex-vocab-m3-001-09",
+      "ex-vocab-m3-001-10",
+      "ex-vocab-m3-001-11",
+      "ex-vocab-m3-001-12",
+      "ex-vocab-m3-001-13",
+      "ex-vocab-m3-001-14",
+      "ex-vocab-m3-001-15"
     ]
   },
   {
@@ -2160,7 +2902,21 @@
       "vocab-vocab-m3-002-10"
     ],
     "exerciseIds": [
-      "ex-vocab-m3-002"
+      "ex-vocab-m3-002-01",
+      "ex-vocab-m3-002-02",
+      "ex-vocab-m3-002-03",
+      "ex-vocab-m3-002-04",
+      "ex-vocab-m3-002-05",
+      "ex-vocab-m3-002-06",
+      "ex-vocab-m3-002-07",
+      "ex-vocab-m3-002-08",
+      "ex-vocab-m3-002-09",
+      "ex-vocab-m3-002-10",
+      "ex-vocab-m3-002-11",
+      "ex-vocab-m3-002-12",
+      "ex-vocab-m3-002-13",
+      "ex-vocab-m3-002-14",
+      "ex-vocab-m3-002-15"
     ]
   },
   {
@@ -2194,7 +2950,21 @@
       "vocab-reading-m3-001-10"
     ],
     "exerciseIds": [
-      "ex-reading-m3-001"
+      "ex-reading-m3-001-01",
+      "ex-reading-m3-001-02",
+      "ex-reading-m3-001-03",
+      "ex-reading-m3-001-04",
+      "ex-reading-m3-001-05",
+      "ex-reading-m3-001-06",
+      "ex-reading-m3-001-07",
+      "ex-reading-m3-001-08",
+      "ex-reading-m3-001-09",
+      "ex-reading-m3-001-10",
+      "ex-reading-m3-001-11",
+      "ex-reading-m3-001-12",
+      "ex-reading-m3-001-13",
+      "ex-reading-m3-001-14",
+      "ex-reading-m3-001-15"
     ]
   },
   {
@@ -2228,7 +2998,21 @@
       "vocab-reading-m3-002-10"
     ],
     "exerciseIds": [
-      "ex-reading-m3-002"
+      "ex-reading-m3-002-01",
+      "ex-reading-m3-002-02",
+      "ex-reading-m3-002-03",
+      "ex-reading-m3-002-04",
+      "ex-reading-m3-002-05",
+      "ex-reading-m3-002-06",
+      "ex-reading-m3-002-07",
+      "ex-reading-m3-002-08",
+      "ex-reading-m3-002-09",
+      "ex-reading-m3-002-10",
+      "ex-reading-m3-002-11",
+      "ex-reading-m3-002-12",
+      "ex-reading-m3-002-13",
+      "ex-reading-m3-002-14",
+      "ex-reading-m3-002-15"
     ]
   },
   {
@@ -2266,7 +3050,21 @@
       "vocab-writing-m3-001-10"
     ],
     "exerciseIds": [
-      "ex-writing-m3-001"
+      "ex-writing-m3-001-01",
+      "ex-writing-m3-001-02",
+      "ex-writing-m3-001-03",
+      "ex-writing-m3-001-04",
+      "ex-writing-m3-001-05",
+      "ex-writing-m3-001-06",
+      "ex-writing-m3-001-07",
+      "ex-writing-m3-001-08",
+      "ex-writing-m3-001-09",
+      "ex-writing-m3-001-10",
+      "ex-writing-m3-001-11",
+      "ex-writing-m3-001-12",
+      "ex-writing-m3-001-13",
+      "ex-writing-m3-001-14",
+      "ex-writing-m3-001-15"
     ]
   },
   {
@@ -2304,7 +3102,21 @@
       "vocab-writing-m3-002-10"
     ],
     "exerciseIds": [
-      "ex-writing-m3-002"
+      "ex-writing-m3-002-01",
+      "ex-writing-m3-002-02",
+      "ex-writing-m3-002-03",
+      "ex-writing-m3-002-04",
+      "ex-writing-m3-002-05",
+      "ex-writing-m3-002-06",
+      "ex-writing-m3-002-07",
+      "ex-writing-m3-002-08",
+      "ex-writing-m3-002-09",
+      "ex-writing-m3-002-10",
+      "ex-writing-m3-002-11",
+      "ex-writing-m3-002-12",
+      "ex-writing-m3-002-13",
+      "ex-writing-m3-002-14",
+      "ex-writing-m3-002-15"
     ]
   },
   {
@@ -2350,7 +3162,21 @@
       "vocab-conversation-m3-001-10"
     ],
     "exerciseIds": [
-      "ex-conv-m3-001"
+      "ex-conversation-m3-001-01",
+      "ex-conversation-m3-001-02",
+      "ex-conversation-m3-001-03",
+      "ex-conversation-m3-001-04",
+      "ex-conversation-m3-001-05",
+      "ex-conversation-m3-001-06",
+      "ex-conversation-m3-001-07",
+      "ex-conversation-m3-001-08",
+      "ex-conversation-m3-001-09",
+      "ex-conversation-m3-001-10",
+      "ex-conversation-m3-001-11",
+      "ex-conversation-m3-001-12",
+      "ex-conversation-m3-001-13",
+      "ex-conversation-m3-001-14",
+      "ex-conversation-m3-001-15"
     ]
   },
   {
@@ -2396,7 +3222,21 @@
       "vocab-conversation-m3-002-10"
     ],
     "exerciseIds": [
-      "ex-conv-m3-002"
+      "ex-conversation-m3-002-01",
+      "ex-conversation-m3-002-02",
+      "ex-conversation-m3-002-03",
+      "ex-conversation-m3-002-04",
+      "ex-conversation-m3-002-05",
+      "ex-conversation-m3-002-06",
+      "ex-conversation-m3-002-07",
+      "ex-conversation-m3-002-08",
+      "ex-conversation-m3-002-09",
+      "ex-conversation-m3-002-10",
+      "ex-conversation-m3-002-11",
+      "ex-conversation-m3-002-12",
+      "ex-conversation-m3-002-13",
+      "ex-conversation-m3-002-14",
+      "ex-conversation-m3-002-15"
     ]
   }
 ]
