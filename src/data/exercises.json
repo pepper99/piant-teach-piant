@@ -1,0 +1,542 @@
+[
+  {
+    "id": "ex-grammar-p5-001",
+    "lessonId": "grammar-p5-001",
+    "type": "multiple-choice",
+    "question": "Choose the correct Present Simple sentence.",
+    "options": ["She go to school every day.", "She goes to school every day.", "She going to school every day.", "She went to school every day."],
+    "correctAnswer": "She goes to school every day.",
+    "explanation": "Present Simple ใช้กับกิจวัตรประจำวัน เมื่อประธานเป็น He/She/It ต้องเติม s ที่กริยา"
+  },
+  {
+    "id": "ex-grammar-p5-002",
+    "lessonId": "grammar-p5-002",
+    "type": "fill-blank",
+    "question": "Fill in: They ________ (play) football in the park right now.",
+    "options": [],
+    "correctAnswer": "are playing",
+    "explanation": "Present Continuous: They + are + playing"
+  },
+  {
+    "id": "ex-grammar-p5-003",
+    "lessonId": "grammar-p5-003",
+    "type": "multiple-choice",
+    "question": "I saw _____ elephant at the zoo.",
+    "options": ["a", "an", "the", "no article"],
+    "correctAnswer": "an",
+    "explanation": "ใช้ an นำหน้าคำนามที่ขึ้นต้นด้วยเสียงสระ elephant"
+  },
+  {
+    "id": "ex-grammar-p5-004",
+    "lessonId": "grammar-p5-004",
+    "type": "fill-blank",
+    "question": "Fill in: One child, two ________.",
+    "options": [],
+    "correctAnswer": "children",
+    "explanation": "child → children (เปลี่ยนรูปไม่ปกติ)"
+  },
+  {
+    "id": "ex-vocab-p5-002",
+    "lessonId": "vocab-p5-002",
+    "type": "fill-blank",
+    "question": "Fill in: I drink a glass of ________ (นม) every morning.",
+    "options": [],
+    "correctAnswer": "milk",
+    "explanation": "นม = milk"
+  },
+  {
+    "id": "ex-vocab-p5-003",
+    "lessonId": "vocab-p5-003",
+    "type": "multiple-choice",
+    "question": "Which animal is 'ช้าง' in English?",
+    "options": ["tiger", "lion", "elephant", "monkey"],
+    "correctAnswer": "elephant",
+    "explanation": "ช้าง = elephant"
+  },
+  {
+    "id": "ex-reading-p5-002",
+    "lessonId": "reading-p5-002",
+    "type": "fill-blank",
+    "question": "Fill in from 'My School': I go to school from Monday to ________.",
+    "options": [],
+    "correctAnswer": "Friday",
+    "explanation": "จากบทความ 'Monday to Friday'"
+  },
+  {
+    "id": "ex-reading-p5-003",
+    "lessonId": "reading-p5-003",
+    "type": "multiple-choice",
+    "question": "In 'My Family', what does Nong Ann's father do?",
+    "options": ["He is a nurse.", "He is a teacher.", "He is a doctor.", "He is a driver."],
+    "correctAnswer": "He is a teacher.",
+    "explanation": "จากบทความ 'My father is a teacher.'"
+  },
+  {
+    "id": "ex-writing-p5-001",
+    "lessonId": "writing-p5-001",
+    "type": "writing",
+    "question": "Write 4 sentences about your daily routine using Present Simple Tense.",
+    "options": [],
+    "correctAnswer": "I wake up at 6 o'clock. I brush my teeth. I eat breakfast. I go to school.",
+    "explanation": "ใช้ Present Simple บรรยายกิจวัตร อย่าลืมเติม s เมื่อประธานเป็น He/She/It"
+  },
+  {
+    "id": "ex-writing-p5-002",
+    "lessonId": "writing-p5-002",
+    "type": "writing",
+    "question": "Describe your pet in 4-5 sentences.",
+    "options": [],
+    "correctAnswer": "I have a pet cat. Her name is Snow. She is white and fluffy. She likes to play with a ball.",
+    "explanation": "ใช้คำคุณศัพท์บอกลักษณะ และใช้ Present Simple บอกกิจวัตรของสัตว์เลี้ยง"
+  },
+  {
+    "id": "ex-conv-p5-001",
+    "lessonId": "conversation-p5-001",
+    "type": "fill-blank",
+    "question": "Fill in: A: Nice to meet you. B: Nice to meet you ________.",
+    "options": [],
+    "correctAnswer": "too",
+    "explanation": "too = เช่นกัน"
+  },
+  {
+    "id": "ex-conv-p5-002",
+    "lessonId": "conversation-p5-002",
+    "type": "multiple-choice",
+    "question": "How do you ask about someone's favorite food?",
+    "options": ["What is your name?", "How old are you?", "What is your favorite food?", "Where do you live?"],
+    "correctAnswer": "What is your favorite food?",
+    "explanation": "ใช้ 'What is your favorite food?'"
+  },
+  {
+    "id": "ex-grammar-p6-001",
+    "lessonId": "grammar-p6-001",
+    "type": "fill-blank",
+    "question": "Fill in with Past Simple: She ________ (go) to the beach yesterday.",
+    "options": [],
+    "correctAnswer": "went",
+    "explanation": "go → went (Verb ช่อง 2)"
+  },
+  {
+    "id": "ex-grammar-p6-002",
+    "lessonId": "grammar-p6-002",
+    "type": "multiple-choice",
+    "question": "Choose the correct future sentence.",
+    "options": ["She will help you with your homework.", "She helps you with your homework.", "She helped you with your homework.", "She is helping you with your homework."],
+    "correctAnswer": "She will help you with your homework.",
+    "explanation": "Future Simple ใช้ will + Verb ช่อง 1"
+  },
+  {
+    "id": "ex-grammar-p6-003",
+    "lessonId": "grammar-p6-003",
+    "type": "fill-blank",
+    "question": "Fill in: A car is ________ (fast) than a bicycle.",
+    "options": [],
+    "correctAnswer": "faster",
+    "explanation": "fast → faster (เติม er)"
+  },
+  {
+    "id": "ex-grammar-p6-004",
+    "lessonId": "grammar-p6-004",
+    "type": "multiple-choice",
+    "question": "Which is correct? There _____ many students in the classroom.",
+    "options": ["is", "are", "am", "be"],
+    "correctAnswer": "are",
+    "explanation": "ใช้ 'There are' กับนามพหูพจน์"
+  },
+  {
+    "id": "ex-vocab-p6-001",
+    "lessonId": "vocab-p6-001",
+    "type": "multiple-choice",
+    "question": "What does 'sunny' mean in Thai?",
+    "options": ["ฝนตก", "เมฆมาก", "แดดออก", "ลมแรง"],
+    "correctAnswer": "แดดออก",
+    "explanation": "sunny = แดดออก"
+  },
+  {
+    "id": "ex-vocab-p6-002",
+    "lessonId": "vocab-p6-002",
+    "type": "multiple-choice",
+    "question": "Which word means 'กางเกง' in English?",
+    "options": ["shirt", "skirt", "pants", "dress"],
+    "correctAnswer": "pants",
+    "explanation": "pants = กางเกง"
+  },
+  {
+    "id": "ex-reading-p6-001",
+    "lessonId": "reading-p6-001",
+    "type": "multiple-choice",
+    "question": "In 'My Last Holiday', where did the family stay?",
+    "options": ["At a resort", "At a hotel near the beach", "At a friend's house", "At a campsite"],
+    "correctAnswer": "At a hotel near the beach",
+    "explanation": "จาก 'We stayed at a hotel near the beach.'"
+  },
+  {
+    "id": "ex-reading-p6-002",
+    "lessonId": "reading-p6-002",
+    "type": "multiple-choice",
+    "question": "In 'A Letter to a Friend', what is coming next month?",
+    "options": ["A sports day", "A school fair", "A final exam", "A field trip"],
+    "correctAnswer": "A school fair",
+    "explanation": "จาก 'We have a school fair next month.'"
+  },
+  {
+    "id": "ex-writing-p6-001",
+    "lessonId": "writing-p6-001",
+    "type": "writing",
+    "question": "Write 5 sentences about what you did last weekend using Past Simple Tense.",
+    "options": [],
+    "correctAnswer": "Last weekend, I went to the park with my family. We played football. I ate ice cream. We took photos. I had a great time.",
+    "explanation": "ใช้ Past Simple (Verb ช่อง 2) และคำเชื่อม first, then, after that, finally"
+  },
+  {
+    "id": "ex-writing-p6-002",
+    "lessonId": "writing-p6-002",
+    "type": "writing",
+    "question": "Describe your bedroom using There is/There are in 4-5 sentences.",
+    "options": [],
+    "correctAnswer": "My bedroom is small. There is a bed next to the window. There are two bookshelves. There is a desk with a lamp. I like my room.",
+    "explanation": "ใช้ There is (เอกพจน์) และ There are (พหูพจน์)"
+  },
+  {
+    "id": "ex-conv-p6-001",
+    "lessonId": "conversation-p6-001",
+    "type": "multiple-choice",
+    "question": "How do you invite a friend to the cinema?",
+    "options": ["Where do you live?", "Do you want to come to the cinema?", "What is your name?", "How are you?"],
+    "correctAnswer": "Do you want to come to the cinema?",
+    "explanation": "การชวนเพื่อนใช้ 'Do you want to...?'"
+  },
+  {
+    "id": "ex-conv-p6-002",
+    "lessonId": "conversation-p6-002",
+    "type": "multiple-choice",
+    "question": "What do you say when ordering food?",
+    "options": ["I am fine, thank you.", "I'd like a pizza, please.", "Nice to meet you.", "Good morning."],
+    "correctAnswer": "I'd like a pizza, please.",
+    "explanation": "สั่งอาหารใช้ 'I'd like...' หรือ 'I want...'"
+  },
+  {
+    "id": "ex-grammar-m1-001",
+    "lessonId": "grammar-m1-001",
+    "type": "fill-blank",
+    "question": "Fill in with Present Perfect: She ________ (never be) to Japan.",
+    "options": [],
+    "correctAnswer": "has never been",
+    "explanation": "Present Perfect: have/has + never + Verb ช่อง 3"
+  },
+  {
+    "id": "ex-grammar-m1-002",
+    "lessonId": "grammar-m1-002",
+    "type": "multiple-choice",
+    "question": "Which shows a past action interrupted by another?",
+    "options": ["I watched TV yesterday.", "I was watching TV when my mom called.", "I have watched TV.", "I will watch TV tonight."],
+    "correctAnswer": "I was watching TV when my mom called.",
+    "explanation": "Past Continuous + when + Past Simple"
+  },
+  {
+    "id": "ex-grammar-m1-003",
+    "lessonId": "grammar-m1-003",
+    "type": "multiple-choice",
+    "question": "Which modal verb shows ability?",
+    "options": ["must", "should", "can", "may"],
+    "correctAnswer": "can",
+    "explanation": "can แสดงความสามารถ"
+  },
+  {
+    "id": "ex-grammar-m1-004",
+    "lessonId": "grammar-m1-004",
+    "type": "multiple-choice",
+    "question": "Which replaces 'This is my book'?",
+    "options": ["This book is yours.", "This book is his.", "This book is mine.", "This book is hers."],
+    "correctAnswer": "This book is mine.",
+    "explanation": "my → mine"
+  },
+  {
+    "id": "ex-vocab-m1-001",
+    "lessonId": "vocab-m1-001",
+    "type": "fill-blank",
+    "question": "Fill in: My favorite hobby is ________ (การวาดรูป).",
+    "options": [],
+    "correctAnswer": "painting",
+    "explanation": "การวาดรูป = painting"
+  },
+  {
+    "id": "ex-vocab-m1-002",
+    "lessonId": "vocab-m1-002",
+    "type": "multiple-choice",
+    "question": "Which subject is 'วิทยาศาสตร์' in English?",
+    "options": ["Mathematics", "History", "Science", "Geography"],
+    "correctAnswer": "Science",
+    "explanation": "วิทยาศาสตร์ = Science"
+  },
+  {
+    "id": "ex-reading-m1-001",
+    "lessonId": "reading-m1-001",
+    "type": "multiple-choice",
+    "question": "In 'A Biography', when did King Rama IX become king?",
+    "options": ["1927", "1946", "2016", "1950"],
+    "correctAnswer": "1946",
+    "explanation": "จาก 'He became the King of Thailand in 1946.'"
+  },
+  {
+    "id": "ex-reading-m1-002",
+    "lessonId": "reading-m1-002",
+    "type": "multiple-choice",
+    "question": "In 'A Short Story', what did Bun Bun find?",
+    "options": ["A golden egg", "A magic carrot", "A talking flower", "A shiny coin"],
+    "correctAnswer": "A magic carrot",
+    "explanation": "จาก 'One day, he found a magic carrot.'"
+  },
+  {
+    "id": "ex-writing-m1-001",
+    "lessonId": "writing-m1-001",
+    "type": "writing",
+    "question": "Write a short email to a friend about weekend plans.",
+    "options": [],
+    "correctAnswer": "Subject: Weekend Plans\n\nHi Sarah,\n\nHow are you? I want to go to the mall this Saturday. Would you like to join me?\n\nBest regards,\nMint",
+    "explanation": "อีเมลควรมี Subject, Salutation, Body, Closing"
+  },
+  {
+    "id": "ex-writing-m1-002",
+    "lessonId": "writing-m1-002",
+    "type": "writing",
+    "question": "Write a diary entry about something interesting today (4-5 sentences).",
+    "options": [],
+    "correctAnswer": "Dear Diary,\n\nToday was great! I got a good score on my English test. I was so happy! After school, I played football with my friends.\n\nGood night!",
+    "explanation": "เริ่มด้วย 'Dear Diary' ใช้ Past Simple"
+  },
+  {
+    "id": "ex-conv-m1-001",
+    "lessonId": "conversation-m1-001",
+    "type": "multiple-choice",
+    "question": "How do you ask for directions to the hospital?",
+    "options": ["How much is this?", "How do I get to the hospital?", "What time is it?", "Where are you from?"],
+    "correctAnswer": "How do I get to the hospital?",
+    "explanation": "ใช้ 'How do I get to...?'"
+  },
+  {
+    "id": "ex-conv-m1-002",
+    "lessonId": "conversation-m1-002",
+    "type": "multiple-choice",
+    "question": "What do you ask to know the price?",
+    "options": ["What color is this?", "How much is this T-shirt?", "Where is this made?", "Is this new?"],
+    "correctAnswer": "How much is this T-shirt?",
+    "explanation": "ถามราคาใช้ 'How much is/are...?'"
+  },
+  {
+    "id": "ex-grammar-m2-001",
+    "lessonId": "grammar-m2-001",
+    "type": "multiple-choice",
+    "question": "Choose the passive voice sentence.",
+    "options": ["My brother ate the cake.", "The cake was eaten by my brother.", "My brother is eating the cake.", "My brother will eat the cake."],
+    "correctAnswer": "The cake was eaten by my brother.",
+    "explanation": "Passive Voice: was/were + Verb ช่อง 3"
+  },
+  {
+    "id": "ex-grammar-m2-002",
+    "lessonId": "grammar-m2-002",
+    "type": "multiple-choice",
+    "question": "Which is a Type 1 conditional?",
+    "options": ["If it rains, I will stay home.", "If I had a million baht, I would travel.", "If I had studied, I would have passed.", "If it rained, I would stay home."],
+    "correctAnswer": "If it rains, I will stay home.",
+    "explanation": "Type 1: If + Present Simple, will + Verb ช่อง 1"
+  },
+  {
+    "id": "ex-grammar-m2-003",
+    "lessonId": "grammar-m2-003",
+    "type": "multiple-choice",
+    "question": "Which relative pronoun is for people?",
+    "options": ["which", "who", "where", "when"],
+    "correctAnswer": "who",
+    "explanation": "who ใช้กับคน"
+  },
+  {
+    "id": "ex-grammar-m2-004",
+    "lessonId": "grammar-m2-004",
+    "type": "multiple-choice",
+    "question": "She said, 'I am tired.' → indirect speech:",
+    "options": ["She said that I am tired.", "She said that she was tired.", "She said that she is tired.", "She said that I was tired."],
+    "correctAnswer": "She said that she was tired.",
+    "explanation": "Present → Past ใน Indirect Speech"
+  },
+  {
+    "id": "ex-vocab-m2-001",
+    "lessonId": "vocab-m2-001",
+    "type": "multiple-choice",
+    "question": "What does 'environment' mean?",
+    "options": ["มลพิษ", "สิ่งแวดล้อม", "ป่าไม้", "มหาสมุทร"],
+    "correctAnswer": "สิ่งแวดล้อม",
+    "explanation": "environment = สิ่งแวดล้อม"
+  },
+  {
+    "id": "ex-vocab-m2-002",
+    "lessonId": "vocab-m2-002",
+    "type": "multiple-choice",
+    "question": "Which means 'ปวดหัว'?",
+    "options": ["stomachache", "cough", "headache", "fever"],
+    "correctAnswer": "headache",
+    "explanation": "headache = head + ache"
+  },
+  {
+    "id": "ex-reading-m2-001",
+    "lessonId": "reading-m2-001",
+    "type": "fill-blank",
+    "question": "Fill in from 'News Article': They will represent Thailand at the ________ Science Fair.",
+    "options": [],
+    "correctAnswer": "International",
+    "explanation": "จาก 'International Science Fair'"
+  },
+  {
+    "id": "ex-reading-m2-002",
+    "lessonId": "reading-m2-002",
+    "type": "multiple-choice",
+    "question": "In 'Travel Blog', what temple did the writer visit?",
+    "options": ["Wat Phra Kaew", "Doi Suthep", "Wat Arun", "Wat Pho"],
+    "correctAnswer": "Doi Suthep",
+    "explanation": "จาก 'we visited Doi Suthep temple'"
+  },
+  {
+    "id": "ex-writing-m2-001",
+    "lessonId": "writing-m2-001",
+    "type": "writing",
+    "question": "Write an opinion paragraph about why reading is important.",
+    "options": [],
+    "correctAnswer": "In my opinion, reading is important. First, it helps us learn new words. Second, it gives us knowledge. Finally, it helps us relax. Everyone should read every day.",
+    "explanation": "โครงสร้าง: Topic sentence → Supporting → Conclusion"
+  },
+  {
+    "id": "ex-writing-m2-002",
+    "lessonId": "writing-m2-002",
+    "type": "writing",
+    "question": "Write a summary of a story about a rabbit and a magic carrot.",
+    "options": [],
+    "correctAnswer": "The story is about a rabbit named Bun Bun who found a magic carrot. He planted it and many colorful carrots grew. He shared them with his friends.",
+    "explanation": "สรุป: ตัวละครหลัก เหตุการณ์สำคัญ ใจความสำคัญ"
+  },
+  {
+    "id": "ex-conv-m2-001",
+    "lessonId": "conversation-m2-001",
+    "type": "multiple-choice",
+    "question": "How do you ask for someone's opinion?",
+    "options": ["What do you think about...?", "How old are you?", "Where do you live?", "What time is it?"],
+    "correctAnswer": "What do you think about...?",
+    "explanation": "ใช้ 'What do you think about...?'"
+  },
+  {
+    "id": "ex-conv-m2-002",
+    "lessonId": "conversation-m2-002",
+    "type": "multiple-choice",
+    "question": "What do you tell the doctor for headache and fever?",
+    "options": ["I am happy today.", "I have a bad headache and a fever.", "I like this hospital.", "Nice to meet you."],
+    "correctAnswer": "I have a bad headache and a fever.",
+    "explanation": "บอกอาการใช้ 'I have...'"
+  },
+  {
+    "id": "ex-grammar-m3-001",
+    "lessonId": "grammar-m3-001",
+    "type": "multiple-choice",
+    "question": "Which tense is 'I have gone to Japan'?",
+    "options": ["Past Simple", "Present Perfect", "Future Simple", "Present Continuous"],
+    "correctAnswer": "Present Perfect",
+    "explanation": "have/has + Verb ช่อง 3 = Present Perfect"
+  },
+  {
+    "id": "ex-grammar-m3-002",
+    "lessonId": "grammar-m3-002",
+    "type": "multiple-choice",
+    "question": "Which is a Type 3 conditional?",
+    "options": ["If it rains, I will stay home.", "If I had money, I would buy a car.", "If I had studied harder, I would have passed.", "If it rained, I would stay home."],
+    "correctAnswer": "If I had studied harder, I would have passed.",
+    "explanation": "Type 3: If + Past Perfect, would have + Verb ช่อง 3"
+  },
+  {
+    "id": "ex-grammar-m3-003",
+    "lessonId": "grammar-m3-003",
+    "type": "multiple-choice",
+    "question": "Which shows a present wish?",
+    "options": ["I wish I were taller.", "I wish I had studied more.", "I wish you would stop.", "I wish I will go."],
+    "correctAnswer": "I wish I were taller.",
+    "explanation": "Wish + Past Simple = ตรงกันข้ามกับปัจจุบัน"
+  },
+  {
+    "id": "ex-grammar-m3-004",
+    "lessonId": "grammar-m3-004",
+    "type": "multiple-choice",
+    "question": "Which connector shows contrast?",
+    "options": ["moreover", "therefore", "however", "in addition"],
+    "correctAnswer": "however",
+    "explanation": "however = อย่างไรก็ตาม"
+  },
+  {
+    "id": "ex-vocab-m3-001",
+    "lessonId": "vocab-m3-001",
+    "type": "multiple-choice",
+    "question": "What does 'culture' mean?",
+    "options": ["สังคม", "วัฒนธรรม", "ประเพณี", "เทศกาล"],
+    "correctAnswer": "วัฒนธรรม",
+    "explanation": "culture = วัฒนธรรม"
+  },
+  {
+    "id": "ex-vocab-m3-002",
+    "lessonId": "vocab-m3-002",
+    "type": "multiple-choice",
+    "question": "Which means 'ปัญญาประดิษฐ์'?",
+    "options": ["Robot", "Software", "Artificial Intelligence", "Hardware"],
+    "correctAnswer": "Artificial Intelligence",
+    "explanation": "AI = Artificial Intelligence"
+  },
+  {
+    "id": "ex-reading-m3-001",
+    "lessonId": "reading-m3-001",
+    "type": "multiple-choice",
+    "question": "What happens to marine animals that eat plastic?",
+    "options": ["They become stronger.", "They become sick or die.", "They grow bigger.", "They swim faster."],
+    "correctAnswer": "They become sick or die.",
+    "explanation": "จาก 'mistake plastic for food and become sick or die'"
+  },
+  {
+    "id": "ex-reading-m3-002",
+    "lessonId": "reading-m3-002",
+    "type": "multiple-choice",
+    "question": "Can the speaker see the wind in the poem?",
+    "options": ["Yes, clearly.", "No, the wind is invisible.", "Only at night.", "Only in winter."],
+    "correctAnswer": "No, the wind is invisible.",
+    "explanation": "จาก 'I could not see yourself at all.'"
+  },
+  {
+    "id": "ex-writing-m3-001",
+    "lessonId": "writing-m3-001",
+    "type": "writing",
+    "question": "Write a formal letter applying for student council president.",
+    "options": [],
+    "correctAnswer": "23/45 Sukhumvit Road\nBangkok 10110\n\n18 July 2026\n\nThe Principal\nSunshine School\nBangkok 10200\n\nDear Sir,\n\nI am writing to apply for student council president. I have been a student here for three years.\n\nYours faithfully,\nSomsak Rakthai",
+    "explanation": "จดหมายทางการ: ที่อยู่ วันที่ ผู้รับ คำขึ้นต้น เนื้อหา ลงท้าย"
+  },
+  {
+    "id": "ex-writing-m3-002",
+    "lessonId": "writing-m3-002",
+    "type": "writing",
+    "question": "Write a short essay about the importance of learning English.",
+    "options": [],
+    "correctAnswer": "English is important. First, it helps us communicate globally. Second, many jobs require English. In conclusion, learning English opens many opportunities.",
+    "explanation": "เรียงความ: Introduction → Body → Conclusion"
+  },
+  {
+    "id": "ex-conv-m3-001",
+    "lessonId": "conversation-m3-001",
+    "type": "multiple-choice",
+    "question": "How do you answer 'Tell me about yourself' in an interview?",
+    "options": ["I am fine.", "I am a hardworking person with good communication skills.", "I like pizza.", "Nice to meet you."],
+    "correctAnswer": "I am a hardworking person with good communication skills.",
+    "explanation": "บอกจุดแข็งและทักษะที่เกี่ยวข้องกับงาน"
+  },
+  {
+    "id": "ex-conv-m3-002",
+    "lessonId": "conversation-m3-002",
+    "type": "multiple-choice",
+    "question": "What do you say when the person called is unavailable?",
+    "options": ["Goodbye!", "Can I take a message?", "I am happy.", "Thank you."],
+    "correctAnswer": "Can I take a message?",
+    "explanation": "ถาม 'Can I take a message?' เพื่อฝากข้อความ"
+  }
+]

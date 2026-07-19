@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "grammar-p5-001",
+    "title": "Present Simple Tense",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Present Simple Tense ใช้กับเหตุการณ์ที่เกิดขึ้นเป็นประจำ กิจวัตรประจำวัน หรือความจริงทั่วไป"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + Verb (เติม s หรือ es เมื่อประธานเป็น He/She/It)"
+      },
+      {
+        "type": "example",
+        "body": "I eat breakfast every day. (ฉันกินข้าวเช้าทุกวัน)"
+      },
+      {
+        "type": "example",
+        "body": "She reads a book every night. (เธออ่านหนังสือทุกคืน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-001", "vocab-p5-002"],
+    "exerciseIds": ["ex-grammar-p5-001"]
+  },
+  {
+    "id": "grammar-p5-002",
+    "title": "Present Continuous Tense",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Present Continuous Tense ใช้กับเหตุการณ์ที่กำลังเกิดขึ้นอยู่ในขณะนี้ หรือกำลังดำเนินอยู่ในช่วงนี้"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + is/am/are + Verb-ing"
+      },
+      {
+        "type": "example",
+        "body": "I am reading a book right now. (ฉันกำลังอ่านหนังสือตอนนี้)"
+      },
+      {
+        "type": "example",
+        "body": "They are playing football in the park. (พวกเขากำลังเล่นฟุตบอลในสวนสาธารณะ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-003", "vocab-p5-004"],
+    "exerciseIds": ["ex-grammar-p5-002"]
+  },
+  {
+    "id": "grammar-p5-003",
+    "title": "Articles a/an/the",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "A, An และ The เป็นคำนำหน้านามในภาษาอังกฤษ ใช้แตกต่างกันไปตามบริบท"
+      },
+      {
+        "type": "example",
+        "body": "a ใช้นำหน้าคำนามทั่วไปที่ขึ้นต้นด้วยเสียงพยัญชนะ เช่น a book, a cat"
+      },
+      {
+        "type": "example",
+        "body": "an ใช้นำหน้าคำนามทั่วไปที่ขึ้นต้นด้วยเสียงสระ เช่น an apple, an elephant"
+      },
+      {
+        "type": "example",
+        "body": "the ใช้เมื่อพูดถึงสิ่งเฉพาะหรือสิ่งที่รู้กันทั้งสองฝ่าย เช่น the sun, the door"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-005", "vocab-p5-006"],
+    "exerciseIds": ["ex-grammar-p5-003"]
+  },
+  {
+    "id": "grammar-p5-004",
+    "title": "Plural Nouns",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "คำนามพหูพจน์คือคำนามที่แสดงถึงสิ่งของหรือคนมากกว่าหนึ่ง วิธีทำให้เป็นพหูพจน์มีหลายแบบ"
+      },
+      {
+        "type": "example",
+        "body": "ปกติเติม s: cat → cats, book → books, pen → pens"
+      },
+      {
+        "type": "example",
+        "body": "คำที่ลงท้ายด้วย s, sh, ch, x, o เติม es: bus → buses, box → boxes"
+      },
+      {
+        "type": "example",
+        "body": "คำนามที่ไม่เปลี่ยนรูป: child → children, foot → feet, mouse → mice"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-007", "vocab-p5-008"],
+    "exerciseIds": ["ex-grammar-p5-004"]
+  },
+  {
+    "id": "vocab-p5-002",
+    "title": "Food & Drinks",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาฝึกคำศัพท์เกี่ยวกับอาหารและเครื่องดื่มที่เราพบเจอในชีวิตประจำวันกัน!"
+      },
+      {
+        "type": "example",
+        "body": "rice (ข้าว), bread (ขนมปัง), milk (นม), water (น้ำ), egg (ไข่), chicken (ไก่), fish (ปลา), juice (น้ำผลไม้)"
+      },
+      {
+        "type": "example",
+        "body": "noodles (ก๋วยเตี๋ยว), fruit (ผลไม้), cake (เค้ก), soup (ซุป), salad (สลัด), ice cream (ไอศกรีม)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-food001", "vocab-p5-food002"],
+    "exerciseIds": ["ex-vocab-p5-002"]
+  },
+  {
+    "id": "vocab-p5-003",
+    "title": "Animals",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้ชื่อสัตว์ชนิดต่าง ๆ ในภาษาอังกฤษกัน!"
+      },
+      {
+        "type": "example",
+        "body": "cat (แมว), dog (หมา), bird (นก), fish (ปลา), rabbit (กระต่าย), hamster (แฮมสเตอร์)"
+      },
+      {
+        "type": "example",
+        "body": "elephant (ช้าง), tiger (เสือ), lion (สิงโต), monkey (ลิง), bear (หมี), snake (งู)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-animal001", "vocab-p5-animal002"],
+    "exerciseIds": ["ex-vocab-p5-003"]
+  },
+  {
+    "id": "reading-p5-002",
+    "title": "My School",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "My school is big and beautiful. There are many trees around it. I go to school from Monday to Friday. My classroom is on the second floor. I sit next to my best friend, Mai. We have English class every morning. Our teacher is kind and funny. I like to read books in the library during break time."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: classroom (ห้องเรียน), library (ห้องสมุด), break time (เวลาพัก), second floor (ชั้นสอง), best friend (เพื่อนสนิท)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-read001", "vocab-p5-read002"],
+    "exerciseIds": ["ex-reading-p5-002"]
+  },
+  {
+    "id": "reading-p5-003",
+    "title": "My Family",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Hi! My name is Nong Ann. I am nine years old. I live with my father, mother, and little brother. My father is a teacher. He teaches science at a school. My mother is a nurse. She works at a hospital. My brother is five years old. He likes to play with toy cars. On weekends, we go to the park together. I love my family very much."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: father (พ่อ), mother (แม่), brother (น้องชาย), nurse (พยาบาล), together (ด้วยกัน), weekend (วันหยุดสุดสัปดาห์)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-read003", "vocab-p5-read004"],
+    "exerciseIds": ["ex-reading-p5-003"]
+  },
+  {
+    "id": "writing-p5-001",
+    "title": "My Daily Routine",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนกิจวัตรประจำวันช่วยให้เราได้ฝึกใช้ Present Simple Tense และคำศัพท์เกี่ยวกับเวลาต่าง ๆ"
+      },
+      {
+        "type": "example",
+        "body": "ตัวอย่าง: I wake up at 6 o'clock. I brush my teeth and wash my face. Then I eat breakfast. I go to school at 7:30. After school, I do my homework. I go to bed at 9 o'clock."
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้างที่ควรใช้: I + กริยา + at + เวลา หรือ I + กริยา + in the morning/afternoon/evening"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-writ001", "vocab-p5-writ002"],
+    "exerciseIds": ["ex-writing-p5-001"]
+  },
+  {
+    "id": "writing-p5-002",
+    "title": "Describing My Pet",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนบรรยายสัตว์เลี้ยงช่วยให้เราได้ฝึกใช้คำคุณศัพท์และการบอกลักษณะต่าง ๆ"
+      },
+      {
+        "type": "example",
+        "body": "ตัวอย่าง: I have a pet dog. His name is Lucky. He is brown and white. He has big eyes and a long tail. He likes to play with a ball. He eats dog food every day. I love Lucky very much."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: pet (สัตว์เลี้ยง), fluffy (นุ่ม), cute (น่ารัก), friendly (เป็นมิตร), tail (หาง), fur (ขน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-writ003", "vocab-p5-writ004"],
+    "exerciseIds": ["ex-writing-p5-002"]
+  },
+  {
+    "id": "conversation-p5-001",
+    "title": "Greetings & Introductions",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การทักทายและแนะนำตัวเป็นสิ่งแรกที่ควรรู้เมื่อเรียนภาษาอังกฤษ"
+      },
+      {
+        "type": "example",
+        "body": "A: Hello! What is your name? (สวัสดี! คุณชื่ออะไร)"
+      },
+      {
+        "type": "example",
+        "body": "B: My name is Kate. What is your name? (ฉันชื่อเคท คุณชื่ออะไร)"
+      },
+      {
+        "type": "example",
+        "body": "A: I am Tom. Nice to meet you! (ฉันชื่อทอม ยินดีที่ได้รู้จัก)"
+      },
+      {
+        "type": "example",
+        "body": "B: Nice to meet you too! (ยินดีที่ได้รู้จักเช่นกัน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-conv001", "vocab-p5-conv002"],
+    "exerciseIds": ["ex-conv-p5-001"]
+  },
+  {
+    "id": "conversation-p5-002",
+    "title": "Talking About Favorites",
+    "grade": "p5",
+    "gradeLabel": "ป.5",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การพูดถึงสิ่งที่ชอบช่วยให้เราสามารถสนทนาและแลกเปลี่ยนความสนใจกับเพื่อนได้"
+      },
+      {
+        "type": "example",
+        "body": "A: What is your favorite food? (อาหารที่คุณชอบที่สุดคืออะไร)"
+      },
+      {
+        "type": "example",
+        "body": "B: My favorite food is pizza. What about you? (อาหารที่ฉันชอบคือพิซซ่า แล้วคุณล่ะ)"
+      },
+      {
+        "type": "example",
+        "body": "A: I like spaghetti. What is your favorite color? (ฉันชอบสปาเกตตี สีที่คุณชอบคืออะไร)"
+      },
+      {
+        "type": "example",
+        "body": "B: My favorite color is blue. (สีที่ฉันชอบคือสีฟ้า)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p5-conv003", "vocab-p5-conv004"],
+    "exerciseIds": ["ex-conv-p5-002"]
+  },
+  {
+    "id": "grammar-p6-001",
+    "title": "Past Simple Tense",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Past Simple Tense ใช้กับเหตุการณ์ที่เกิดขึ้นและจบลงแล้วในอดีต"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + Verb ช่อง 2"
+      },
+      {
+        "type": "example",
+        "body": "I visited my grandmother yesterday. (ฉันไปเยี่ยมคุณยายเมื่อวาน)"
+      },
+      {
+        "type": "example",
+        "body": "They played football last Sunday. (พวกเขาเล่นฟุตบอลวันอาทิตย์ที่แล้ว)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-001", "vocab-p6-002"],
+    "exerciseIds": ["ex-grammar-p6-001"]
+  },
+  {
+    "id": "grammar-p6-002",
+    "title": "Future with Will",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Future Simple Tense หรือการใช้ will ใช้กับเหตุการณ์ที่จะเกิดขึ้นในอนาคต หรือการตัดสินใจในขณะพูด"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + will + Verb ช่อง 1"
+      },
+      {
+        "type": "example",
+        "body": "I will go to the beach tomorrow. (ฉันจะไปทะเลพรุ่งนี้)"
+      },
+      {
+        "type": "example",
+        "body": "She will help you with your homework. (เธอจะช่วย你做การบ้าน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-003", "vocab-p6-004"],
+    "exerciseIds": ["ex-grammar-p6-002"]
+  },
+  {
+    "id": "grammar-p6-003",
+    "title": "Comparative Adjectives",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Comparative Adjectives ใช้ในการเปรียบเทียบคนหรือสิ่งของสองสิ่ง"
+      },
+      {
+        "type": "example",
+        "body": "คำคุณศัพท์พยางค์เดียวเติม er: tall → taller, fast → faster"
+      },
+      {
+        "type": "example",
+        "body": "คำคุณศัพท์สองพยางค์ที่ลงท้ายด้วย y เปลี่ยน y เป็น i แล้วเติม er: happy → happier, easy → easier"
+      },
+      {
+        "type": "example",
+        "body": "คำคุณศัพท์สองพยางค์ขึ้นไปใช้ more: beautiful → more beautiful, expensive → more expensive"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-005", "vocab-p6-006"],
+    "exerciseIds": ["ex-grammar-p6-003"]
+  },
+  {
+    "id": "grammar-p6-004",
+    "title": "There is / There are",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "There is และ There are ใช้บอกว่ามีบางสิ่งอยู่ที่ไหนสักแห่ง"
+      },
+      {
+        "type": "example",
+        "body": "There is ใช้กับนามนับได้เอกพจน์หรือนามนับไม่ได้: There is a book on the table. (มีหนังสืออยู่บนโต๊ะ)"
+      },
+      {
+        "type": "example",
+        "body": "There are ใช้กับนามนับได้พหูพจน์: There are many students in the classroom. (มีนักเรียนหลายคนในห้องเรียน)"
+      },
+      {
+        "type": "example",
+        "body": "รูปปฏิเสธ: There isn't / There aren't: There isn't any milk in the fridge. (ไม่มีนมในตู้เย็น)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-007", "vocab-p6-008"],
+    "exerciseIds": ["ex-grammar-p6-004"]
+  },
+  {
+    "id": "vocab-p6-001",
+    "title": "Weather & Seasons",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาฝึกคำศัพท์เกี่ยวกับสภาพอากาศและฤดูกาลกัน!"
+      },
+      {
+        "type": "example",
+        "body": "sunny (แดดออก), rainy (ฝนตก), cloudy (มีเมฆ), windy (ลมแรง), hot (ร้อน), cold (หนาว), warm (อุ่น), cool (เย็นสบาย)"
+      },
+      {
+        "type": "example",
+        "body": "ฤดูกาล: summer (ฤดูร้อน), winter (ฤดูหนาว), autumn/fall (ฤดูใบไม้ร่วง), spring (ฤดูใบไม้ผลิ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-weather001", "vocab-p6-weather002"],
+    "exerciseIds": ["ex-vocab-p6-001"]
+  },
+  {
+    "id": "vocab-p6-002",
+    "title": "Clothes",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้คำศัพท์เกี่ยวกับเสื้อผ้าและเครื่องแต่งกายกัน!"
+      },
+      {
+        "type": "example",
+        "body": "shirt (เสื้อเชิ้ต), T-shirt (เสื้อยืด), pants (กางเกง), shorts (กางเกงขาสั้น), skirt (กระโปรง), dress (ชุดเดรส)"
+      },
+      {
+        "type": "example",
+        "body": "shoes (รองเท้า), socks (ถุงเท้า), jacket (เสื้อแจ็กเก็ต), hat (หมวก), scarf (ผ้าพันคอ), gloves (ถุงมือ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-clothes001", "vocab-p6-clothes002"],
+    "exerciseIds": ["ex-vocab-p6-002"]
+  },
+  {
+    "id": "reading-p6-001",
+    "title": "My Last Holiday",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Last summer, my family went to Krabi. We traveled by car. The weather was very sunny and hot. We stayed at a hotel near the beach. I swam in the sea and built a sandcastle with my sister. We ate fresh seafood for dinner. In the evening, we watched the sunset. It was a wonderful holiday. I want to go there again next year."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: holiday (วันหยุด), summer (ฤดูร้อน), beach (ชายหาด), seafood (อาหารทะเล), sunset (พระอาทิตย์ตก), wonderful (ยอดเยี่ยม)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-read001", "vocab-p6-read002"],
+    "exerciseIds": ["ex-reading-p6-001"]
+  },
+  {
+    "id": "reading-p6-002",
+    "title": "A Letter to a Friend",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Dear Anna,\n\nHow are you? I hope you are doing well. I want to tell you about my new school. It is very big and I have many new friends. My favorite subject is English. The teacher is very nice. We have a school fair next month. Will you come to visit me? Please write back soon.\n\nYour friend,\nMint"
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: dear (ที่รัก/เรียน), hope (หวัง), subject (วิชา), fair (งานประจำปี), write back (เขียนกลับ), soon (เร็วๆ นี้)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-read003", "vocab-p6-read004"],
+    "exerciseIds": ["ex-reading-p6-002"]
+  },
+  {
+    "id": "writing-p6-001",
+    "title": "My Weekend",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนบรรยายเกี่ยวกับวันหยุดสุดสัปดาห์ช่วยให้เราได้ฝึกใช้ Past Simple Tense และคำศัพท์เกี่ยวกับกิจกรรมต่าง ๆ"
+      },
+      {
+        "type": "example",
+        "body": "ตัวอย่าง: Last weekend, I went to the zoo with my family. We saw many animals. I liked the pandas the most. We ate ice cream and took many photos. Then we went home in the evening. I had a great time!"
+      },
+      {
+        "type": "example",
+        "body": "คำเชื่อมที่ควรใช้: first (ก่อนอื่น), then (แล้วก็), after that (หลังจากนั้น), finally (ในที่สุด)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-writ001", "vocab-p6-writ002"],
+    "exerciseIds": ["ex-writing-p6-001"]
+  },
+  {
+    "id": "writing-p6-002",
+    "title": "Describing a Place",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนบรรยายสถานที่ช่วยให้เราได้ฝึกใช้ There is/There are และคำคุณศัพท์บอกลักษณะ"
+      },
+      {
+        "type": "example",
+        "body": "ตัวอย่าง: My bedroom is small but cozy. There is a bed next to the window. There are three bookshelves on the wall. There is a desk with a lamp. I have a soft carpet on the floor. I like to read books in my room."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: bedroom (ห้องนอน), cozy (อบอุ่น), bookshelf (ชั้นหนังสือ), carpet (พรม), desk (โต๊ะเขียนหนังสือ), lamp (โคมไฟ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-writ003", "vocab-p6-writ004"],
+    "exerciseIds": ["ex-writing-p6-002"]
+  },
+  {
+    "id": "conversation-p6-001",
+    "title": "Making Plans",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การชวนเพื่อนทำกิจกรรมหรือนัดหมายเป็นทักษะการสนทนาที่สำคัญ"
+      },
+      {
+        "type": "example",
+        "body": "A: What do you want to do this weekend? (เธออยากทำอะไรวันหยุดนี้)"
+      },
+      {
+        "type": "example",
+        "body": "B: I want to go to the cinema. Do you want to come? (ฉันอยากไปดูหนัง เธออยากไปไหม)"
+      },
+      {
+        "type": "example",
+        "body": "A: Sure! What time should we meet? (ได้เลย! เราควรเจอกันกี่โมง)"
+      },
+      {
+        "type": "example",
+        "body": "B: Let's meet at 2 o'clock at the mall. (เจอกันตอนบ่าย 2 โมงที่ห้างนะ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-conv001", "vocab-p6-conv002"],
+    "exerciseIds": ["ex-conv-p6-001"]
+  },
+  {
+    "id": "conversation-p6-002",
+    "title": "Ordering Food",
+    "grade": "p6",
+    "gradeLabel": "ป.6",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การสั่งอาหารในร้านเป็นสถานการณ์ที่ต้องใช้ภาษาในการสื่อสารจริง"
+      },
+      {
+        "type": "example",
+        "body": "Waiter: Welcome! What would you like to order? (ยินดีต้อนรับ! คุณอยากสั่งอะไรคะ)"
+      },
+      {
+        "type": "example",
+        "body": "Customer: I'd like a pizza and a glass of orange juice, please. (ขอพิซซ่าและน้ำส้มหนึ่งแก้ว)"
+      },
+      {
+        "type": "example",
+        "body": "Waiter: Anything else? (มีอะไรเพิ่มไหมคะ)"
+      },
+      {
+        "type": "example",
+        "body": "Customer: No, thank you. How much is that? (ไม่เป็นไร ขอบคุณ เท่าไหร่คะ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-p6-conv003", "vocab-p6-conv004"],
+    "exerciseIds": ["ex-conv-p6-002"]
+  },
+  {
+    "id": "grammar-m1-001",
+    "title": "Present Perfect Tense",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Present Perfect Tense ใช้กับเหตุการณ์ที่เกิดขึ้นในอดีตและยังมีความสัมพันธ์กับปัจจุบัน"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + have/has + Verb ช่อง 3"
+      },
+      {
+        "type": "example",
+        "body": "I have finished my homework. (ฉันทำการบ้านเสร็จแล้ว)"
+      },
+      {
+        "type": "example",
+        "body": "She has never been to Japan. (เธอไม่เคยไปญี่ปุ่น)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-003", "vocab-m1-004"],
+    "exerciseIds": ["ex-grammar-m1-001"]
+  },
+  {
+    "id": "grammar-m1-002",
+    "title": "Past Continuous Tense",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Past Continuous Tense ใช้กับเหตุการณ์ที่กำลังเกิดขึ้นในอดีต หรือมีเหตุการณ์อื่นมาขัดจังหวะ"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + was/were + Verb-ing"
+      },
+      {
+        "type": "example",
+        "body": "I was watching TV when my mom called. (ฉันกำลังดูทีวีตอนที่แม่เรียก)"
+      },
+      {
+        "type": "example",
+        "body": "They were playing basketball at 4 o'clock yesterday. (พวกเขากำลังเล่นบาสเกตบอลตอน 4 โมงเมื่อวาน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-005", "vocab-m1-006"],
+    "exerciseIds": ["ex-grammar-m1-002"]
+  },
+  {
+    "id": "grammar-m1-003",
+    "title": "Modal Verbs",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Modal verbs คือกริยาช่วยที่ใช้แสดงความสามารถ ภาระหน้าที่ หรือคำแนะนำ"
+      },
+      {
+        "type": "example",
+        "body": "can ใช้แสดงความสามารถ: I can swim very well. (ฉันว่ายน้ำได้เก่งมาก)"
+      },
+      {
+        "type": "example",
+        "body": "must ใช้แสดงภาระหน้าที่: You must wear a uniform at school. (คุณต้องใส่ชุดนักเรียนที่โรงเรียน)"
+      },
+      {
+        "type": "example",
+        "body": "should ใช้ให้คำแนะนำ: You should drink more water. (คุณควรดื่มน้ำมากขึ้น)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-007", "vocab-m1-008"],
+    "exerciseIds": ["ex-grammar-m1-003"]
+  },
+  {
+    "id": "grammar-m1-004",
+    "title": "Possessive Pronouns",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Possessive Pronouns คือคำสรรพนามที่แสดงความเป็นเจ้าของ ใช้แทนคำนามเพื่อไม่ต้องกล่าวซ้ำ"
+      },
+      {
+        "type": "example",
+        "body": "my → mine: This book is mine. (หนังสือเล่มนี้เป็นของฉัน)"
+      },
+      {
+        "type": "example",
+        "body": "your → yours: Is this pen yours? (ปากกานี้เป็นของคุณไหม)"
+      },
+      {
+        "type": "example",
+        "body": "her → hers, his → his, their → theirs: That house is theirs. (บ้านนั้นเป็นของพวกเขา)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-009", "vocab-m1-010"],
+    "exerciseIds": ["ex-grammar-m1-004"]
+  },
+  {
+    "id": "vocab-m1-001",
+    "title": "Hobbies & Interests",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้คำศัพท์เกี่ยวกับงานอดิเรกและความสนใจต่าง ๆ กัน!"
+      },
+      {
+        "type": "example",
+        "body": "reading (การอ่าน), painting (การวาดรูป), cooking (การทำอาหาร), gardening (การทำสวน), photography (การถ่ายภาพ)"
+      },
+      {
+        "type": "example",
+        "body": "playing guitar (เล่นกีตาร์), dancing (เต้นรำ), swimming (ว่ายน้ำ), cycling (ปั่นจักรยาน), collecting stamps (สะสมแสตมป์)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-hobby001", "vocab-m1-hobby002"],
+    "exerciseIds": ["ex-vocab-m1-001"]
+  },
+  {
+    "id": "vocab-m1-002",
+    "title": "School Subjects",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้ชื่อวิชาเรียนต่าง ๆ ในภาษาอังกฤษกัน!"
+      },
+      {
+        "type": "example",
+        "body": "Mathematics / Math (คณิตศาสตร์), English (ภาษาอังกฤษ), Science (วิทยาศาสตร์), History (ประวัติศาสตร์), Geography (ภูมิศาสตร์)"
+      },
+      {
+        "type": "example",
+        "body": "Art (ศิลปะ), Music (ดนตรี), Physical Education / P.E. (พลศึกษา), Computer Studies (คอมพิวเตอร์), Social Studies (สังคมศึกษา)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-subject001", "vocab-m1-subject002"],
+    "exerciseIds": ["ex-vocab-m1-002"]
+  },
+  {
+    "id": "reading-m1-001",
+    "title": "A Biography",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "King Rama IX, King Bhumibol Adulyadej, was born on December 5, 1927 in the United States. He became the King of Thailand in 1946. He was the world's longest-reigning monarch. He loved photography and playing the saxophone. He invented many things to help Thai farmers. He worked very hard for the Thai people. He passed away on October 13, 2016. Thai people love and respect him very much."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: biography (ชีวประวัติ), monarch (กษัตริย์), reign (ครองราชย์), invent (ประดิษฐ์), farmer (เกษตรกร), pass away (ถึงแก่กรรม)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-read001", "vocab-m1-read002"],
+    "exerciseIds": ["ex-reading-m1-001"]
+  },
+  {
+    "id": "reading-m1-002",
+    "title": "A Short Story",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Once upon a time, there was a little rabbit named Bun Bun. He lived in a small forest. One day, he found a magic carrot. The carrot could talk! \"Plant me in the garden,\" said the carrot. Bun Bun planted it and watered it every day. After a week, many colorful carrots grew. Bun Bun shared them with all his animal friends. They were very happy."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: once upon a time (กาลครั้งหนึ่งนานมาแล้ว), forest (ป่า), magic (วิเศษ), plant (ปลูก), share (แบ่งปัน), colorful (สีสันสดใส)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-read003", "vocab-m1-read004"],
+    "exerciseIds": ["ex-reading-m1-002"]
+  },
+  {
+    "id": "writing-m1-001",
+    "title": "An Email",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนอีเมลเป็นทักษะที่สำคัญในยุคดิจิทัล อีเมลควรมีส่วนหัว เนื้อหา และการลงท้าย"
+      },
+      {
+        "type": "example",
+        "body": "To: sarah@email.com\nSubject: Weekend Plans\n\nHi Sarah,\n\nHow are you? I am writing to ask about your plans this weekend. I want to go to the new shopping mall. Would you like to join me? Let me know.\n\nBest regards,\nMint"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้างอีเมล: To (ถึง) → Subject (หัวข้อ) → Salutation (คำนำ) → Body (เนื้อหา) → Closing (การลงท้าย)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-writ001", "vocab-m1-writ002"],
+    "exerciseIds": ["ex-writing-m1-001"]
+  },
+  {
+    "id": "writing-m1-002",
+    "title": "A Diary Entry",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนบันทึกประจำวันช่วยฝึกการเล่าเหตุการณ์และแสดงความรู้สึกในภาษาอังกฤษ"
+      },
+      {
+        "type": "example",
+        "body": "Dear Diary,\n\nToday was a great day! I got a good score on my science test. I was so happy! After school, I played football with my friends. We won the game. Then I ate dinner with my family. I told them about my test and they were proud of me. I feel very lucky.\n\nGood night!"
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: diary (บันทึกประจำวัน), score (คะแนน), proud (ภูมิใจ), lucky (โชคดี), win/won (ชนะ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-writ003", "vocab-m1-writ004"],
+    "exerciseIds": ["ex-writing-m1-002"]
+  },
+  {
+    "id": "conversation-m1-001",
+    "title": "Asking for Directions",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การถามและบอกทางเป็นทักษะที่จำเป็นเมื่อต้องเดินทางหรืออยู่ในสถานที่ไม่คุ้นเคย"
+      },
+      {
+        "type": "example",
+        "body": "A: Excuse me, how do I get to the hospital? (ขอโทษครับ ฉันจะไปโรงพยาบาลยังไง)"
+      },
+      {
+        "type": "example",
+        "body": "B: Go straight for two blocks. Then turn left. The hospital is on your right. (ตรงไปสองช่วงตึก แล้วเลี้ยวซ้าย โรงพยาบาลอยู่ทางขวามือ)"
+      },
+      {
+        "type": "example",
+        "body": "A: Is it far from here? (ไกลจากที่นี่ไหม)"
+      },
+      {
+        "type": "example",
+        "body": "B: No, it's about ten minutes on foot. (ไม่ค่ะ ประมาณสิบนาทีเดิน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-conv001", "vocab-m1-conv002"],
+    "exerciseIds": ["ex-conv-m1-001"]
+  },
+  {
+    "id": "conversation-m1-002",
+    "title": "Shopping",
+    "grade": "m1",
+    "gradeLabel": "ม.1",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การสนทนาเมื่อไปซื้อของช่วยให้เราเรียนรู้คำศัพท์เกี่ยวกับราคาและการต่อรอง"
+      },
+      {
+        "type": "example",
+        "body": "A: How much is this T-shirt? (เสื้อตัวนี้เท่าไหร่)"
+      },
+      {
+        "type": "example",
+        "body": "B: It is 250 baht. (250 บาทค่ะ)"
+      },
+      {
+        "type": "example",
+        "body": "A: Can I have a discount? (ลดราคาได้ไหม)"
+      },
+      {
+        "type": "example",
+        "body": "B: I'm sorry, the price is fixed. (ขอโทษค่ะ ราคาคงที่)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m1-conv003", "vocab-m1-conv004"],
+    "exerciseIds": ["ex-conv-m1-002"]
+  },
+  {
+    "id": "grammar-m2-001",
+    "title": "Passive Voice",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Passive Voice ใช้เมื่อต้องการเน้นผู้ถูกกระทำมากกว่าผู้กระทำ ประธานเป็นผู้ถูกกระทำ"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Subject + is/am/are/was/were + Verb ช่อง 3 + (by + ผู้กระทำ)"
+      },
+      {
+        "type": "example",
+        "body": "The cake was eaten by my brother. (เค้กถูกกินโดยน้องชายของฉัน)"
+      },
+      {
+        "type": "example",
+        "body": "English is spoken all over the world. (ภาษาอังกฤษถูกพูดทั่วโลก)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-001", "vocab-m2-002"],
+    "exerciseIds": ["ex-grammar-m2-001"]
+  },
+  {
+    "id": "grammar-m2-002",
+    "title": "Conditionals Type 1 & 2",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Conditional Sentences หรือ If-clauses ใช้กับเหตุการณ์ที่มีเงื่อนไข"
+      },
+      {
+        "type": "example",
+        "body": "Type 1 (เป็นไปได้จริง): If it rains, I will stay home. (ถ้าฝนตก ฉันจะอยู่บ้าน)"
+      },
+      {
+        "type": "example",
+        "body": "Type 1 โครงสร้าง: If + Present Simple, will + Verb ช่อง 1"
+      },
+      {
+        "type": "example",
+        "body": "Type 2 (ตรงกันข้ามกับความจริง): If I had a million baht, I would travel the world. (ถ้าฉันมีเงินล้าน ฉันจะเที่ยวรอบโลก)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-003", "vocab-m2-004"],
+    "exerciseIds": ["ex-grammar-m2-002"]
+  },
+  {
+    "id": "grammar-m2-003",
+    "title": "Relative Clauses",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Relative Clauses คืออนุประโยคที่ใช้อธิบายคำนาม นำด้วย who, which, that, whom, whose"
+      },
+      {
+        "type": "example",
+        "body": "who ใช้กับคน: The girl who is sitting there is my sister. (ผู้หญิงที่นั่งตรงนั้นคือน้องสาวฉัน)"
+      },
+      {
+        "type": "example",
+        "body": "which ใช้กับสัตว์หรือสิ่งของ: The book which I read was very interesting. (หนังสือที่ฉันอ่านน่าสนใจมาก)"
+      },
+      {
+        "type": "example",
+        "body": "that ใช้ได้ทั้งคนและสิ่งของ: This is the house that I bought. (นี่คือบ้านที่ฉันซื้อ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-005", "vocab-m2-006"],
+    "exerciseIds": ["ex-grammar-m2-003"]
+  },
+  {
+    "id": "grammar-m2-004",
+    "title": "Reported Speech",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Reported Speech (Direct/Indirect Speech) คือการรายงานคำพูดของผู้อื่น โดยเปลี่ยนรูปประโยค"
+      },
+      {
+        "type": "example",
+        "body": "Direct: She said, \"I am tired.\" (เธอพูดว่า \"ฉันเหนื่อย\")"
+      },
+      {
+        "type": "example",
+        "body": "Indirect: She said that she was tired. (เธอพูดว่าเธอเหนื่อย)"
+      },
+      {
+        "type": "example",
+        "body": "การเปลี่ยน tense: Present → Past, will → would, can → could"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-007", "vocab-m2-008"],
+    "exerciseIds": ["ex-grammar-m2-004"]
+  },
+  {
+    "id": "vocab-m2-001",
+    "title": "Environment",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้คำศัพท์เกี่ยวกับสิ่งแวดล้อมและการอนุรักษ์ธรรมชาติกัน!"
+      },
+      {
+        "type": "example",
+        "body": "environment (สิ่งแวดล้อม), pollution (มลพิษ), forest (ป่าไม้), ocean (มหาสมุทร), climate (สภาพอากาศ), global warming (ภาวะโลกร้อน)"
+      },
+      {
+        "type": "example",
+        "body": "recycle (รีไซเคิล), reduce (ลดการใช้), reuse (ใช้ซ้ำ), conserve (อนุรักษ์), protect (ปกป้อง), renewable (ทดแทนได้)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-env001", "vocab-m2-env002"],
+    "exerciseIds": ["ex-vocab-m2-001"]
+  },
+  {
+    "id": "vocab-m2-002",
+    "title": "Health & Body",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้คำศัพท์เกี่ยวกับสุขภาพและส่วนต่าง ๆ ของร่างกายกัน!"
+      },
+      {
+        "type": "example",
+        "body": "head (หัว), shoulder (ไหล่), knee (เข่า), stomach (ท้อง), back (หลัง), heart (หัวใจ), lung (ปอด)"
+      },
+      {
+        "type": "example",
+        "body": "fever (ไข้), cough (ไอ), headache (ปวดหัว), stomachache (ปวดท้อง), exercise (ออกกำลังกาย), rest (พักผ่อน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-health001", "vocab-m2-health002"],
+    "exerciseIds": ["ex-vocab-m2-002"]
+  },
+  {
+    "id": "reading-m2-001",
+    "title": "News Article",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "LOCAL STUDENTS WIN SCIENCE AWARD\n\nBangkok – Three students from Suksa School won first prize at the National Science Fair on Saturday. Their project was about using banana peels to make organic fertilizer. The judges were impressed by their creativity. The team will represent Thailand at the International Science Fair in Singapore next year. \"We are very proud,\" said their teacher, Ms. Suda."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: award (รางวัล), science fair (งานประกวดวิทยาศาสตร์), project (โครงงาน), organic fertilizer (ปุ๋ยอินทรีย์), judge (กรรมการ), represent (เป็นตัวแทน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-read001", "vocab-m2-read002"],
+    "exerciseIds": ["ex-reading-m2-001"]
+  },
+  {
+    "id": "reading-m2-002",
+    "title": "Travel Blog",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "My Trip to Chiang Mai\n\nLast month, I visited Chiang Mai with my friends. We stayed at a small guesthouse near the old city. In the morning, we visited Doi Suthep temple. The view from the top was amazing! We tried Khao Soi, a famous northern Thai noodle dish. It was delicious. In the evening, we walked around the Night Bazaar and bought souvenirs. I loved every moment of this trip."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: guesthouse (เกสต์เฮาส์), temple (วัด), view (ทิวทัศน์), noodle dish (อาหารเส้น), bazaar (ตลาด), souvenir (ของที่ระลึก)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-read003", "vocab-m2-read004"],
+    "exerciseIds": ["ex-reading-m2-002"]
+  },
+  {
+    "id": "writing-m2-001",
+    "title": "Opinion Paragraph",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนย่อหน้าแสดงความคิดเห็นต้องมีเหตุผลหรือตัวอย่างสนับสนุนความคิดเห็นของเรา"
+      },
+      {
+        "type": "example",
+        "body": "ตัวอย่างโครงสร้าง: Topic sentence (ประโยคหัวข้อ) → Supporting sentences (เหตุสนับสนุน) → Concluding sentence (สรุป)"
+      },
+      {
+        "type": "example",
+        "body": "In my opinion, students should not use smartphones in class. First, it distracts them from learning. Second, they might play games instead of listening. Finally, it is not polite to the teacher. Therefore, I think smartphones should be kept in bags during class time."
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-writ001", "vocab-m2-writ002"],
+    "exerciseIds": ["ex-writing-m2-001"]
+  },
+  {
+    "id": "writing-m2-002",
+    "title": "A Summary",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนสรุปความ (Summary) คือการย่อเนื้อหาสำคัญของเรื่องที่อ่านให้สั้นและครบถ้วน"
+      },
+      {
+        "type": "example",
+        "body": "ขั้นตอนการเขียนสรุป: 1) อ่านเรื่องให้เข้าใจ  2) จับใจความสำคัญ  3) เขียนด้วยภาษาของตัวเอง  4) ตรวจสอบความถูกต้อง"
+      },
+      {
+        "type": "example",
+        "body": "ตัวอย่าง: The story is about a rabbit who found a magic carrot. He planted it and got many colorful carrots. He shared them with his friends. The main idea is that sharing makes everyone happy."
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-writ003", "vocab-m2-writ004"],
+    "exerciseIds": ["ex-writing-m2-002"]
+  },
+  {
+    "id": "conversation-m2-001",
+    "title": "Giving Opinions",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การแสดงความคิดเห็นและการถามความคิดเห็นของผู้อื่นเป็นทักษะการสนทนาที่สำคัญ"
+      },
+      {
+        "type": "example",
+        "body": "A: What do you think about online learning? (คุณคิดอย่างไรกับการเรียนออนไลน์)"
+      },
+      {
+        "type": "example",
+        "body": "B: In my opinion, it is convenient but we need good internet. (ในความคิดของฉัน มันสะดวกแต่เราต้องมีอินเทอร์เน็ตที่ดี)"
+      },
+      {
+        "type": "example",
+        "body": "A: I agree. Also, I think we learn better in a classroom. (ฉันเห็นด้วย นอกจากนี้ ฉันคิดว่าเราเรียนในห้องเรียนได้ดีกว่า)"
+      },
+      {
+        "type": "example",
+        "body": "B: That's a good point. But online learning saves travel time. (เป็นประเด็นที่ดี แต่การเรียนออนไลน์ประหยัดเวลาเดินทาง)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-conv001", "vocab-m2-conv002"],
+    "exerciseIds": ["ex-conv-m2-001"]
+  },
+  {
+    "id": "conversation-m2-002",
+    "title": "At the Doctor's",
+    "grade": "m2",
+    "gradeLabel": "ม.2",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การไปพบแพทย์และการบอกอาการเจ็บป่วยเป็นสถานการณ์ที่ต้องใช้ศัพท์เฉพาะ"
+      },
+      {
+        "type": "example",
+        "body": "Doctor: What seems to be the problem? (มีอาการอะไรคะ)"
+      },
+      {
+        "type": "example",
+        "body": "Patient: I have a bad headache and a fever. (ฉันปวดหัวมากและมีไข้)"
+      },
+      {
+        "type": "example",
+        "body": "Doctor: Let me check your temperature. Open your mouth and say \"Ah.\" (ขอวัดไข้หน่อย อ้าปากแล้วบอก \"อา\")"
+      },
+      {
+        "type": "example",
+        "body": "Doctor: You have a cold. Take this medicine three times a day and get some rest. (คุณเป็นหวัด กินยานี้วันละสามครั้งและพักผ่อนมากๆ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m2-conv003", "vocab-m2-conv004"],
+    "exerciseIds": ["ex-conv-m2-002"]
+  },
+  {
+    "id": "grammar-m3-001",
+    "title": "All Tenses Review",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การทบทวน Tense ทั้ง 12 ในภาษาอังกฤษ ตั้งแต่ Present, Past ไปจนถึง Future"
+      },
+      {
+        "type": "example",
+        "body": "Present Simple: I go to school every day. (ไปโรงเรียนทุกวัน) | Present Continuous: I am going now. (กำลังไป)"
+      },
+      {
+        "type": "example",
+        "body": "Past Simple: I went yesterday. (ไปเมื่อวาน) | Past Continuous: I was going when you called. (กำลังไปตอนที่คุณโทร)"
+      },
+      {
+        "type": "example",
+        "body": "Present Perfect: I have gone before. (เคยไปแล้ว) | Future: I will go tomorrow. (จะไปพรุ่งนี้)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-001", "vocab-m3-002"],
+    "exerciseIds": ["ex-grammar-m3-001"]
+  },
+  {
+    "id": "grammar-m3-002",
+    "title": "Conditionals Type 3",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Conditional Type 3 ใช้กับเหตุการณ์ที่ตรงกันข้ามกับความจริงในอดีต แสดงความเสียใจหรือสมมติ"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: If + Past Perfect, would have + Verb ช่อง 3"
+      },
+      {
+        "type": "example",
+        "body": "If I had studied harder, I would have passed the exam. (ถ้าฉันเรียนหนักกว่านี้ ฉันคงสอบผ่าน)"
+      },
+      {
+        "type": "example",
+        "body": "If she had woken up early, she would not have missed the bus. (ถ้าเธอตื่นเช้า เธอคงไม่ตกรถ)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-003", "vocab-m3-004"],
+    "exerciseIds": ["ex-grammar-m3-002"]
+  },
+  {
+    "id": "grammar-m3-003",
+    "title": "Wish Clauses",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Wish clauses ใช้แสดงความปรารถนาที่ตรงกันข้ามกับความเป็นจริงในปัจจุบันหรืออดีต"
+      },
+      {
+        "type": "example",
+        "body": "Wish + Past Simple (ปัจจุบัน): I wish I were taller. (ฉันอยากให้ตัวเองสูงกว่านี้)"
+      },
+      {
+        "type": "example",
+        "body": "Wish + Past Perfect (อดีต): I wish I had studied more. (ฉันเสียดายที่ไม่ได้เรียนมากกว่านี้)"
+      },
+      {
+        "type": "example",
+        "body": "Wish + would (ขอร้อง/ต้องการให้เปลี่ยน): I wish you would stop smoking. (ฉันอยากให้คุณเลิกสูบบุหรี่)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-005", "vocab-m3-006"],
+    "exerciseIds": ["ex-grammar-m3-003"]
+  },
+  {
+    "id": "grammar-m3-004",
+    "title": "Connectors & Transitions",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["grammar"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Connectors และ Transition words เป็นคำที่ใช้เชื่อมโยงความคิดและทำให้เขียนหรือพูดได้ลื่นไหล"
+      },
+      {
+        "type": "example",
+        "body": "การเพิ่มข้อมูล: moreover (ยิ่งไปกว่านั้น), furthermore (นอกจากนี้), in addition (เพิ่มเติม)"
+      },
+      {
+        "type": "example",
+        "body": "การแสดงความขัดแย้ง: however (อย่างไรก็ตาม), on the other hand (อีกด้านหนึ่ง), although (ถึงแม้ว่า)"
+      },
+      {
+        "type": "example",
+        "body": "การแสดงผลลัพธ์: therefore (ดังนั้น), as a result (ส่งผลให้), consequently (เป็นผลให้)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-007", "vocab-m3-008"],
+    "exerciseIds": ["ex-grammar-m3-004"]
+  },
+  {
+    "id": "vocab-m3-001",
+    "title": "Society & Culture",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้คำศัพท์เกี่ยวกับสังคมและวัฒนธรรมกัน!"
+      },
+      {
+        "type": "example",
+        "body": "society (สังคม), culture (วัฒนธรรม), tradition (ประเพณี), festival (เทศกาล), ceremony (พิธี), generation (รุ่น/ช่วงอายุ)"
+      },
+      {
+        "type": "example",
+        "body": "custom (ธรรมเนียม), belief (ความเชื่อ), value (ค่านิยม), diversity (ความหลากหลาย), community (ชุมชน), heritage (มรดก)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-soc001", "vocab-m3-soc002"],
+    "exerciseIds": ["ex-vocab-m3-001"]
+  },
+  {
+    "id": "vocab-m3-002",
+    "title": "Science & Technology",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["vocabulary"],
+    "content": [
+      {
+        "type": "text",
+        "body": "มาเรียนรู้คำศัพท์เกี่ยวกับวิทยาศาสตร์และเทคโนโลยีกัน!"
+      },
+      {
+        "type": "example",
+        "body": "science (วิทยาศาสตร์), technology (เทคโนโลยี), computer (คอมพิวเตอร์), internet (อินเทอร์เน็ต), robot (หุ่นยนต์), artificial intelligence (ปัญญาประดิษฐ์)"
+      },
+      {
+        "type": "example",
+        "body": "experiment (การทดลอง), research (งานวิจัย), data (ข้อมูล), software (ซอฟต์แวร์), hardware (ฮาร์ดแวร์), invention (สิ่งประดิษฐ์)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-sci001", "vocab-m3-sci002"],
+    "exerciseIds": ["ex-vocab-m3-002"]
+  },
+  {
+    "id": "reading-m3-001",
+    "title": "Longer Passage",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "Plastic pollution is one of the biggest environmental problems in the world today. Every year, millions of tons of plastic waste end up in the ocean. This harms marine animals like turtles, fish, and whales. They often mistake plastic for food and become sick or die. Many countries are now trying to solve this problem. They have banned single-use plastic bags and bottles. People are also encouraged to use reusable bags and recycle more. If we all work together, we can reduce plastic pollution and protect our planet for future generations."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: pollution (มลพิษ), marine animal (สัตว์ทะเล), waste (ขยะ), ban (ห้าม), single-use (ใช้ครั้งเดียว), reusable (ใช้ซ้ำได้), recycle (รีไซเคิล)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-read001", "vocab-m3-read002"],
+    "exerciseIds": ["ex-reading-m3-001"]
+  },
+  {
+    "id": "reading-m3-002",
+    "title": "Poem Basics",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["reading"],
+    "content": [
+      {
+        "type": "text",
+        "body": "The Wind by Robert Louis Stevenson\n\nI saw you toss the kites on high\nAnd blow the birds about the sky;\nAnd all around I heard you pass,\nLike ladies' skirts across the grass.\n\nO wind, a-blowing all day long,\nO wind, that sings so loud a song!\n\nI saw the different things you did,\nBut always you yourself you hid.\nI felt you push, I heard you call,\nI could not see yourself at all."
+      },
+      {
+        "type": "example",
+        "body": "คำศัพท์น่ารู้: poem (บทกวี), rhyme (สัมผัส), verse (บท), line (บรรทัด), metaphor (อุปลักษณ์), imagery (ภาพพจน์)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-read003", "vocab-m3-read004"],
+    "exerciseIds": ["ex-reading-m3-002"]
+  },
+  {
+    "id": "writing-m3-001",
+    "title": "Formal Letter",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนจดหมายทางการต้องใช้ภาษาและรูปแบบที่สุภาพ มีส่วนประกอบสำคัญครบถ้วน"
+      },
+      {
+        "type": "example",
+        "body": "23/45 Sukhumvit Road\nBangkok 10110\n\n15 June 2026\n\nThe Principal\nSunshine School\nBangkok 10200\n\nDear Sir,\n\nI am writing to apply for the position of student council president. I have been a student at this school for three years. I believe I can represent the students well. I look forward to your consideration.\n\nYours faithfully,\nSomsak Rakthai"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้างจดหมายทางการ: ที่อยู่ผู้ส่ง → วันที่ → ที่อยู่ผู้รับ → คำขึ้นต้น → เนื้อหา → ลงท้าย → ลายเซ็น"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-writ001", "vocab-m3-writ002"],
+    "exerciseIds": ["ex-writing-m3-001"]
+  },
+  {
+    "id": "writing-m3-002",
+    "title": "Short Essay",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["writing"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การเขียนเรียงความสั้น (Short Essay) ประกอบด้วย 3 ส่วน: บทนำ เนื้อเรื่อง และบทสรุป"
+      },
+      {
+        "type": "example",
+        "body": "โครงสร้าง: Introduction (เกริ่นนำ) → Body Paragraphs (เนื้อหา 2-3 ย่อหน้า) → Conclusion (สรุป)"
+      },
+      {
+        "type": "example",
+        "body": "Title: The Importance of Reading\n\nReading is one of the most important skills we can develop. First, reading improves our vocabulary and grammar. When we read books, we learn new words naturally. Second, reading gives us knowledge. We can learn about history, science, or any topic we are interested in. Finally, reading is a good way to relax. It helps us forget our problems and enter a different world. In conclusion, reading is very beneficial. Everyone should make time to read every day."
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-writ003", "vocab-m3-writ004"],
+    "exerciseIds": ["ex-writing-m3-002"]
+  },
+  {
+    "id": "conversation-m3-001",
+    "title": "Job Interview",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การสัมภาษณ์งานเป็นสถานการณ์ที่ต้องใช้ภาษาทางการและการนำเสนอตัวเองอย่างมั่นใจ"
+      },
+      {
+        "type": "example",
+        "body": "Interviewer: Tell me about yourself. (บอกฉันเกี่ยวกับตัวคุณหน่อย)"
+      },
+      {
+        "type": "example",
+        "body": "Candidate: I am a hardworking person. I graduated with a degree in Business. I have good communication skills. (ฉันเป็นคนขยัน จบปริญญาทางด้านธุรกิจ มีทักษะการสื่อสารที่ดี)"
+      },
+      {
+        "type": "example",
+        "body": "Interviewer: Why do you want this job? (ทำไมคุณถึงต้องการงานนี้)"
+      },
+      {
+        "type": "example",
+        "body": "Candidate: I believe I can use my skills to help the company grow. (ฉันเชื่อว่าฉันสามารถใช้ทักษะเพื่อช่วยให้บริษัทเติบโต)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-conv001", "vocab-m3-conv002"],
+    "exerciseIds": ["ex-conv-m3-001"]
+  },
+  {
+    "id": "conversation-m3-002",
+    "title": "Making a Phone Call",
+    "grade": "m3",
+    "gradeLabel": "ม.3",
+    "topics": ["conversation"],
+    "content": [
+      {
+        "type": "text",
+        "body": "การสนทนาทางโทรศัพท์ต้องใช้ภาษาเฉพาะ เช่น การรับสาย การฝากข้อความ และการวางสาย"
+      },
+      {
+        "type": "example",
+        "body": "A: Hello, may I speak to Mr. Somchai, please? (สวัสดีครับ ขอพูดกับคุณสมชายหน่อย)"
+      },
+      {
+        "type": "example",
+        "body": "B: I'm sorry, he's not available right now. Can I take a message? (ขอโทษค่ะ เขาไม่ว่างตอนนี้ ฝากข้อความไว้ไหม)"
+      },
+      {
+        "type": "example",
+        "body": "A: Yes, please tell him that Mint called. My number is 081-234-5678. (ครับ ช่วยบอกเขาด้วยว่ามิ้นท์โทรมา เบอร์ 081-234-5678)"
+      },
+      {
+        "type": "example",
+        "body": "B: I'll give him the message. Goodbye. (ฉันจะบอกข้อความให้เขา ลาก่อน)"
+      }
+    ],
+    "vocabularyIds": ["vocab-m3-conv003", "vocab-m3-conv004"],
+    "exerciseIds": ["ex-conv-m3-002"]
+  }
+]

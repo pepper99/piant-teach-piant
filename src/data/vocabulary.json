@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "vocab-p5-001",
+    "word": "eat",
+    "translation": "กิน",
+    "phonetic": "/iːt/",
+    "category": "action",
+    "exampleSentence": "I eat breakfast every morning.",
+    "lessonId": "grammar-p5-001"
+  },
+  {
+    "id": "vocab-p5-002",
+    "word": "every day",
+    "translation": "ทุกวัน",
+    "phonetic": "/ˈɛv.ri deɪ/",
+    "category": "time",
+    "exampleSentence": "She reads a book every day.",
+    "lessonId": "grammar-p5-001"
+  },
+  {
+    "id": "vocab-p5-003",
+    "word": "reading",
+    "translation": "การอ่าน",
+    "phonetic": "/ˈriː.dɪŋ/",
+    "category": "action",
+    "exampleSentence": "I am reading a book right now.",
+    "lessonId": "grammar-p5-002"
+  },
+  {
+    "id": "vocab-p5-004",
+    "word": "playing",
+    "translation": "กำลังเล่น",
+    "phonetic": "/ˈpleɪ.ɪŋ/",
+    "category": "action",
+    "exampleSentence": "They are playing football in the park.",
+    "lessonId": "grammar-p5-002"
+  },
+  {
+    "id": "vocab-p5-005",
+    "word": "book",
+    "translation": "หนังสือ",
+    "phonetic": "/bʊk/",
+    "category": "school",
+    "exampleSentence": "I have a book in my bag.",
+    "lessonId": "grammar-p5-003"
+  },
+  {
+    "id": "vocab-p5-006",
+    "word": "apple",
+    "translation": "แอปเปิล",
+    "phonetic": "/ˈæp.əl/",
+    "category": "food",
+    "exampleSentence": "I eat an apple every day.",
+    "lessonId": "grammar-p5-003"
+  },
+  {
+    "id": "vocab-p5-007",
+    "word": "cat",
+    "translation": "แมว",
+    "phonetic": "/kæt/",
+    "category": "animal",
+    "exampleSentence": "I see two cats in the garden.",
+    "lessonId": "grammar-p5-004"
+  },
+  {
+    "id": "vocab-p5-008",
+    "word": "child",
+    "translation": "เด็ก",
+    "phonetic": "/tʃaɪld/",
+    "category": "body",
+    "exampleSentence": "The children are playing outside.",
+    "lessonId": "grammar-p5-004"
+  },
+  {
+    "id": "vocab-p5-food001",
+    "word": "rice",
+    "translation": "ข้าว",
+    "phonetic": "/raɪs/",
+    "category": "food",
+    "exampleSentence": "I eat rice for lunch every day.",
+    "lessonId": "vocab-p5-002"
+  },
+  {
+    "id": "vocab-p5-food002",
+    "word": "juice",
+    "translation": "น้ำผลไม้",
+    "phonetic": "/dʒuːs/",
+    "category": "food",
+    "exampleSentence": "I like to drink orange juice.",
+    "lessonId": "vocab-p5-002"
+  },
+  {
+    "id": "vocab-p5-animal001",
+    "word": "elephant",
+    "translation": "ช้าง",
+    "phonetic": "/ˈɛl.ɪ.fənt/",
+    "category": "animal",
+    "exampleSentence": "The elephant is very big.",
+    "lessonId": "vocab-p5-003"
+  },
+  {
+    "id": "vocab-p5-animal002",
+    "word": "rabbit",
+    "translation": "กระต่าย",
+    "phonetic": "/ˈræb.ɪt/",
+    "category": "animal",
+    "exampleSentence": "My rabbit likes to eat carrots.",
+    "lessonId": "vocab-p5-003"
+  },
+  {
+    "id": "vocab-p5-read001",
+    "word": "classroom",
+    "translation": "ห้องเรียน",
+    "phonetic": "/ˈklæs.ruːm/",
+    "category": "school",
+    "exampleSentence": "My classroom is on the second floor.",
+    "lessonId": "reading-p5-002"
+  },
+  {
+    "id": "vocab-p5-read002",
+    "word": "library",
+    "translation": "ห้องสมุด",
+    "phonetic": "/ˈlaɪ.brər.i/",
+    "category": "school",
+    "exampleSentence": "I like to read books in the library.",
+    "lessonId": "reading-p5-002"
+  },
+  {
+    "id": "vocab-p5-read003",
+    "word": "father",
+    "translation": "พ่อ",
+    "phonetic": "/ˈfɑː.ðər/",
+    "category": "body",
+    "exampleSentence": "My father is a teacher.",
+    "lessonId": "reading-p5-003"
+  },
+  {
+    "id": "vocab-p5-read004",
+    "word": "together",
+    "translation": "ด้วยกัน",
+    "phonetic": "/təˈɡɛð.ər/",
+    "category": "action",
+    "exampleSentence": "We go to the park together.",
+    "lessonId": "reading-p5-003"
+  },
+  {
+    "id": "vocab-p5-writ001",
+    "word": "wake up",
+    "translation": "ตื่นนอน",
+    "phonetic": "/weɪk ʌp/",
+    "category": "action",
+    "exampleSentence": "I wake up at six o'clock.",
+    "lessonId": "writing-p5-001"
+  },
+  {
+    "id": "vocab-p5-writ002",
+    "word": "homework",
+    "translation": "การบ้าน",
+    "phonetic": "/ˈhoʊm.wɜːrk/",
+    "category": "school",
+    "exampleSentence": "I do my homework after school.",
+    "lessonId": "writing-p5-001"
+  },
+  {
+    "id": "vocab-p5-writ003",
+    "word": "pet",
+    "translation": "สัตว์เลี้ยง",
+    "phonetic": "/pɛt/",
+    "category": "animal",
+    "exampleSentence": "I have a pet dog at home.",
+    "lessonId": "writing-p5-002"
+  },
+  {
+    "id": "vocab-p5-writ004",
+    "word": "cute",
+    "translation": "น่ารัก",
+    "phonetic": "/kjuːt/",
+    "category": "adjective",
+    "exampleSentence": "My cat is very cute.",
+    "lessonId": "writing-p5-002"
+  },
+  {
+    "id": "vocab-p5-conv001",
+    "word": "hello",
+    "translation": "สวัสดี",
+    "phonetic": "/həˈloʊ/",
+    "category": "culture",
+    "exampleSentence": "Hello! What is your name?",
+    "lessonId": "conversation-p5-001"
+  },
+  {
+    "id": "vocab-p5-conv002",
+    "word": "nice to meet you",
+    "translation": "ยินดีที่ได้รู้จัก",
+    "phonetic": "/naɪs tə miːt juː/",
+    "category": "culture",
+    "exampleSentence": "Nice to meet you too!",
+    "lessonId": "conversation-p5-001"
+  },
+  {
+    "id": "vocab-p5-conv003",
+    "word": "favorite",
+    "translation": "ที่ชอบที่สุด",
+    "phonetic": "/ˈfeɪ.vər.ɪt/",
+    "category": "adjective",
+    "exampleSentence": "My favorite food is pizza.",
+    "lessonId": "conversation-p5-002"
+  },
+  {
+    "id": "vocab-p5-conv004",
+    "word": "color",
+    "translation": "สี",
+    "phonetic": "/ˈkʌl.ər/",
+    "category": "adjective",
+    "exampleSentence": "My favorite color is blue.",
+    "lessonId": "conversation-p5-002"
+  },
+  {
+    "id": "vocab-p6-001",
+    "word": "visited",
+    "translation": "ไปเยี่ยม",
+    "phonetic": "/ˈvɪz.ɪ.tɪd/",
+    "category": "action",
+    "exampleSentence": "I visited my grandmother yesterday.",
+    "lessonId": "grammar-p6-001"
+  },
+  {
+    "id": "vocab-p6-002",
+    "word": "yesterday",
+    "translation": "เมื่อวานนี้",
+    "phonetic": "/ˈjɛs.tər.deɪ/",
+    "category": "time",
+    "exampleSentence": "They played football yesterday.",
+    "lessonId": "grammar-p6-001"
+  },
+  {
+    "id": "vocab-p6-003",
+    "word": "tomorrow",
+    "translation": "พรุ่งนี้",
+    "phonetic": "/təˈmɒr.oʊ/",
+    "category": "time",
+    "exampleSentence": "I will go to the beach tomorrow.",
+    "lessonId": "grammar-p6-002"
+  },
+  {
+    "id": "vocab-p6-004",
+    "word": "help",
+    "translation": "ช่วย",
+    "phonetic": "/hɛlp/",
+    "category": "action",
+    "exampleSentence": "She will help you with your homework.",
+    "lessonId": "grammar-p6-002"
+  },
+  {
+    "id": "vocab-p6-005",
+    "word": "tall",
+    "translation": "สูง",
+    "phonetic": "/tɔːl/",
+    "category": "adjective",
+    "exampleSentence": "My brother is taller than me.",
+    "lessonId": "grammar-p6-003"
+  },
+  {
+    "id": "vocab-p6-006",
+    "word": "happy",
+    "translation": "มีความสุข",
+    "phonetic": "/ˈhæp.i/",
+    "category": "feeling",
+    "exampleSentence": "I am happier today than yesterday.",
+    "lessonId": "grammar-p6-003"
+  },
+  {
+    "id": "vocab-p6-007",
+    "word": "table",
+    "translation": "โต๊ะ",
+    "phonetic": "/ˈteɪ.bəl/",
+    "category": "school",
+    "exampleSentence": "There is a book on the table.",
+    "lessonId": "grammar-p6-004"
+  },
+  {
+    "id": "vocab-p6-008",
+    "word": "student",
+    "translation": "นักเรียน",
+    "phonetic": "/ˈstjuː.dənt/",
+    "category": "school",
+    "exampleSentence": "There are many students in the classroom.",
+    "lessonId": "grammar-p6-004"
+  },
+  {
+    "id": "vocab-p6-weather001",
+    "word": "sunny",
+    "translation": "แดดออก",
+    "phonetic": "/ˈsʌn.i/",
+    "category": "nature",
+    "exampleSentence": "Today is very sunny.",
+    "lessonId": "vocab-p6-001"
+  },
+  {
+    "id": "vocab-p6-weather002",
+    "word": "rainy",
+    "translation": "ฝนตก",
+    "phonetic": "/ˈreɪ.ni/",
+    "category": "nature",
+    "exampleSentence": "I stay home when it is rainy.",
+    "lessonId": "vocab-p6-001"
+  },
+  {
+    "id": "vocab-p6-clothes001",
+    "word": "shirt",
+    "translation": "เสื้อเชิ้ต",
+    "phonetic": "/ʃɜːrt/",
+    "category": "clothes",
+    "exampleSentence": "I wear a white shirt to school.",
+    "lessonId": "vocab-p6-002"
+  },
+  {
+    "id": "vocab-p6-clothes002",
+    "word": "shoes",
+    "translation": "รองเท้า",
+    "phonetic": "/ʃuːz/",
+    "category": "clothes",
+    "exampleSentence": "My shoes are black and white.",
+    "lessonId": "vocab-p6-002"
+  },
+  {
+    "id": "vocab-p6-read001",
+    "word": "beach",
+    "translation": "ชายหาด",
+    "phonetic": "/biːtʃ/",
+    "category": "travel",
+    "exampleSentence": "We stayed at a hotel near the beach.",
+    "lessonId": "reading-p6-001"
+  },
+  {
+    "id": "vocab-p6-read002",
+    "word": "sunset",
+    "translation": "พระอาทิตย์ตก",
+    "phonetic": "/ˈsʌn.sɛt/",
+    "category": "nature",
+    "exampleSentence": "We watched the sunset in the evening.",
+    "lessonId": "reading-p6-001"
+  },
+  {
+    "id": "vocab-p6-read003",
+    "word": "hope",
+    "translation": "หวัง",
+    "phonetic": "/hoʊp/",
+    "category": "feeling",
+    "exampleSentence": "I hope you are doing well.",
+    "lessonId": "reading-p6-002"
+  },
+  {
+    "id": "vocab-p6-read004",
+    "word": "subject",
+    "translation": "วิชา",
+    "phonetic": "/ˈsʌb.dʒɪkt/",
+    "category": "school",
+    "exampleSentence": "My favorite subject is English.",
+    "lessonId": "reading-p6-002"
+  },
+  {
+    "id": "vocab-p6-writ001",
+    "word": "weekend",
+    "translation": "วันหยุดสุดสัปดาห์",
+    "phonetic": "/ˈwiːk.ɛnd/",
+    "category": "time",
+    "exampleSentence": "Last weekend, I went to the zoo.",
+    "lessonId": "writing-p6-001"
+  },
+  {
+    "id": "vocab-p6-writ002",
+    "word": "photo",
+    "translation": "รูปถ่าย",
+    "phonetic": "/ˈfoʊ.toʊ/",
+    "category": "technology",
+    "exampleSentence": "We took many photos at the zoo.",
+    "lessonId": "writing-p6-001"
+  },
+  {
+    "id": "vocab-p6-writ003",
+    "word": "bedroom",
+    "translation": "ห้องนอน",
+    "phonetic": "/ˈbɛd.ruːm/",
+    "category": "body",
+    "exampleSentence": "My bedroom is small but cozy.",
+    "lessonId": "writing-p6-002"
+  },
+  {
+    "id": "vocab-p6-writ004",
+    "word": "desk",
+    "translation": "โต๊ะเขียนหนังสือ",
+    "phonetic": "/dɛsk/",
+    "category": "school",
+    "exampleSentence": "There is a desk with a lamp in my room.",
+    "lessonId": "writing-p6-002"
+  },
+  {
+    "id": "vocab-p6-conv001",
+    "word": "cinema",
+    "translation": "โรงภาพยนตร์",
+    "phonetic": "/ˈsɪn.ə.mə/",
+    "category": "travel",
+    "exampleSentence": "I want to go to the cinema this weekend.",
+    "lessonId": "conversation-p6-001"
+  },
+  {
+    "id": "vocab-p6-conv002",
+    "word": "meet",
+    "translation": "พบ",
+    "phonetic": "/miːt/",
+    "category": "action",
+    "exampleSentence": "Let's meet at two o'clock.",
+    "lessonId": "conversation-p6-001"
+  },
+  {
+    "id": "vocab-p6-conv003",
+    "word": "order",
+    "translation": "สั่ง",
+    "phonetic": "/ˈɔːr.dər/",
+    "category": "action",
+    "exampleSentence": "I would like to order a pizza.",
+    "lessonId": "conversation-p6-002"
+  },
+  {
+    "id": "vocab-p6-conv004",
+    "word": "glass",
+    "translation": "แก้ว",
+    "phonetic": "/ɡlæs/",
+    "category": "food",
+    "exampleSentence": "A glass of orange juice, please.",
+    "lessonId": "conversation-p6-002"
+  },
+  {
+    "id": "vocab-m1-003",
+    "word": "finished",
+    "translation": "เสร็จแล้ว",
+    "phonetic": "/ˈfɪn.ɪʃt/",
+    "category": "action",
+    "exampleSentence": "I have finished my homework.",
+    "lessonId": "grammar-m1-001"
+  },
+  {
+    "id": "vocab-m1-004",
+    "word": "never",
+    "translation": "ไม่เคย",
+    "phonetic": "/ˈnɛv.ər/",
+    "category": "time",
+    "exampleSentence": "She has never been to Japan.",
+    "lessonId": "grammar-m1-001"
+  },
+  {
+    "id": "vocab-m1-005",
+    "word": "watching",
+    "translation": "กำลังดู",
+    "phonetic": "/ˈwɒtʃ.ɪŋ/",
+    "category": "action",
+    "exampleSentence": "I was watching TV when my mom called.",
+    "lessonId": "grammar-m1-002"
+  },
+  {
+    "id": "vocab-m1-006",
+    "word": "called",
+    "translation": "เรียก",
+    "phonetic": "/kɔːld/",
+    "category": "action",
+    "exampleSentence": "My mom called me for dinner.",
+    "lessonId": "grammar-m1-002"
+  },
+  {
+    "id": "vocab-m1-007",
+    "word": "can",
+    "translation": "สามารถ",
+    "phonetic": "/kæn/",
+    "category": "action",
+    "exampleSentence": "I can swim very well.",
+    "lessonId": "grammar-m1-003"
+  },
+  {
+    "id": "vocab-m1-008",
+    "word": "must",
+    "translation": "ต้อง",
+    "phonetic": "/mʌst/",
+    "category": "action",
+    "exampleSentence": "You must wear a uniform at school.",
+    "lessonId": "grammar-m1-003"
+  },
+  {
+    "id": "vocab-m1-009",
+    "word": "mine",
+    "translation": "ของฉัน",
+    "phonetic": "/maɪn/",
+    "category": "body",
+    "exampleSentence": "This book is mine.",
+    "lessonId": "grammar-m1-004"
+  },
+  {
+    "id": "vocab-m1-010",
+    "word": "yours",
+    "translation": "ของคุณ",
+    "phonetic": "/jɔːrz/",
+    "category": "body",
+    "exampleSentence": "Is this pen yours?",
+    "lessonId": "grammar-m1-004"
+  },
+  {
+    "id": "vocab-m1-hobby001",
+    "word": "painting",
+    "translation": "การวาดรูป",
+    "phonetic": "/ˈpeɪn.tɪŋ/",
+    "category": "action",
+    "exampleSentence": "I like painting in my free time.",
+    "lessonId": "vocab-m1-001"
+  },
+  {
+    "id": "vocab-m1-hobby002",
+    "word": "swimming",
+    "translation": "การว่ายน้ำ",
+    "phonetic": "/ˈswɪm.ɪŋ/",
+    "category": "sports",
+    "exampleSentence": "Swimming is my favorite hobby.",
+    "lessonId": "vocab-m1-001"
+  },
+  {
+    "id": "vocab-m1-subject001",
+    "word": "mathematics",
+    "translation": "คณิตศาสตร์",
+    "phonetic": "/ˌmæθ.əˈmæt.ɪks/",
+    "category": "school",
+    "exampleSentence": "I have a mathematics test tomorrow.",
+    "lessonId": "vocab-m1-002"
+  },
+  {
+    "id": "vocab-m1-subject002",
+    "word": "science",
+    "translation": "วิทยาศาสตร์",
+    "phonetic": "/ˈsaɪ.əns/",
+    "category": "school",
+    "exampleSentence": "Science is my favorite subject.",
+    "lessonId": "vocab-m1-002"
+  },
+  {
+    "id": "vocab-m1-read001",
+    "word": "biography",
+    "translation": "ชีวประวัติ",
+    "phonetic": "/baɪˈɒɡ.rə.fi/",
+    "category": "culture",
+    "exampleSentence": "I read a biography of a famous king.",
+    "lessonId": "reading-m1-001"
+  },
+  {
+    "id": "vocab-m1-read002",
+    "word": "invent",
+    "translation": "ประดิษฐ์",
+    "phonetic": "/ɪnˈvɛnt/",
+    "category": "action",
+    "exampleSentence": "He invented many things to help farmers.",
+    "lessonId": "reading-m1-001"
+  },
+  {
+    "id": "vocab-m1-read003",
+    "word": "forest",
+    "translation": "ป่าไม้",
+    "phonetic": "/ˈfɒr.ɪst/",
+    "category": "nature",
+    "exampleSentence": "The rabbit lived in a small forest.",
+    "lessonId": "reading-m1-002"
+  },
+  {
+    "id": "vocab-m1-read004",
+    "word": "share",
+    "translation": "แบ่งปัน",
+    "phonetic": "/ʃɛər/",
+    "category": "action",
+    "exampleSentence": "He shared the carrots with his friends.",
+    "lessonId": "reading-m1-002"
+  },
+  {
+    "id": "vocab-m1-writ001",
+    "word": "email",
+    "translation": "อีเมล",
+    "phonetic": "/ˈiː.meɪl/",
+    "category": "technology",
+    "exampleSentence": "I will send you an email tomorrow.",
+    "lessonId": "writing-m1-001"
+  },
+  {
+    "id": "vocab-m1-writ002",
+    "word": "plans",
+    "translation": "แผนการ",
+    "phonetic": "/plænz/",
+    "category": "time",
+    "exampleSentence": "What are your plans for this weekend?",
+    "lessonId": "writing-m1-001"
+  },
+  {
+    "id": "vocab-m1-writ003",
+    "word": "diary",
+    "translation": "บันทึกประจำวัน",
+    "phonetic": "/ˈdaɪ.ər.i/",
+    "category": "school",
+    "exampleSentence": "I write in my diary every night.",
+    "lessonId": "writing-m1-002"
+  },
+  {
+    "id": "vocab-m1-writ004",
+    "word": "proud",
+    "translation": "ภูมิใจ",
+    "phonetic": "/praʊd/",
+    "category": "feeling",
+    "exampleSentence": "My parents are proud of me.",
+    "lessonId": "writing-m1-002"
+  },
+  {
+    "id": "vocab-m1-conv001",
+    "word": "straight",
+    "translation": "ตรงไป",
+    "phonetic": "/streɪt/",
+    "category": "travel",
+    "exampleSentence": "Go straight for two blocks.",
+    "lessonId": "conversation-m1-001"
+  },
+  {
+    "id": "vocab-m1-conv002",
+    "word": "left",
+    "translation": "ซ้าย",
+    "phonetic": "/lɛft/",
+    "category": "travel",
+    "exampleSentence": "Turn left at the hospital.",
+    "lessonId": "conversation-m1-001"
+  },
+  {
+    "id": "vocab-m1-conv003",
+    "word": "price",
+    "translation": "ราคา",
+    "phonetic": "/praɪs/",
+    "category": "culture",
+    "exampleSentence": "The price of this T-shirt is 250 baht.",
+    "lessonId": "conversation-m1-002"
+  },
+  {
+    "id": "vocab-m1-conv004",
+    "word": "discount",
+    "translation": "ส่วนลด",
+    "phonetic": "/ˈdɪs.kaʊnt/",
+    "category": "culture",
+    "exampleSentence": "Can I have a discount?",
+    "lessonId": "conversation-m1-002"
+  },
+  {
+    "id": "vocab-m2-001",
+    "word": "cake",
+    "translation": "เค้ก",
+    "phonetic": "/keɪk/",
+    "category": "food",
+    "exampleSentence": "The cake was eaten by my brother.",
+    "lessonId": "grammar-m2-001"
+  },
+  {
+    "id": "vocab-m2-002",
+    "word": "spoken",
+    "translation": "ถูกพูด",
+    "phonetic": "/ˈspoʊ.kən/",
+    "category": "action",
+    "exampleSentence": "English is spoken all over the world.",
+    "lessonId": "grammar-m2-001"
+  },
+  {
+    "id": "vocab-m2-003",
+    "word": "rains",
+    "translation": "ฝนตก",
+    "phonetic": "/reɪnz/",
+    "category": "nature",
+    "exampleSentence": "If it rains, I will stay home.",
+    "lessonId": "grammar-m2-002"
+  },
+  {
+    "id": "vocab-m2-004",
+    "word": "travel",
+    "translation": "เดินทาง",
+    "phonetic": "/ˈtræv.əl/",
+    "category": "travel",
+    "exampleSentence": "If I had money, I would travel the world.",
+    "lessonId": "grammar-m2-002"
+  },
+  {
+    "id": "vocab-m2-005",
+    "word": "who",
+    "translation": "ผู้ซึ่ง",
+    "phonetic": "/huː/",
+    "category": "body",
+    "exampleSentence": "The girl who is sitting there is my sister.",
+    "lessonId": "grammar-m2-003"
+  },
+  {
+    "id": "vocab-m2-006",
+    "word": "which",
+    "translation": "ซึ่ง",
+    "phonetic": "/wɪtʃ/",
+    "category": "school",
+    "exampleSentence": "The book which I read was interesting.",
+    "lessonId": "grammar-m2-003"
+  },
+  {
+    "id": "vocab-m2-007",
+    "word": "said",
+    "translation": "พูดว่า",
+    "phonetic": "/sɛd/",
+    "category": "action",
+    "exampleSentence": "She said that she was tired.",
+    "lessonId": "grammar-m2-004"
+  },
+  {
+    "id": "vocab-m2-008",
+    "word": "tired",
+    "translation": "เหนื่อย",
+    "phonetic": "/taɪərd/",
+    "category": "feeling",
+    "exampleSentence": "I am very tired after school.",
+    "lessonId": "grammar-m2-004"
+  },
+  {
+    "id": "vocab-m2-env001",
+    "word": "environment",
+    "translation": "สิ่งแวดล้อม",
+    "phonetic": "/ɪnˈvaɪ.rən.mənt/",
+    "category": "nature",
+    "exampleSentence": "We must protect the environment.",
+    "lessonId": "vocab-m2-001"
+  },
+  {
+    "id": "vocab-m2-env002",
+    "word": "recycle",
+    "translation": "รีไซเคิล",
+    "phonetic": "/ˌriːˈsaɪ.kəl/",
+    "category": "nature",
+    "exampleSentence": "We should recycle plastic bottles.",
+    "lessonId": "vocab-m2-001"
+  },
+  {
+    "id": "vocab-m2-health001",
+    "word": "headache",
+    "translation": "ปวดหัว",
+    "phonetic": "/ˈhɛd.eɪk/",
+    "category": "health",
+    "exampleSentence": "I have a bad headache today.",
+    "lessonId": "vocab-m2-002"
+  },
+  {
+    "id": "vocab-m2-health002",
+    "word": "exercise",
+    "translation": "ออกกำลังกาย",
+    "phonetic": "/ˈɛk.sər.saɪz/",
+    "category": "health",
+    "exampleSentence": "I exercise every morning.",
+    "lessonId": "vocab-m2-002"
+  },
+  {
+    "id": "vocab-m2-read001",
+    "word": "award",
+    "translation": "รางวัล",
+    "phonetic": "/əˈwɔːrd/",
+    "category": "school",
+    "exampleSentence": "The students won a science award.",
+    "lessonId": "reading-m2-001"
+  },
+  {
+    "id": "vocab-m2-read002",
+    "word": "project",
+    "translation": "โครงงาน",
+    "phonetic": "/ˈprɒdʒ.ɛkt/",
+    "category": "school",
+    "exampleSentence": "Their project was about organic fertilizer.",
+    "lessonId": "reading-m2-001"
+  },
+  {
+    "id": "vocab-m2-read003",
+    "word": "temple",
+    "translation": "วัด",
+    "phonetic": "/ˈtɛm.pəl/",
+    "category": "travel",
+    "exampleSentence": "We visited a beautiful temple in Chiang Mai.",
+    "lessonId": "reading-m2-002"
+  },
+  {
+    "id": "vocab-m2-read004",
+    "word": "souvenir",
+    "translation": "ของที่ระลึก",
+    "phonetic": "/ˌsuː.vəˈnɪr/",
+    "category": "travel",
+    "exampleSentence": "I bought souvenirs at the night market.",
+    "lessonId": "reading-m2-002"
+  },
+  {
+    "id": "vocab-m2-writ001",
+    "word": "opinion",
+    "translation": "ความคิดเห็น",
+    "phonetic": "/əˈpɪn.jən/",
+    "category": "school",
+    "exampleSentence": "In my opinion, students should not use phones in class.",
+    "lessonId": "writing-m2-001"
+  },
+  {
+    "id": "vocab-m2-writ002",
+    "word": "distract",
+    "translation": "ทำให้ไขว้เขว",
+    "phonetic": "/dɪˈstrækt/",
+    "category": "action",
+    "exampleSentence": "Phones distract students from learning.",
+    "lessonId": "writing-m2-001"
+  },
+  {
+    "id": "vocab-m2-writ003",
+    "word": "summary",
+    "translation": "การสรุปความ",
+    "phonetic": "/ˈsʌm.ər.i/",
+    "category": "school",
+    "exampleSentence": "Write a summary of the story.",
+    "lessonId": "writing-m2-002"
+  },
+  {
+    "id": "vocab-m2-writ004",
+    "word": "main idea",
+    "translation": "ใจความสำคัญ",
+    "phonetic": "/meɪn aɪˈdɪə/",
+    "category": "school",
+    "exampleSentence": "The main idea is that sharing makes everyone happy.",
+    "lessonId": "writing-m2-002"
+  },
+  {
+    "id": "vocab-m2-conv001",
+    "word": "agree",
+    "translation": "เห็นด้วย",
+    "phonetic": "/əˈɡriː/",
+    "category": "action",
+    "exampleSentence": "I agree with your opinion.",
+    "lessonId": "conversation-m2-001"
+  },
+  {
+    "id": "vocab-m2-conv002",
+    "word": "convenient",
+    "translation": "สะดวก",
+    "phonetic": "/kənˈviː.ni.ənt/",
+    "category": "adjective",
+    "exampleSentence": "Online learning is very convenient.",
+    "lessonId": "conversation-m2-001"
+  },
+  {
+    "id": "vocab-m2-conv003",
+    "word": "fever",
+    "translation": "ไข้",
+    "phonetic": "/ˈfiː.vər/",
+    "category": "health",
+    "exampleSentence": "I have a fever and a headache.",
+    "lessonId": "conversation-m2-002"
+  },
+  {
+    "id": "vocab-m2-conv004",
+    "word": "medicine",
+    "translation": "ยา",
+    "phonetic": "/ˈmɛd.ɪ.sɪn/",
+    "category": "health",
+    "exampleSentence": "Take this medicine three times a day.",
+    "lessonId": "conversation-m2-002"
+  },
+  {
+    "id": "vocab-m3-001",
+    "word": "review",
+    "translation": "ทบทวน",
+    "phonetic": "/rɪˈvjuː/",
+    "category": "school",
+    "exampleSentence": "Let us review all the tenses together.",
+    "lessonId": "grammar-m3-001"
+  },
+  {
+    "id": "vocab-m3-002",
+    "word": "tense",
+    "translation": "กาลเวลา",
+    "phonetic": "/tɛns/",
+    "category": "school",
+    "exampleSentence": "There are twelve tenses in English.",
+    "lessonId": "grammar-m3-001"
+  },
+  {
+    "id": "vocab-m3-003",
+    "word": "exam",
+    "translation": "การสอบ",
+    "phonetic": "/ɪɡˈzæm/",
+    "category": "school",
+    "exampleSentence": "If I had studied harder, I would have passed the exam.",
+    "lessonId": "grammar-m3-002"
+  },
+  {
+    "id": "vocab-m3-004",
+    "word": "missed",
+    "translation": "พลาด",
+    "phonetic": "/mɪst/",
+    "category": "action",
+    "exampleSentence": "She missed the bus this morning.",
+    "lessonId": "grammar-m3-002"
+  },
+  {
+    "id": "vocab-m3-005",
+    "word": "wish",
+    "translation": "ปรารถนา",
+    "phonetic": "/wɪʃ/",
+    "category": "feeling",
+    "exampleSentence": "I wish I were taller.",
+    "lessonId": "grammar-m3-003"
+  },
+  {
+    "id": "vocab-m3-006",
+    "word": "taller",
+    "translation": "สูงกว่า",
+    "phonetic": "/ˈtɔː.lər/",
+    "category": "adjective",
+    "exampleSentence": "I wish I were taller than my brother.",
+    "lessonId": "grammar-m3-003"
+  },
+  {
+    "id": "vocab-m3-007",
+    "word": "however",
+    "translation": "อย่างไรก็ตาม",
+    "phonetic": "/haʊˈɛv.ər/",
+    "category": "school",
+    "exampleSentence": "I like the movie; however, it was too long.",
+    "lessonId": "grammar-m3-004"
+  },
+  {
+    "id": "vocab-m3-008",
+    "word": "therefore",
+    "translation": "ดังนั้น",
+    "phonetic": "/ˈðɛər.fɔːr/",
+    "category": "school",
+    "exampleSentence": "I was sick; therefore, I stayed home.",
+    "lessonId": "grammar-m3-004"
+  },
+  {
+    "id": "vocab-m3-soc001",
+    "word": "culture",
+    "translation": "วัฒนธรรม",
+    "phonetic": "/ˈkʌl.tʃər/",
+    "category": "culture",
+    "exampleSentence": "Thai culture is very rich and beautiful.",
+    "lessonId": "vocab-m3-001"
+  },
+  {
+    "id": "vocab-m3-soc002",
+    "word": "tradition",
+    "translation": "ประเพณี",
+    "phonetic": "/trəˈdɪʃ.ən/",
+    "category": "culture",
+    "exampleSentence": "Songkran is a Thai tradition.",
+    "lessonId": "vocab-m3-001"
+  },
+  {
+    "id": "vocab-m3-sci001",
+    "word": "computer",
+    "translation": "คอมพิวเตอร์",
+    "phonetic": "/kəmˈpjuː.tər/",
+    "category": "technology",
+    "exampleSentence": "I use a computer to do my homework.",
+    "lessonId": "vocab-m3-002"
+  },
+  {
+    "id": "vocab-m3-sci002",
+    "word": "experiment",
+    "translation": "การทดลอง",
+    "phonetic": "/ɪkˈspɛr.ɪ.mənt/",
+    "category": "science",
+    "exampleSentence": "We did a science experiment in class.",
+    "lessonId": "vocab-m3-002"
+  },
+  {
+    "id": "vocab-m3-read001",
+    "word": "pollution",
+    "translation": "มลพิษ",
+    "phonetic": "/pəˈluː.ʃən/",
+    "category": "nature",
+    "exampleSentence": "Plastic pollution harms marine animals.",
+    "lessonId": "reading-m3-001"
+  },
+  {
+    "id": "vocab-m3-read002",
+    "word": "waste",
+    "translation": "ขยะ",
+    "phonetic": "/weɪst/",
+    "category": "nature",
+    "exampleSentence": "Millions of tons of plastic waste end up in the ocean.",
+    "lessonId": "reading-m3-001"
+  },
+  {
+    "id": "vocab-m3-read003",
+    "word": "poem",
+    "translation": "บทกวี",
+    "phonetic": "/ˈpoʊ.ɪm/",
+    "category": "culture",
+    "exampleSentence": "I like to read poems about nature.",
+    "lessonId": "reading-m3-002"
+  },
+  {
+    "id": "vocab-m3-read004",
+    "word": "rhyme",
+    "translation": "สัมผัส",
+    "phonetic": "/raɪm/",
+    "category": "culture",
+    "exampleSentence": "The words 'sky' and 'high' rhyme.",
+    "lessonId": "reading-m3-002"
+  },
+  {
+    "id": "vocab-m3-writ001",
+    "word": "letter",
+    "translation": "จดหมาย",
+    "phonetic": "/ˈlɛt.ər/",
+    "category": "school",
+    "exampleSentence": "I am writing a formal letter to the principal.",
+    "lessonId": "writing-m3-001"
+  },
+  {
+    "id": "vocab-m3-writ002",
+    "word": "apply",
+    "translation": "สมัคร",
+    "phonetic": "/əˈplaɪ/",
+    "category": "action",
+    "exampleSentence": "I want to apply for the student council.",
+    "lessonId": "writing-m3-001"
+  },
+  {
+    "id": "vocab-m3-writ003",
+    "word": "essay",
+    "translation": "เรียงความ",
+    "phonetic": "/ˈɛs.eɪ/",
+    "category": "school",
+    "exampleSentence": "I need to write an essay about reading.",
+    "lessonId": "writing-m3-002"
+  },
+  {
+    "id": "vocab-m3-writ004",
+    "word": "conclusion",
+    "translation": "บทสรุป",
+    "phonetic": "/kənˈkluː.ʒən/",
+    "category": "school",
+    "exampleSentence": "In conclusion, reading is very beneficial.",
+    "lessonId": "writing-m3-002"
+  },
+  {
+    "id": "vocab-m3-conv001",
+    "word": "interview",
+    "translation": "สัมภาษณ์",
+    "phonetic": "/ˈɪn.tər.vjuː/",
+    "category": "culture",
+    "exampleSentence": "I have a job interview tomorrow.",
+    "lessonId": "conversation-m3-001"
+  },
+  {
+    "id": "vocab-m3-conv002",
+    "word": "skills",
+    "translation": "ทักษะ",
+    "phonetic": "/skɪlz/",
+    "category": "school",
+    "exampleSentence": "I have good communication skills.",
+    "lessonId": "conversation-m3-001"
+  },
+  {
+    "id": "vocab-m3-conv003",
+    "word": "message",
+    "translation": "ข้อความ",
+    "phonetic": "/ˈmɛs.ɪdʒ/",
+    "category": "technology",
+    "exampleSentence": "Can I take a message?",
+    "lessonId": "conversation-m3-002"
+  },
+  {
+    "id": "vocab-m3-conv004",
+    "word": "available",
+    "translation": "ว่าง",
+    "phonetic": "/əˈveɪ.lə.bəl/",
+    "category": "time",
+    "exampleSentence": "He is not available right now.",
+    "lessonId": "conversation-m3-002"
+  }
+]
