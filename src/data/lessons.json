@@ -4,7 +4,9 @@
     "title": "Present Simple Tense",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -23,15 +25,30 @@
         "body": "She reads a book every night. (เธออ่านหนังสือทุกคืน)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-001", "vocab-p5-002"],
-    "exerciseIds": ["ex-grammar-p5-001"]
+    "vocabularyIds": [
+      "vocab-grammar-p5-001-01",
+      "vocab-grammar-p5-001-02",
+      "vocab-grammar-p5-001-03",
+      "vocab-grammar-p5-001-04",
+      "vocab-grammar-p5-001-05",
+      "vocab-grammar-p5-001-06",
+      "vocab-grammar-p5-001-07",
+      "vocab-grammar-p5-001-08",
+      "vocab-grammar-p5-001-09",
+      "vocab-grammar-p5-001-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p5-001"
+    ]
   },
   {
     "id": "grammar-p5-002",
     "title": "Present Continuous Tense",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -50,15 +67,30 @@
         "body": "They are playing football in the park. (พวกเขากำลังเล่นฟุตบอลในสวนสาธารณะ)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-003", "vocab-p5-004"],
-    "exerciseIds": ["ex-grammar-p5-002"]
+    "vocabularyIds": [
+      "vocab-grammar-p5-002-01",
+      "vocab-grammar-p5-002-02",
+      "vocab-grammar-p5-002-03",
+      "vocab-grammar-p5-002-04",
+      "vocab-grammar-p5-002-05",
+      "vocab-grammar-p5-002-06",
+      "vocab-grammar-p5-002-07",
+      "vocab-grammar-p5-002-08",
+      "vocab-grammar-p5-002-09",
+      "vocab-grammar-p5-002-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p5-002"
+    ]
   },
   {
     "id": "grammar-p5-003",
     "title": "Articles a/an/the",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -77,15 +109,30 @@
         "body": "the ใช้เมื่อพูดถึงสิ่งเฉพาะหรือสิ่งที่รู้กันทั้งสองฝ่าย เช่น the sun, the door"
       }
     ],
-    "vocabularyIds": ["vocab-p5-005", "vocab-p5-006"],
-    "exerciseIds": ["ex-grammar-p5-003"]
+    "vocabularyIds": [
+      "vocab-grammar-p5-003-01",
+      "vocab-grammar-p5-003-02",
+      "vocab-grammar-p5-003-03",
+      "vocab-grammar-p5-003-04",
+      "vocab-grammar-p5-003-05",
+      "vocab-grammar-p5-003-06",
+      "vocab-grammar-p5-003-07",
+      "vocab-grammar-p5-003-08",
+      "vocab-grammar-p5-003-09",
+      "vocab-grammar-p5-003-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p5-003"
+    ]
   },
   {
     "id": "grammar-p5-004",
     "title": "Plural Nouns",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -104,15 +151,30 @@
         "body": "คำนามที่ไม่เปลี่ยนรูป: child → children, foot → feet, mouse → mice"
       }
     ],
-    "vocabularyIds": ["vocab-p5-007", "vocab-p5-008"],
-    "exerciseIds": ["ex-grammar-p5-004"]
+    "vocabularyIds": [
+      "vocab-grammar-p5-004-01",
+      "vocab-grammar-p5-004-02",
+      "vocab-grammar-p5-004-03",
+      "vocab-grammar-p5-004-04",
+      "vocab-grammar-p5-004-05",
+      "vocab-grammar-p5-004-06",
+      "vocab-grammar-p5-004-07",
+      "vocab-grammar-p5-004-08",
+      "vocab-grammar-p5-004-09",
+      "vocab-grammar-p5-004-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p5-004"
+    ]
   },
   {
     "id": "vocab-p5-002",
     "title": "Food & Drinks",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -127,15 +189,30 @@
         "body": "noodles (ก๋วยเตี๋ยว), fruit (ผลไม้), cake (เค้ก), soup (ซุป), salad (สลัด), ice cream (ไอศกรีม)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-food001", "vocab-p5-food002"],
-    "exerciseIds": ["ex-vocab-p5-002"]
+    "vocabularyIds": [
+      "vocab-vocab-p5-002-01",
+      "vocab-vocab-p5-002-02",
+      "vocab-vocab-p5-002-03",
+      "vocab-vocab-p5-002-04",
+      "vocab-vocab-p5-002-05",
+      "vocab-vocab-p5-002-06",
+      "vocab-vocab-p5-002-07",
+      "vocab-vocab-p5-002-08",
+      "vocab-vocab-p5-002-09",
+      "vocab-vocab-p5-002-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-p5-002"
+    ]
   },
   {
     "id": "vocab-p5-003",
     "title": "Animals",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -150,15 +227,30 @@
         "body": "elephant (ช้าง), tiger (เสือ), lion (สิงโต), monkey (ลิง), bear (หมี), snake (งู)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-animal001", "vocab-p5-animal002"],
-    "exerciseIds": ["ex-vocab-p5-003"]
+    "vocabularyIds": [
+      "vocab-vocab-p5-003-01",
+      "vocab-vocab-p5-003-02",
+      "vocab-vocab-p5-003-03",
+      "vocab-vocab-p5-003-04",
+      "vocab-vocab-p5-003-05",
+      "vocab-vocab-p5-003-06",
+      "vocab-vocab-p5-003-07",
+      "vocab-vocab-p5-003-08",
+      "vocab-vocab-p5-003-09",
+      "vocab-vocab-p5-003-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-p5-003"
+    ]
   },
   {
     "id": "reading-p5-002",
     "title": "My School",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -169,15 +261,30 @@
         "body": "คำศัพท์น่ารู้: classroom (ห้องเรียน), library (ห้องสมุด), break time (เวลาพัก), second floor (ชั้นสอง), best friend (เพื่อนสนิท)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-read001", "vocab-p5-read002"],
-    "exerciseIds": ["ex-reading-p5-002"]
+    "vocabularyIds": [
+      "vocab-reading-p5-002-01",
+      "vocab-reading-p5-002-02",
+      "vocab-reading-p5-002-03",
+      "vocab-reading-p5-002-04",
+      "vocab-reading-p5-002-05",
+      "vocab-reading-p5-002-06",
+      "vocab-reading-p5-002-07",
+      "vocab-reading-p5-002-08",
+      "vocab-reading-p5-002-09",
+      "vocab-reading-p5-002-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-p5-002"
+    ]
   },
   {
     "id": "reading-p5-003",
     "title": "My Family",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -188,15 +295,30 @@
         "body": "คำศัพท์น่ารู้: father (พ่อ), mother (แม่), brother (น้องชาย), nurse (พยาบาล), together (ด้วยกัน), weekend (วันหยุดสุดสัปดาห์)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-read003", "vocab-p5-read004"],
-    "exerciseIds": ["ex-reading-p5-003"]
+    "vocabularyIds": [
+      "vocab-reading-p5-003-01",
+      "vocab-reading-p5-003-02",
+      "vocab-reading-p5-003-03",
+      "vocab-reading-p5-003-04",
+      "vocab-reading-p5-003-05",
+      "vocab-reading-p5-003-06",
+      "vocab-reading-p5-003-07",
+      "vocab-reading-p5-003-08",
+      "vocab-reading-p5-003-09",
+      "vocab-reading-p5-003-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-p5-003"
+    ]
   },
   {
     "id": "writing-p5-001",
     "title": "My Daily Routine",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -211,15 +333,30 @@
         "body": "โครงสร้างที่ควรใช้: I + กริยา + at + เวลา หรือ I + กริยา + in the morning/afternoon/evening"
       }
     ],
-    "vocabularyIds": ["vocab-p5-writ001", "vocab-p5-writ002"],
-    "exerciseIds": ["ex-writing-p5-001"]
+    "vocabularyIds": [
+      "vocab-writing-p5-001-01",
+      "vocab-writing-p5-001-02",
+      "vocab-writing-p5-001-03",
+      "vocab-writing-p5-001-04",
+      "vocab-writing-p5-001-05",
+      "vocab-writing-p5-001-06",
+      "vocab-writing-p5-001-07",
+      "vocab-writing-p5-001-08",
+      "vocab-writing-p5-001-09",
+      "vocab-writing-p5-001-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-p5-001"
+    ]
   },
   {
     "id": "writing-p5-002",
     "title": "Describing My Pet",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -234,15 +371,30 @@
         "body": "คำศัพท์น่ารู้: pet (สัตว์เลี้ยง), fluffy (นุ่ม), cute (น่ารัก), friendly (เป็นมิตร), tail (หาง), fur (ขน)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-writ003", "vocab-p5-writ004"],
-    "exerciseIds": ["ex-writing-p5-002"]
+    "vocabularyIds": [
+      "vocab-writing-p5-002-01",
+      "vocab-writing-p5-002-02",
+      "vocab-writing-p5-002-03",
+      "vocab-writing-p5-002-04",
+      "vocab-writing-p5-002-05",
+      "vocab-writing-p5-002-06",
+      "vocab-writing-p5-002-07",
+      "vocab-writing-p5-002-08",
+      "vocab-writing-p5-002-09",
+      "vocab-writing-p5-002-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-p5-002"
+    ]
   },
   {
     "id": "conversation-p5-001",
     "title": "Greetings & Introductions",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -265,15 +417,30 @@
         "body": "B: Nice to meet you too! (ยินดีที่ได้รู้จักเช่นกัน)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-conv001", "vocab-p5-conv002"],
-    "exerciseIds": ["ex-conv-p5-001"]
+    "vocabularyIds": [
+      "vocab-conversation-p5-001-01",
+      "vocab-conversation-p5-001-02",
+      "vocab-conversation-p5-001-03",
+      "vocab-conversation-p5-001-04",
+      "vocab-conversation-p5-001-05",
+      "vocab-conversation-p5-001-06",
+      "vocab-conversation-p5-001-07",
+      "vocab-conversation-p5-001-08",
+      "vocab-conversation-p5-001-09",
+      "vocab-conversation-p5-001-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-p5-001"
+    ]
   },
   {
     "id": "conversation-p5-002",
     "title": "Talking About Favorites",
     "grade": "p5",
     "gradeLabel": "ป.5",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -296,15 +463,30 @@
         "body": "B: My favorite color is blue. (สีที่ฉันชอบคือสีฟ้า)"
       }
     ],
-    "vocabularyIds": ["vocab-p5-conv003", "vocab-p5-conv004"],
-    "exerciseIds": ["ex-conv-p5-002"]
+    "vocabularyIds": [
+      "vocab-conversation-p5-002-01",
+      "vocab-conversation-p5-002-02",
+      "vocab-conversation-p5-002-03",
+      "vocab-conversation-p5-002-04",
+      "vocab-conversation-p5-002-05",
+      "vocab-conversation-p5-002-06",
+      "vocab-conversation-p5-002-07",
+      "vocab-conversation-p5-002-08",
+      "vocab-conversation-p5-002-09",
+      "vocab-conversation-p5-002-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-p5-002"
+    ]
   },
   {
     "id": "grammar-p6-001",
     "title": "Past Simple Tense",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -323,15 +505,30 @@
         "body": "They played football last Sunday. (พวกเขาเล่นฟุตบอลวันอาทิตย์ที่แล้ว)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-001", "vocab-p6-002"],
-    "exerciseIds": ["ex-grammar-p6-001"]
+    "vocabularyIds": [
+      "vocab-grammar-p6-001-01",
+      "vocab-grammar-p6-001-02",
+      "vocab-grammar-p6-001-03",
+      "vocab-grammar-p6-001-04",
+      "vocab-grammar-p6-001-05",
+      "vocab-grammar-p6-001-06",
+      "vocab-grammar-p6-001-07",
+      "vocab-grammar-p6-001-08",
+      "vocab-grammar-p6-001-09",
+      "vocab-grammar-p6-001-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p6-001"
+    ]
   },
   {
     "id": "grammar-p6-002",
     "title": "Future with Will",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -350,15 +547,30 @@
         "body": "She will help you with your homework. (เธอจะช่วย你做การบ้าน)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-003", "vocab-p6-004"],
-    "exerciseIds": ["ex-grammar-p6-002"]
+    "vocabularyIds": [
+      "vocab-grammar-p6-002-01",
+      "vocab-grammar-p6-002-02",
+      "vocab-grammar-p6-002-03",
+      "vocab-grammar-p6-002-04",
+      "vocab-grammar-p6-002-05",
+      "vocab-grammar-p6-002-06",
+      "vocab-grammar-p6-002-07",
+      "vocab-grammar-p6-002-08",
+      "vocab-grammar-p6-002-09",
+      "vocab-grammar-p6-002-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p6-002"
+    ]
   },
   {
     "id": "grammar-p6-003",
     "title": "Comparative Adjectives",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -377,15 +589,30 @@
         "body": "คำคุณศัพท์สองพยางค์ขึ้นไปใช้ more: beautiful → more beautiful, expensive → more expensive"
       }
     ],
-    "vocabularyIds": ["vocab-p6-005", "vocab-p6-006"],
-    "exerciseIds": ["ex-grammar-p6-003"]
+    "vocabularyIds": [
+      "vocab-grammar-p6-003-01",
+      "vocab-grammar-p6-003-02",
+      "vocab-grammar-p6-003-03",
+      "vocab-grammar-p6-003-04",
+      "vocab-grammar-p6-003-05",
+      "vocab-grammar-p6-003-06",
+      "vocab-grammar-p6-003-07",
+      "vocab-grammar-p6-003-08",
+      "vocab-grammar-p6-003-09",
+      "vocab-grammar-p6-003-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p6-003"
+    ]
   },
   {
     "id": "grammar-p6-004",
     "title": "There is / There are",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -404,15 +631,30 @@
         "body": "รูปปฏิเสธ: There isn't / There aren't: There isn't any milk in the fridge. (ไม่มีนมในตู้เย็น)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-007", "vocab-p6-008"],
-    "exerciseIds": ["ex-grammar-p6-004"]
+    "vocabularyIds": [
+      "vocab-grammar-p6-004-01",
+      "vocab-grammar-p6-004-02",
+      "vocab-grammar-p6-004-03",
+      "vocab-grammar-p6-004-04",
+      "vocab-grammar-p6-004-05",
+      "vocab-grammar-p6-004-06",
+      "vocab-grammar-p6-004-07",
+      "vocab-grammar-p6-004-08",
+      "vocab-grammar-p6-004-09",
+      "vocab-grammar-p6-004-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-p6-004"
+    ]
   },
   {
     "id": "vocab-p6-001",
     "title": "Weather & Seasons",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -427,15 +669,30 @@
         "body": "ฤดูกาล: summer (ฤดูร้อน), winter (ฤดูหนาว), autumn/fall (ฤดูใบไม้ร่วง), spring (ฤดูใบไม้ผลิ)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-weather001", "vocab-p6-weather002"],
-    "exerciseIds": ["ex-vocab-p6-001"]
+    "vocabularyIds": [
+      "vocab-vocab-p6-001-01",
+      "vocab-vocab-p6-001-02",
+      "vocab-vocab-p6-001-03",
+      "vocab-vocab-p6-001-04",
+      "vocab-vocab-p6-001-05",
+      "vocab-vocab-p6-001-06",
+      "vocab-vocab-p6-001-07",
+      "vocab-vocab-p6-001-08",
+      "vocab-vocab-p6-001-09",
+      "vocab-vocab-p6-001-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-p6-001"
+    ]
   },
   {
     "id": "vocab-p6-002",
     "title": "Clothes",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -450,15 +707,30 @@
         "body": "shoes (รองเท้า), socks (ถุงเท้า), jacket (เสื้อแจ็กเก็ต), hat (หมวก), scarf (ผ้าพันคอ), gloves (ถุงมือ)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-clothes001", "vocab-p6-clothes002"],
-    "exerciseIds": ["ex-vocab-p6-002"]
+    "vocabularyIds": [
+      "vocab-vocab-p6-002-01",
+      "vocab-vocab-p6-002-02",
+      "vocab-vocab-p6-002-03",
+      "vocab-vocab-p6-002-04",
+      "vocab-vocab-p6-002-05",
+      "vocab-vocab-p6-002-06",
+      "vocab-vocab-p6-002-07",
+      "vocab-vocab-p6-002-08",
+      "vocab-vocab-p6-002-09",
+      "vocab-vocab-p6-002-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-p6-002"
+    ]
   },
   {
     "id": "reading-p6-001",
     "title": "My Last Holiday",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -469,15 +741,30 @@
         "body": "คำศัพท์น่ารู้: holiday (วันหยุด), summer (ฤดูร้อน), beach (ชายหาด), seafood (อาหารทะเล), sunset (พระอาทิตย์ตก), wonderful (ยอดเยี่ยม)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-read001", "vocab-p6-read002"],
-    "exerciseIds": ["ex-reading-p6-001"]
+    "vocabularyIds": [
+      "vocab-reading-p6-001-01",
+      "vocab-reading-p6-001-02",
+      "vocab-reading-p6-001-03",
+      "vocab-reading-p6-001-04",
+      "vocab-reading-p6-001-05",
+      "vocab-reading-p6-001-06",
+      "vocab-reading-p6-001-07",
+      "vocab-reading-p6-001-08",
+      "vocab-reading-p6-001-09",
+      "vocab-reading-p6-001-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-p6-001"
+    ]
   },
   {
     "id": "reading-p6-002",
     "title": "A Letter to a Friend",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -488,15 +775,30 @@
         "body": "คำศัพท์น่ารู้: dear (ที่รัก/เรียน), hope (หวัง), subject (วิชา), fair (งานประจำปี), write back (เขียนกลับ), soon (เร็วๆ นี้)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-read003", "vocab-p6-read004"],
-    "exerciseIds": ["ex-reading-p6-002"]
+    "vocabularyIds": [
+      "vocab-reading-p6-002-01",
+      "vocab-reading-p6-002-02",
+      "vocab-reading-p6-002-03",
+      "vocab-reading-p6-002-04",
+      "vocab-reading-p6-002-05",
+      "vocab-reading-p6-002-06",
+      "vocab-reading-p6-002-07",
+      "vocab-reading-p6-002-08",
+      "vocab-reading-p6-002-09",
+      "vocab-reading-p6-002-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-p6-002"
+    ]
   },
   {
     "id": "writing-p6-001",
     "title": "My Weekend",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -511,15 +813,30 @@
         "body": "คำเชื่อมที่ควรใช้: first (ก่อนอื่น), then (แล้วก็), after that (หลังจากนั้น), finally (ในที่สุด)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-writ001", "vocab-p6-writ002"],
-    "exerciseIds": ["ex-writing-p6-001"]
+    "vocabularyIds": [
+      "vocab-writing-p6-001-01",
+      "vocab-writing-p6-001-02",
+      "vocab-writing-p6-001-03",
+      "vocab-writing-p6-001-04",
+      "vocab-writing-p6-001-05",
+      "vocab-writing-p6-001-06",
+      "vocab-writing-p6-001-07",
+      "vocab-writing-p6-001-08",
+      "vocab-writing-p6-001-09",
+      "vocab-writing-p6-001-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-p6-001"
+    ]
   },
   {
     "id": "writing-p6-002",
     "title": "Describing a Place",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -534,15 +851,30 @@
         "body": "คำศัพท์น่ารู้: bedroom (ห้องนอน), cozy (อบอุ่น), bookshelf (ชั้นหนังสือ), carpet (พรม), desk (โต๊ะเขียนหนังสือ), lamp (โคมไฟ)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-writ003", "vocab-p6-writ004"],
-    "exerciseIds": ["ex-writing-p6-002"]
+    "vocabularyIds": [
+      "vocab-writing-p6-002-01",
+      "vocab-writing-p6-002-02",
+      "vocab-writing-p6-002-03",
+      "vocab-writing-p6-002-04",
+      "vocab-writing-p6-002-05",
+      "vocab-writing-p6-002-06",
+      "vocab-writing-p6-002-07",
+      "vocab-writing-p6-002-08",
+      "vocab-writing-p6-002-09",
+      "vocab-writing-p6-002-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-p6-002"
+    ]
   },
   {
     "id": "conversation-p6-001",
     "title": "Making Plans",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -565,15 +897,30 @@
         "body": "B: Let's meet at 2 o'clock at the mall. (เจอกันตอนบ่าย 2 โมงที่ห้างนะ)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-conv001", "vocab-p6-conv002"],
-    "exerciseIds": ["ex-conv-p6-001"]
+    "vocabularyIds": [
+      "vocab-conversation-p6-001-01",
+      "vocab-conversation-p6-001-02",
+      "vocab-conversation-p6-001-03",
+      "vocab-conversation-p6-001-04",
+      "vocab-conversation-p6-001-05",
+      "vocab-conversation-p6-001-06",
+      "vocab-conversation-p6-001-07",
+      "vocab-conversation-p6-001-08",
+      "vocab-conversation-p6-001-09",
+      "vocab-conversation-p6-001-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-p6-001"
+    ]
   },
   {
     "id": "conversation-p6-002",
     "title": "Ordering Food",
     "grade": "p6",
     "gradeLabel": "ป.6",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -596,15 +943,30 @@
         "body": "Customer: No, thank you. How much is that? (ไม่เป็นไร ขอบคุณ เท่าไหร่คะ)"
       }
     ],
-    "vocabularyIds": ["vocab-p6-conv003", "vocab-p6-conv004"],
-    "exerciseIds": ["ex-conv-p6-002"]
+    "vocabularyIds": [
+      "vocab-conversation-p6-002-01",
+      "vocab-conversation-p6-002-02",
+      "vocab-conversation-p6-002-03",
+      "vocab-conversation-p6-002-04",
+      "vocab-conversation-p6-002-05",
+      "vocab-conversation-p6-002-06",
+      "vocab-conversation-p6-002-07",
+      "vocab-conversation-p6-002-08",
+      "vocab-conversation-p6-002-09",
+      "vocab-conversation-p6-002-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-p6-002"
+    ]
   },
   {
     "id": "grammar-m1-001",
     "title": "Present Perfect Tense",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -623,15 +985,30 @@
         "body": "She has never been to Japan. (เธอไม่เคยไปญี่ปุ่น)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-003", "vocab-m1-004"],
-    "exerciseIds": ["ex-grammar-m1-001"]
+    "vocabularyIds": [
+      "vocab-grammar-m1-001-01",
+      "vocab-grammar-m1-001-02",
+      "vocab-grammar-m1-001-03",
+      "vocab-grammar-m1-001-04",
+      "vocab-grammar-m1-001-05",
+      "vocab-grammar-m1-001-06",
+      "vocab-grammar-m1-001-07",
+      "vocab-grammar-m1-001-08",
+      "vocab-grammar-m1-001-09",
+      "vocab-grammar-m1-001-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m1-001"
+    ]
   },
   {
     "id": "grammar-m1-002",
     "title": "Past Continuous Tense",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -650,15 +1027,30 @@
         "body": "They were playing basketball at 4 o'clock yesterday. (พวกเขากำลังเล่นบาสเกตบอลตอน 4 โมงเมื่อวาน)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-005", "vocab-m1-006"],
-    "exerciseIds": ["ex-grammar-m1-002"]
+    "vocabularyIds": [
+      "vocab-grammar-m1-002-01",
+      "vocab-grammar-m1-002-02",
+      "vocab-grammar-m1-002-03",
+      "vocab-grammar-m1-002-04",
+      "vocab-grammar-m1-002-05",
+      "vocab-grammar-m1-002-06",
+      "vocab-grammar-m1-002-07",
+      "vocab-grammar-m1-002-08",
+      "vocab-grammar-m1-002-09",
+      "vocab-grammar-m1-002-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m1-002"
+    ]
   },
   {
     "id": "grammar-m1-003",
     "title": "Modal Verbs",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -677,15 +1069,30 @@
         "body": "should ใช้ให้คำแนะนำ: You should drink more water. (คุณควรดื่มน้ำมากขึ้น)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-007", "vocab-m1-008"],
-    "exerciseIds": ["ex-grammar-m1-003"]
+    "vocabularyIds": [
+      "vocab-grammar-m1-003-01",
+      "vocab-grammar-m1-003-02",
+      "vocab-grammar-m1-003-03",
+      "vocab-grammar-m1-003-04",
+      "vocab-grammar-m1-003-05",
+      "vocab-grammar-m1-003-06",
+      "vocab-grammar-m1-003-07",
+      "vocab-grammar-m1-003-08",
+      "vocab-grammar-m1-003-09",
+      "vocab-grammar-m1-003-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m1-003"
+    ]
   },
   {
     "id": "grammar-m1-004",
     "title": "Possessive Pronouns",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -704,15 +1111,30 @@
         "body": "her → hers, his → his, their → theirs: That house is theirs. (บ้านนั้นเป็นของพวกเขา)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-009", "vocab-m1-010"],
-    "exerciseIds": ["ex-grammar-m1-004"]
+    "vocabularyIds": [
+      "vocab-grammar-m1-004-01",
+      "vocab-grammar-m1-004-02",
+      "vocab-grammar-m1-004-03",
+      "vocab-grammar-m1-004-04",
+      "vocab-grammar-m1-004-05",
+      "vocab-grammar-m1-004-06",
+      "vocab-grammar-m1-004-07",
+      "vocab-grammar-m1-004-08",
+      "vocab-grammar-m1-004-09",
+      "vocab-grammar-m1-004-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m1-004"
+    ]
   },
   {
     "id": "vocab-m1-001",
     "title": "Hobbies & Interests",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -727,15 +1149,30 @@
         "body": "playing guitar (เล่นกีตาร์), dancing (เต้นรำ), swimming (ว่ายน้ำ), cycling (ปั่นจักรยาน), collecting stamps (สะสมแสตมป์)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-hobby001", "vocab-m1-hobby002"],
-    "exerciseIds": ["ex-vocab-m1-001"]
+    "vocabularyIds": [
+      "vocab-vocab-m1-001-01",
+      "vocab-vocab-m1-001-02",
+      "vocab-vocab-m1-001-03",
+      "vocab-vocab-m1-001-04",
+      "vocab-vocab-m1-001-05",
+      "vocab-vocab-m1-001-06",
+      "vocab-vocab-m1-001-07",
+      "vocab-vocab-m1-001-08",
+      "vocab-vocab-m1-001-09",
+      "vocab-vocab-m1-001-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-m1-001"
+    ]
   },
   {
     "id": "vocab-m1-002",
     "title": "School Subjects",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -750,15 +1187,30 @@
         "body": "Art (ศิลปะ), Music (ดนตรี), Physical Education / P.E. (พลศึกษา), Computer Studies (คอมพิวเตอร์), Social Studies (สังคมศึกษา)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-subject001", "vocab-m1-subject002"],
-    "exerciseIds": ["ex-vocab-m1-002"]
+    "vocabularyIds": [
+      "vocab-vocab-m1-002-01",
+      "vocab-vocab-m1-002-02",
+      "vocab-vocab-m1-002-03",
+      "vocab-vocab-m1-002-04",
+      "vocab-vocab-m1-002-05",
+      "vocab-vocab-m1-002-06",
+      "vocab-vocab-m1-002-07",
+      "vocab-vocab-m1-002-08",
+      "vocab-vocab-m1-002-09",
+      "vocab-vocab-m1-002-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-m1-002"
+    ]
   },
   {
     "id": "reading-m1-001",
     "title": "A Biography",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -769,15 +1221,30 @@
         "body": "คำศัพท์น่ารู้: biography (ชีวประวัติ), monarch (กษัตริย์), reign (ครองราชย์), invent (ประดิษฐ์), farmer (เกษตรกร), pass away (ถึงแก่กรรม)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-read001", "vocab-m1-read002"],
-    "exerciseIds": ["ex-reading-m1-001"]
+    "vocabularyIds": [
+      "vocab-reading-m1-001-01",
+      "vocab-reading-m1-001-02",
+      "vocab-reading-m1-001-03",
+      "vocab-reading-m1-001-04",
+      "vocab-reading-m1-001-05",
+      "vocab-reading-m1-001-06",
+      "vocab-reading-m1-001-07",
+      "vocab-reading-m1-001-08",
+      "vocab-reading-m1-001-09",
+      "vocab-reading-m1-001-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-m1-001"
+    ]
   },
   {
     "id": "reading-m1-002",
     "title": "A Short Story",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -788,15 +1255,30 @@
         "body": "คำศัพท์น่ารู้: once upon a time (กาลครั้งหนึ่งนานมาแล้ว), forest (ป่า), magic (วิเศษ), plant (ปลูก), share (แบ่งปัน), colorful (สีสันสดใส)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-read003", "vocab-m1-read004"],
-    "exerciseIds": ["ex-reading-m1-002"]
+    "vocabularyIds": [
+      "vocab-reading-m1-002-01",
+      "vocab-reading-m1-002-02",
+      "vocab-reading-m1-002-03",
+      "vocab-reading-m1-002-04",
+      "vocab-reading-m1-002-05",
+      "vocab-reading-m1-002-06",
+      "vocab-reading-m1-002-07",
+      "vocab-reading-m1-002-08",
+      "vocab-reading-m1-002-09",
+      "vocab-reading-m1-002-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-m1-002"
+    ]
   },
   {
     "id": "writing-m1-001",
     "title": "An Email",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -811,15 +1293,30 @@
         "body": "โครงสร้างอีเมล: To (ถึง) → Subject (หัวข้อ) → Salutation (คำนำ) → Body (เนื้อหา) → Closing (การลงท้าย)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-writ001", "vocab-m1-writ002"],
-    "exerciseIds": ["ex-writing-m1-001"]
+    "vocabularyIds": [
+      "vocab-writing-m1-001-01",
+      "vocab-writing-m1-001-02",
+      "vocab-writing-m1-001-03",
+      "vocab-writing-m1-001-04",
+      "vocab-writing-m1-001-05",
+      "vocab-writing-m1-001-06",
+      "vocab-writing-m1-001-07",
+      "vocab-writing-m1-001-08",
+      "vocab-writing-m1-001-09",
+      "vocab-writing-m1-001-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-m1-001"
+    ]
   },
   {
     "id": "writing-m1-002",
     "title": "A Diary Entry",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -834,15 +1331,30 @@
         "body": "คำศัพท์น่ารู้: diary (บันทึกประจำวัน), score (คะแนน), proud (ภูมิใจ), lucky (โชคดี), win/won (ชนะ)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-writ003", "vocab-m1-writ004"],
-    "exerciseIds": ["ex-writing-m1-002"]
+    "vocabularyIds": [
+      "vocab-writing-m1-002-01",
+      "vocab-writing-m1-002-02",
+      "vocab-writing-m1-002-03",
+      "vocab-writing-m1-002-04",
+      "vocab-writing-m1-002-05",
+      "vocab-writing-m1-002-06",
+      "vocab-writing-m1-002-07",
+      "vocab-writing-m1-002-08",
+      "vocab-writing-m1-002-09",
+      "vocab-writing-m1-002-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-m1-002"
+    ]
   },
   {
     "id": "conversation-m1-001",
     "title": "Asking for Directions",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -865,15 +1377,30 @@
         "body": "B: No, it's about ten minutes on foot. (ไม่ค่ะ ประมาณสิบนาทีเดิน)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-conv001", "vocab-m1-conv002"],
-    "exerciseIds": ["ex-conv-m1-001"]
+    "vocabularyIds": [
+      "vocab-conversation-m1-001-01",
+      "vocab-conversation-m1-001-02",
+      "vocab-conversation-m1-001-03",
+      "vocab-conversation-m1-001-04",
+      "vocab-conversation-m1-001-05",
+      "vocab-conversation-m1-001-06",
+      "vocab-conversation-m1-001-07",
+      "vocab-conversation-m1-001-08",
+      "vocab-conversation-m1-001-09",
+      "vocab-conversation-m1-001-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-m1-001"
+    ]
   },
   {
     "id": "conversation-m1-002",
     "title": "Shopping",
     "grade": "m1",
     "gradeLabel": "ม.1",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -896,15 +1423,30 @@
         "body": "B: I'm sorry, the price is fixed. (ขอโทษค่ะ ราคาคงที่)"
       }
     ],
-    "vocabularyIds": ["vocab-m1-conv003", "vocab-m1-conv004"],
-    "exerciseIds": ["ex-conv-m1-002"]
+    "vocabularyIds": [
+      "vocab-conversation-m1-002-01",
+      "vocab-conversation-m1-002-02",
+      "vocab-conversation-m1-002-03",
+      "vocab-conversation-m1-002-04",
+      "vocab-conversation-m1-002-05",
+      "vocab-conversation-m1-002-06",
+      "vocab-conversation-m1-002-07",
+      "vocab-conversation-m1-002-08",
+      "vocab-conversation-m1-002-09",
+      "vocab-conversation-m1-002-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-m1-002"
+    ]
   },
   {
     "id": "grammar-m2-001",
     "title": "Passive Voice",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -923,15 +1465,30 @@
         "body": "English is spoken all over the world. (ภาษาอังกฤษถูกพูดทั่วโลก)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-001", "vocab-m2-002"],
-    "exerciseIds": ["ex-grammar-m2-001"]
+    "vocabularyIds": [
+      "vocab-grammar-m2-001-01",
+      "vocab-grammar-m2-001-02",
+      "vocab-grammar-m2-001-03",
+      "vocab-grammar-m2-001-04",
+      "vocab-grammar-m2-001-05",
+      "vocab-grammar-m2-001-06",
+      "vocab-grammar-m2-001-07",
+      "vocab-grammar-m2-001-08",
+      "vocab-grammar-m2-001-09",
+      "vocab-grammar-m2-001-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m2-001"
+    ]
   },
   {
     "id": "grammar-m2-002",
     "title": "Conditionals Type 1 & 2",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -950,15 +1507,30 @@
         "body": "Type 2 (ตรงกันข้ามกับความจริง): If I had a million baht, I would travel the world. (ถ้าฉันมีเงินล้าน ฉันจะเที่ยวรอบโลก)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-003", "vocab-m2-004"],
-    "exerciseIds": ["ex-grammar-m2-002"]
+    "vocabularyIds": [
+      "vocab-grammar-m2-002-01",
+      "vocab-grammar-m2-002-02",
+      "vocab-grammar-m2-002-03",
+      "vocab-grammar-m2-002-04",
+      "vocab-grammar-m2-002-05",
+      "vocab-grammar-m2-002-06",
+      "vocab-grammar-m2-002-07",
+      "vocab-grammar-m2-002-08",
+      "vocab-grammar-m2-002-09",
+      "vocab-grammar-m2-002-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m2-002"
+    ]
   },
   {
     "id": "grammar-m2-003",
     "title": "Relative Clauses",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -977,15 +1549,30 @@
         "body": "that ใช้ได้ทั้งคนและสิ่งของ: This is the house that I bought. (นี่คือบ้านที่ฉันซื้อ)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-005", "vocab-m2-006"],
-    "exerciseIds": ["ex-grammar-m2-003"]
+    "vocabularyIds": [
+      "vocab-grammar-m2-003-01",
+      "vocab-grammar-m2-003-02",
+      "vocab-grammar-m2-003-03",
+      "vocab-grammar-m2-003-04",
+      "vocab-grammar-m2-003-05",
+      "vocab-grammar-m2-003-06",
+      "vocab-grammar-m2-003-07",
+      "vocab-grammar-m2-003-08",
+      "vocab-grammar-m2-003-09",
+      "vocab-grammar-m2-003-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m2-003"
+    ]
   },
   {
     "id": "grammar-m2-004",
     "title": "Reported Speech",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -1004,15 +1591,30 @@
         "body": "การเปลี่ยน tense: Present → Past, will → would, can → could"
       }
     ],
-    "vocabularyIds": ["vocab-m2-007", "vocab-m2-008"],
-    "exerciseIds": ["ex-grammar-m2-004"]
+    "vocabularyIds": [
+      "vocab-grammar-m2-004-01",
+      "vocab-grammar-m2-004-02",
+      "vocab-grammar-m2-004-03",
+      "vocab-grammar-m2-004-04",
+      "vocab-grammar-m2-004-05",
+      "vocab-grammar-m2-004-06",
+      "vocab-grammar-m2-004-07",
+      "vocab-grammar-m2-004-08",
+      "vocab-grammar-m2-004-09",
+      "vocab-grammar-m2-004-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m2-004"
+    ]
   },
   {
     "id": "vocab-m2-001",
     "title": "Environment",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -1027,15 +1629,30 @@
         "body": "recycle (รีไซเคิล), reduce (ลดการใช้), reuse (ใช้ซ้ำ), conserve (อนุรักษ์), protect (ปกป้อง), renewable (ทดแทนได้)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-env001", "vocab-m2-env002"],
-    "exerciseIds": ["ex-vocab-m2-001"]
+    "vocabularyIds": [
+      "vocab-vocab-m2-001-01",
+      "vocab-vocab-m2-001-02",
+      "vocab-vocab-m2-001-03",
+      "vocab-vocab-m2-001-04",
+      "vocab-vocab-m2-001-05",
+      "vocab-vocab-m2-001-06",
+      "vocab-vocab-m2-001-07",
+      "vocab-vocab-m2-001-08",
+      "vocab-vocab-m2-001-09",
+      "vocab-vocab-m2-001-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-m2-001"
+    ]
   },
   {
     "id": "vocab-m2-002",
     "title": "Health & Body",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -1050,15 +1667,30 @@
         "body": "fever (ไข้), cough (ไอ), headache (ปวดหัว), stomachache (ปวดท้อง), exercise (ออกกำลังกาย), rest (พักผ่อน)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-health001", "vocab-m2-health002"],
-    "exerciseIds": ["ex-vocab-m2-002"]
+    "vocabularyIds": [
+      "vocab-vocab-m2-002-01",
+      "vocab-vocab-m2-002-02",
+      "vocab-vocab-m2-002-03",
+      "vocab-vocab-m2-002-04",
+      "vocab-vocab-m2-002-05",
+      "vocab-vocab-m2-002-06",
+      "vocab-vocab-m2-002-07",
+      "vocab-vocab-m2-002-08",
+      "vocab-vocab-m2-002-09",
+      "vocab-vocab-m2-002-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-m2-002"
+    ]
   },
   {
     "id": "reading-m2-001",
     "title": "News Article",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -1069,15 +1701,30 @@
         "body": "คำศัพท์น่ารู้: award (รางวัล), science fair (งานประกวดวิทยาศาสตร์), project (โครงงาน), organic fertilizer (ปุ๋ยอินทรีย์), judge (กรรมการ), represent (เป็นตัวแทน)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-read001", "vocab-m2-read002"],
-    "exerciseIds": ["ex-reading-m2-001"]
+    "vocabularyIds": [
+      "vocab-reading-m2-001-01",
+      "vocab-reading-m2-001-02",
+      "vocab-reading-m2-001-03",
+      "vocab-reading-m2-001-04",
+      "vocab-reading-m2-001-05",
+      "vocab-reading-m2-001-06",
+      "vocab-reading-m2-001-07",
+      "vocab-reading-m2-001-08",
+      "vocab-reading-m2-001-09",
+      "vocab-reading-m2-001-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-m2-001"
+    ]
   },
   {
     "id": "reading-m2-002",
     "title": "Travel Blog",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -1088,15 +1735,30 @@
         "body": "คำศัพท์น่ารู้: guesthouse (เกสต์เฮาส์), temple (วัด), view (ทิวทัศน์), noodle dish (อาหารเส้น), bazaar (ตลาด), souvenir (ของที่ระลึก)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-read003", "vocab-m2-read004"],
-    "exerciseIds": ["ex-reading-m2-002"]
+    "vocabularyIds": [
+      "vocab-reading-m2-002-01",
+      "vocab-reading-m2-002-02",
+      "vocab-reading-m2-002-03",
+      "vocab-reading-m2-002-04",
+      "vocab-reading-m2-002-05",
+      "vocab-reading-m2-002-06",
+      "vocab-reading-m2-002-07",
+      "vocab-reading-m2-002-08",
+      "vocab-reading-m2-002-09",
+      "vocab-reading-m2-002-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-m2-002"
+    ]
   },
   {
     "id": "writing-m2-001",
     "title": "Opinion Paragraph",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -1111,15 +1773,30 @@
         "body": "In my opinion, students should not use smartphones in class. First, it distracts them from learning. Second, they might play games instead of listening. Finally, it is not polite to the teacher. Therefore, I think smartphones should be kept in bags during class time."
       }
     ],
-    "vocabularyIds": ["vocab-m2-writ001", "vocab-m2-writ002"],
-    "exerciseIds": ["ex-writing-m2-001"]
+    "vocabularyIds": [
+      "vocab-writing-m2-001-01",
+      "vocab-writing-m2-001-02",
+      "vocab-writing-m2-001-03",
+      "vocab-writing-m2-001-04",
+      "vocab-writing-m2-001-05",
+      "vocab-writing-m2-001-06",
+      "vocab-writing-m2-001-07",
+      "vocab-writing-m2-001-08",
+      "vocab-writing-m2-001-09",
+      "vocab-writing-m2-001-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-m2-001"
+    ]
   },
   {
     "id": "writing-m2-002",
     "title": "A Summary",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -1134,15 +1811,30 @@
         "body": "ตัวอย่าง: The story is about a rabbit who found a magic carrot. He planted it and got many colorful carrots. He shared them with his friends. The main idea is that sharing makes everyone happy."
       }
     ],
-    "vocabularyIds": ["vocab-m2-writ003", "vocab-m2-writ004"],
-    "exerciseIds": ["ex-writing-m2-002"]
+    "vocabularyIds": [
+      "vocab-writing-m2-002-01",
+      "vocab-writing-m2-002-02",
+      "vocab-writing-m2-002-03",
+      "vocab-writing-m2-002-04",
+      "vocab-writing-m2-002-05",
+      "vocab-writing-m2-002-06",
+      "vocab-writing-m2-002-07",
+      "vocab-writing-m2-002-08",
+      "vocab-writing-m2-002-09",
+      "vocab-writing-m2-002-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-m2-002"
+    ]
   },
   {
     "id": "conversation-m2-001",
     "title": "Giving Opinions",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -1165,15 +1857,30 @@
         "body": "B: That's a good point. But online learning saves travel time. (เป็นประเด็นที่ดี แต่การเรียนออนไลน์ประหยัดเวลาเดินทาง)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-conv001", "vocab-m2-conv002"],
-    "exerciseIds": ["ex-conv-m2-001"]
+    "vocabularyIds": [
+      "vocab-conversation-m2-001-01",
+      "vocab-conversation-m2-001-02",
+      "vocab-conversation-m2-001-03",
+      "vocab-conversation-m2-001-04",
+      "vocab-conversation-m2-001-05",
+      "vocab-conversation-m2-001-06",
+      "vocab-conversation-m2-001-07",
+      "vocab-conversation-m2-001-08",
+      "vocab-conversation-m2-001-09",
+      "vocab-conversation-m2-001-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-m2-001"
+    ]
   },
   {
     "id": "conversation-m2-002",
     "title": "At the Doctor's",
     "grade": "m2",
     "gradeLabel": "ม.2",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -1196,15 +1903,30 @@
         "body": "Doctor: You have a cold. Take this medicine three times a day and get some rest. (คุณเป็นหวัด กินยานี้วันละสามครั้งและพักผ่อนมากๆ)"
       }
     ],
-    "vocabularyIds": ["vocab-m2-conv003", "vocab-m2-conv004"],
-    "exerciseIds": ["ex-conv-m2-002"]
+    "vocabularyIds": [
+      "vocab-conversation-m2-002-01",
+      "vocab-conversation-m2-002-02",
+      "vocab-conversation-m2-002-03",
+      "vocab-conversation-m2-002-04",
+      "vocab-conversation-m2-002-05",
+      "vocab-conversation-m2-002-06",
+      "vocab-conversation-m2-002-07",
+      "vocab-conversation-m2-002-08",
+      "vocab-conversation-m2-002-09",
+      "vocab-conversation-m2-002-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-m2-002"
+    ]
   },
   {
     "id": "grammar-m3-001",
     "title": "All Tenses Review",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -1223,15 +1945,30 @@
         "body": "Present Perfect: I have gone before. (เคยไปแล้ว) | Future: I will go tomorrow. (จะไปพรุ่งนี้)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-001", "vocab-m3-002"],
-    "exerciseIds": ["ex-grammar-m3-001"]
+    "vocabularyIds": [
+      "vocab-grammar-m3-001-01",
+      "vocab-grammar-m3-001-02",
+      "vocab-grammar-m3-001-03",
+      "vocab-grammar-m3-001-04",
+      "vocab-grammar-m3-001-05",
+      "vocab-grammar-m3-001-06",
+      "vocab-grammar-m3-001-07",
+      "vocab-grammar-m3-001-08",
+      "vocab-grammar-m3-001-09",
+      "vocab-grammar-m3-001-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m3-001"
+    ]
   },
   {
     "id": "grammar-m3-002",
     "title": "Conditionals Type 3",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -1250,15 +1987,30 @@
         "body": "If she had woken up early, she would not have missed the bus. (ถ้าเธอตื่นเช้า เธอคงไม่ตกรถ)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-003", "vocab-m3-004"],
-    "exerciseIds": ["ex-grammar-m3-002"]
+    "vocabularyIds": [
+      "vocab-grammar-m3-002-01",
+      "vocab-grammar-m3-002-02",
+      "vocab-grammar-m3-002-03",
+      "vocab-grammar-m3-002-04",
+      "vocab-grammar-m3-002-05",
+      "vocab-grammar-m3-002-06",
+      "vocab-grammar-m3-002-07",
+      "vocab-grammar-m3-002-08",
+      "vocab-grammar-m3-002-09",
+      "vocab-grammar-m3-002-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m3-002"
+    ]
   },
   {
     "id": "grammar-m3-003",
     "title": "Wish Clauses",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -1277,15 +2029,30 @@
         "body": "Wish + would (ขอร้อง/ต้องการให้เปลี่ยน): I wish you would stop smoking. (ฉันอยากให้คุณเลิกสูบบุหรี่)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-005", "vocab-m3-006"],
-    "exerciseIds": ["ex-grammar-m3-003"]
+    "vocabularyIds": [
+      "vocab-grammar-m3-003-01",
+      "vocab-grammar-m3-003-02",
+      "vocab-grammar-m3-003-03",
+      "vocab-grammar-m3-003-04",
+      "vocab-grammar-m3-003-05",
+      "vocab-grammar-m3-003-06",
+      "vocab-grammar-m3-003-07",
+      "vocab-grammar-m3-003-08",
+      "vocab-grammar-m3-003-09",
+      "vocab-grammar-m3-003-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m3-003"
+    ]
   },
   {
     "id": "grammar-m3-004",
     "title": "Connectors & Transitions",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["grammar"],
+    "topics": [
+      "grammar"
+    ],
     "content": [
       {
         "type": "text",
@@ -1304,15 +2071,30 @@
         "body": "การแสดงผลลัพธ์: therefore (ดังนั้น), as a result (ส่งผลให้), consequently (เป็นผลให้)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-007", "vocab-m3-008"],
-    "exerciseIds": ["ex-grammar-m3-004"]
+    "vocabularyIds": [
+      "vocab-grammar-m3-004-01",
+      "vocab-grammar-m3-004-02",
+      "vocab-grammar-m3-004-03",
+      "vocab-grammar-m3-004-04",
+      "vocab-grammar-m3-004-05",
+      "vocab-grammar-m3-004-06",
+      "vocab-grammar-m3-004-07",
+      "vocab-grammar-m3-004-08",
+      "vocab-grammar-m3-004-09",
+      "vocab-grammar-m3-004-10"
+    ],
+    "exerciseIds": [
+      "ex-grammar-m3-004"
+    ]
   },
   {
     "id": "vocab-m3-001",
     "title": "Society & Culture",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -1327,15 +2109,30 @@
         "body": "custom (ธรรมเนียม), belief (ความเชื่อ), value (ค่านิยม), diversity (ความหลากหลาย), community (ชุมชน), heritage (มรดก)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-soc001", "vocab-m3-soc002"],
-    "exerciseIds": ["ex-vocab-m3-001"]
+    "vocabularyIds": [
+      "vocab-vocab-m3-001-01",
+      "vocab-vocab-m3-001-02",
+      "vocab-vocab-m3-001-03",
+      "vocab-vocab-m3-001-04",
+      "vocab-vocab-m3-001-05",
+      "vocab-vocab-m3-001-06",
+      "vocab-vocab-m3-001-07",
+      "vocab-vocab-m3-001-08",
+      "vocab-vocab-m3-001-09",
+      "vocab-vocab-m3-001-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-m3-001"
+    ]
   },
   {
     "id": "vocab-m3-002",
     "title": "Science & Technology",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["vocabulary"],
+    "topics": [
+      "vocabulary"
+    ],
     "content": [
       {
         "type": "text",
@@ -1350,15 +2147,30 @@
         "body": "experiment (การทดลอง), research (งานวิจัย), data (ข้อมูล), software (ซอฟต์แวร์), hardware (ฮาร์ดแวร์), invention (สิ่งประดิษฐ์)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-sci001", "vocab-m3-sci002"],
-    "exerciseIds": ["ex-vocab-m3-002"]
+    "vocabularyIds": [
+      "vocab-vocab-m3-002-01",
+      "vocab-vocab-m3-002-02",
+      "vocab-vocab-m3-002-03",
+      "vocab-vocab-m3-002-04",
+      "vocab-vocab-m3-002-05",
+      "vocab-vocab-m3-002-06",
+      "vocab-vocab-m3-002-07",
+      "vocab-vocab-m3-002-08",
+      "vocab-vocab-m3-002-09",
+      "vocab-vocab-m3-002-10"
+    ],
+    "exerciseIds": [
+      "ex-vocab-m3-002"
+    ]
   },
   {
     "id": "reading-m3-001",
     "title": "Longer Passage",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -1369,15 +2181,30 @@
         "body": "คำศัพท์น่ารู้: pollution (มลพิษ), marine animal (สัตว์ทะเล), waste (ขยะ), ban (ห้าม), single-use (ใช้ครั้งเดียว), reusable (ใช้ซ้ำได้), recycle (รีไซเคิล)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-read001", "vocab-m3-read002"],
-    "exerciseIds": ["ex-reading-m3-001"]
+    "vocabularyIds": [
+      "vocab-reading-m3-001-01",
+      "vocab-reading-m3-001-02",
+      "vocab-reading-m3-001-03",
+      "vocab-reading-m3-001-04",
+      "vocab-reading-m3-001-05",
+      "vocab-reading-m3-001-06",
+      "vocab-reading-m3-001-07",
+      "vocab-reading-m3-001-08",
+      "vocab-reading-m3-001-09",
+      "vocab-reading-m3-001-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-m3-001"
+    ]
   },
   {
     "id": "reading-m3-002",
     "title": "Poem Basics",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["reading"],
+    "topics": [
+      "reading"
+    ],
     "content": [
       {
         "type": "text",
@@ -1388,15 +2215,30 @@
         "body": "คำศัพท์น่ารู้: poem (บทกวี), rhyme (สัมผัส), verse (บท), line (บรรทัด), metaphor (อุปลักษณ์), imagery (ภาพพจน์)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-read003", "vocab-m3-read004"],
-    "exerciseIds": ["ex-reading-m3-002"]
+    "vocabularyIds": [
+      "vocab-reading-m3-002-01",
+      "vocab-reading-m3-002-02",
+      "vocab-reading-m3-002-03",
+      "vocab-reading-m3-002-04",
+      "vocab-reading-m3-002-05",
+      "vocab-reading-m3-002-06",
+      "vocab-reading-m3-002-07",
+      "vocab-reading-m3-002-08",
+      "vocab-reading-m3-002-09",
+      "vocab-reading-m3-002-10"
+    ],
+    "exerciseIds": [
+      "ex-reading-m3-002"
+    ]
   },
   {
     "id": "writing-m3-001",
     "title": "Formal Letter",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -1411,15 +2253,30 @@
         "body": "โครงสร้างจดหมายทางการ: ที่อยู่ผู้ส่ง → วันที่ → ที่อยู่ผู้รับ → คำขึ้นต้น → เนื้อหา → ลงท้าย → ลายเซ็น"
       }
     ],
-    "vocabularyIds": ["vocab-m3-writ001", "vocab-m3-writ002"],
-    "exerciseIds": ["ex-writing-m3-001"]
+    "vocabularyIds": [
+      "vocab-writing-m3-001-01",
+      "vocab-writing-m3-001-02",
+      "vocab-writing-m3-001-03",
+      "vocab-writing-m3-001-04",
+      "vocab-writing-m3-001-05",
+      "vocab-writing-m3-001-06",
+      "vocab-writing-m3-001-07",
+      "vocab-writing-m3-001-08",
+      "vocab-writing-m3-001-09",
+      "vocab-writing-m3-001-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-m3-001"
+    ]
   },
   {
     "id": "writing-m3-002",
     "title": "Short Essay",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["writing"],
+    "topics": [
+      "writing"
+    ],
     "content": [
       {
         "type": "text",
@@ -1434,15 +2291,30 @@
         "body": "Title: The Importance of Reading\n\nReading is one of the most important skills we can develop. First, reading improves our vocabulary and grammar. When we read books, we learn new words naturally. Second, reading gives us knowledge. We can learn about history, science, or any topic we are interested in. Finally, reading is a good way to relax. It helps us forget our problems and enter a different world. In conclusion, reading is very beneficial. Everyone should make time to read every day."
       }
     ],
-    "vocabularyIds": ["vocab-m3-writ003", "vocab-m3-writ004"],
-    "exerciseIds": ["ex-writing-m3-002"]
+    "vocabularyIds": [
+      "vocab-writing-m3-002-01",
+      "vocab-writing-m3-002-02",
+      "vocab-writing-m3-002-03",
+      "vocab-writing-m3-002-04",
+      "vocab-writing-m3-002-05",
+      "vocab-writing-m3-002-06",
+      "vocab-writing-m3-002-07",
+      "vocab-writing-m3-002-08",
+      "vocab-writing-m3-002-09",
+      "vocab-writing-m3-002-10"
+    ],
+    "exerciseIds": [
+      "ex-writing-m3-002"
+    ]
   },
   {
     "id": "conversation-m3-001",
     "title": "Job Interview",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -1465,15 +2337,30 @@
         "body": "Candidate: I believe I can use my skills to help the company grow. (ฉันเชื่อว่าฉันสามารถใช้ทักษะเพื่อช่วยให้บริษัทเติบโต)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-conv001", "vocab-m3-conv002"],
-    "exerciseIds": ["ex-conv-m3-001"]
+    "vocabularyIds": [
+      "vocab-conversation-m3-001-01",
+      "vocab-conversation-m3-001-02",
+      "vocab-conversation-m3-001-03",
+      "vocab-conversation-m3-001-04",
+      "vocab-conversation-m3-001-05",
+      "vocab-conversation-m3-001-06",
+      "vocab-conversation-m3-001-07",
+      "vocab-conversation-m3-001-08",
+      "vocab-conversation-m3-001-09",
+      "vocab-conversation-m3-001-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-m3-001"
+    ]
   },
   {
     "id": "conversation-m3-002",
     "title": "Making a Phone Call",
     "grade": "m3",
     "gradeLabel": "ม.3",
-    "topics": ["conversation"],
+    "topics": [
+      "conversation"
+    ],
     "content": [
       {
         "type": "text",
@@ -1496,7 +2383,20 @@
         "body": "B: I'll give him the message. Goodbye. (ฉันจะบอกข้อความให้เขา ลาก่อน)"
       }
     ],
-    "vocabularyIds": ["vocab-m3-conv003", "vocab-m3-conv004"],
-    "exerciseIds": ["ex-conv-m3-002"]
+    "vocabularyIds": [
+      "vocab-conversation-m3-002-01",
+      "vocab-conversation-m3-002-02",
+      "vocab-conversation-m3-002-03",
+      "vocab-conversation-m3-002-04",
+      "vocab-conversation-m3-002-05",
+      "vocab-conversation-m3-002-06",
+      "vocab-conversation-m3-002-07",
+      "vocab-conversation-m3-002-08",
+      "vocab-conversation-m3-002-09",
+      "vocab-conversation-m3-002-10"
+    ],
+    "exerciseIds": [
+      "ex-conv-m3-002"
+    ]
   }
 ]
