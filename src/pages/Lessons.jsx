@@ -34,7 +34,7 @@ export default function Lessons() {
 
   return (
     <div className="space-y-4">
-      <h1 className="text-2xl font-bold text-gray-800">📚 บทเรียนทั้งหมด</h1>
+      <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">📚 บทเรียนทั้งหมด</h1>
 
       <div className="flex flex-col sm:flex-row gap-2">
         <div className="flex gap-1 flex-wrap">
@@ -43,7 +43,7 @@ export default function Lessons() {
               key={g.value}
               onClick={() => setGradeFilter(g.value)}
               className={`px-3 py-1.5 rounded-lg text-sm transition-colors ${
-                gradeFilter === g.value ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 border border-gray-200 hover:bg-gray-50'
+                gradeFilter === g.value ? 'bg-blue-600 text-white' : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-600 dark:border-gray-600 hover:bg-gray-50'
               }`}
             >
               {g.label}
@@ -56,7 +56,7 @@ export default function Lessons() {
               key={t.value}
               onClick={() => setTopicFilter(t.value)}
               className={`px-3 py-1.5 rounded-lg text-sm transition-colors ${
-                topicFilter === t.value ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 border border-gray-200 hover:bg-gray-50'
+                topicFilter === t.value ? 'bg-blue-600 text-white' : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-600 dark:border-gray-600 hover:bg-gray-50'
               }`}
             >
               {t.label}
@@ -77,7 +77,7 @@ export default function Lessons() {
       </div>
 
       {filtered.length === 0 && (
-        <p className="text-center text-gray-400 py-8">ไม่พบบทเรียนที่ตรงกับเงื่อนไข</p>
+        <p className="text-center text-gray-400 dark:text-gray-500 py-8">ไม่พบบทเรียนที่ตรงกับเงื่อนไข</p>
       )}
     </div>
   )

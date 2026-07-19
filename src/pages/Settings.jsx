@@ -21,11 +21,11 @@ export default function Settings() {
 
   return (
     <div className="space-y-6">
-      <h1 className="text-2xl font-bold text-gray-800">⚙️ ตั้งค่า</h1>
+      <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">⚙️ ตั้งค่า</h1>
 
-      <div className="bg-white p-5 rounded-xl shadow-sm border border-gray-100 space-y-4">
+      <div className="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 space-y-4">
         <div>
-          <label className="block text-gray-700 font-medium mb-2">
+          <label className="block text-gray-700 dark:text-gray-300 font-medium mb-2">
             จำนวนคำศัพท์ต่อวัน
           </label>
           <div className="flex items-center gap-3">
@@ -37,17 +37,17 @@ export default function Settings() {
               onChange={handleWordsChange}
               className="flex-1"
             />
-            <span className="text-lg font-bold text-blue-600 w-8 text-center">
+            <span className="text-lg font-bold text-blue-600 dark:text-blue-400 w-8 text-center">
               {progress.settings.wordsPerDay}
             </span>
           </div>
-          <p className="text-sm text-gray-400 mt-1">ปรับ 1-20 คำต่อวัน (ค่าเริ่มต้น: 5)</p>
+          <p className="text-sm text-gray-400 dark:text-gray-500 mt-1">ปรับ 1-20 คำต่อวัน (ค่าเริ่มต้น: 5)</p>
         </div>
       </div>
 
-      <div className="bg-white p-5 rounded-xl shadow-sm border border-gray-100">
-        <h2 className="font-bold text-red-600 mb-3">⚠️ รีเซ็ตข้อมูล</h2>
-        <p className="text-sm text-gray-500 mb-3">ลบข้อมูลการเรียนทั้งหมดของคุณ (คะแนน, คำศัพท์, streak)</p>
+      <div className="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+        <h2 className="font-bold text-red-600 dark:text-red-400 mb-3">⚠️ รีเซ็ตข้อมูล</h2>
+        <p className="text-sm text-gray-500 dark:text-gray-400 mb-3">ลบข้อมูลการเรียนทั้งหมดของคุณ (คะแนน, คำศัพท์, streak)</p>
         <button
           onClick={handleReset}
           className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors text-sm"

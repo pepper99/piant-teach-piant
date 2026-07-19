@@ -20,20 +20,20 @@ export default function ExerciseQuestion({ exercise, index, onAnswer }) {
   }
 
   return (
-    <div className="bg-white p-5 rounded-xl shadow-sm border border-gray-100">
-      <p className="text-sm text-gray-500 mb-1">ข้อที่ {index + 1}</p>
-      <p className="text-gray-800 font-medium mb-3">{exercise.question}</p>
+    <div className="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
+      <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">ข้อที่ {index + 1}</p>
+      <p className="text-gray-800 dark:text-gray-200 font-medium mb-3">{exercise.question}</p>
 
       {exercise.type === 'multiple-choice' && exercise.options?.length > 0 && (
         <div className="space-y-2">
           {exercise.options.map(opt => {
             let classes = 'block w-full text-left p-3 rounded-lg border transition-colors '
             if (selected === null) {
-              classes += 'border-gray-200 hover:bg-gray-50 cursor-pointer'
+              classes += 'border-gray-200 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700 cursor-pointer text-gray-800 dark:text-gray-200'
             } else if (opt === exercise.correctAnswer) {
-              classes += 'border-green-500 bg-green-50 text-green-800'
+              classes += 'border-green-500 bg-green-50 dark:bg-green-900/30 text-green-800 dark:text-green-200'
             } else if (opt === selected) {
-              classes += 'border-red-500 bg-red-50 text-red-800'
+              classes += 'border-red-500 bg-red-50 dark:bg-red-900/30 text-red-800 dark:text-red-200'
             } else {
               classes += 'border-gray-200 opacity-50'
             }
@@ -59,7 +59,7 @@ export default function ExerciseQuestion({ exercise, index, onAnswer }) {
             onChange={(e) => setWritingAnswer(e.target.value)}
             disabled={showAnswer}
             placeholder="พิมพ์คำตอบที่นี่..."
-            className="w-full p-3 border border-gray-200 rounded-lg focus:outline-none focus:border-blue-400"
+            className="w-full p-3 bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-200 border border-gray-200 dark:border-gray-600 rounded-lg focus:outline-none focus:border-blue-400 dark:focus:border-blue-500"
           />
           {!showAnswer && (
             <button
@@ -70,7 +70,7 @@ export default function ExerciseQuestion({ exercise, index, onAnswer }) {
             </button>
           )}
           {showAnswer && (
-            <div className={`p-3 rounded-lg ${writingAnswer.toLowerCase().trim() === exercise.correctAnswer.toLowerCase().trim() ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'}`}>
+            <div className={`p-3 rounded-lg ${writingAnswer.toLowerCase().trim() === exercise.correctAnswer.toLowerCase().trim() ? 'bg-green-50 dark:bg-green-900/30 text-green-800 dark:text-green-200' : 'bg-red-50 dark:bg-red-900/30 text-red-800 dark:text-red-200'}`}>
               {writingAnswer.toLowerCase().trim() === exercise.correctAnswer.toLowerCase().trim()
                 ? '✓ ถูกต้อง!'
                 : `✗ เฉลย: ${exercise.correctAnswer}`}
@@ -87,7 +87,7 @@ export default function ExerciseQuestion({ exercise, index, onAnswer }) {
             disabled={showAnswer}
             placeholder="เขียนคำตอบที่นี่..."
             rows={3}
-            className="w-full p-3 border border-gray-200 rounded-lg focus:outline-none focus:border-blue-400"
+            className="w-full p-3 bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-200 border border-gray-200 dark:border-gray-600 rounded-lg focus:outline-none focus:border-blue-400 dark:focus:border-blue-500"
           />
           {!showAnswer && (
             <button
@@ -98,17 +98,17 @@ export default function ExerciseQuestion({ exercise, index, onAnswer }) {
             </button>
           )}
           {showAnswer && (
-            <div className="p-3 bg-yellow-50 rounded-lg border border-yellow-200">
-              <p className="text-sm text-gray-600 mb-1">💡 ตัวอย่างคำตอบที่ถูกต้อง:</p>
-              <p className="text-gray-800 font-medium">{exercise.correctAnswer}</p>
-              <p className="text-sm text-gray-500 mt-1">{exercise.explanation}</p>
+            <div className="p-3 bg-yellow-50 dark:bg-yellow-900/30 rounded-lg border border-yellow-200">
+              <p className="text-sm text-gray-600 dark:text-gray-300 mb-1">💡 ตัวอย่างคำตอบที่ถูกต้อง:</p>
+              <p className="text-gray-800 dark:text-gray-200 font-medium">{exercise.correctAnswer}</p>
+              <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">{exercise.explanation}</p>
             </div>
           )}
         </div>
       )}
 
       {showAnswer && exercise.explanation && exercise.type === 'multiple-choice' && (
-        <p className="text-sm text-gray-500 mt-2">{exercise.explanation}</p>
+        <p className="text-sm text-gray-500 dark:text-gray-400 mt-2">{exercise.explanation}</p>
       )}
     </div>
   )

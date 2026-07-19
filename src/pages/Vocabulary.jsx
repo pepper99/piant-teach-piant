@@ -24,26 +24,26 @@ export default function Vocabulary() {
 
   return (
     <div className="space-y-4">
-      <h1 className="text-2xl font-bold text-gray-800">📖 คำศัพท์</h1>
+      <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">📖 คำศัพท์</h1>
 
       <div className="flex gap-2">
         <button
           onClick={() => setTab('today')}
-          className={`px-4 py-2 rounded-lg text-sm transition-colors ${tab === 'today' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 border border-gray-200'}`}
+          className={`px-4 py-2 rounded-lg text-sm transition-colors ${tab === 'today' ? 'bg-blue-600 text-white' : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-600 dark:border-gray-600'}`}
         >
           คำศัพท์วันนี้ ({todaysWords.length})
         </button>
         <button
           onClick={() => setTab('all')}
-          className={`px-4 py-2 rounded-lg text-sm transition-colors ${tab === 'all' ? 'bg-blue-600 text-white' : 'bg-white text-gray-600 border border-gray-200'}`}
+          className={`px-4 py-2 rounded-lg text-sm transition-colors ${tab === 'all' ? 'bg-blue-600 text-white' : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-300 border border-gray-200 dark:border-gray-600 dark:border-gray-600'}`}
         >
           คำศัพท์ทั้งหมด
         </button>
       </div>
 
-      <div className="flex gap-4 text-sm text-gray-500">
-        <span>รู้แล้ว: <strong className="text-green-600">{stats.knownCount}</strong> คำ</span>
-        <span>เคยเรียน: <strong className="text-blue-600">{stats.totalSeen}</strong> คำ</span>
+      <div className="flex gap-4 text-sm text-gray-500 dark:text-gray-400">
+        <span>รู้แล้ว: <strong className="text-green-600 dark:text-green-400">{stats.knownCount}</strong> คำ</span>
+        <span>เคยเรียน: <strong className="text-blue-600 dark:text-blue-400">{stats.totalSeen}</strong> คำ</span>
         <span>ทั้งหมด: <strong>{vocabulary.length}</strong> คำ</span>
       </div>
 
@@ -59,15 +59,15 @@ export default function Vocabulary() {
         <div className="space-y-6">
           {Object.entries(groupedVocab).map(([category, words]) => (
             <div key={category}>
-              <h2 className="font-bold text-gray-700 mb-2">{categoryLabels[category] || category}</h2>
+              <h2 className="font-bold text-gray-700 dark:text-gray-300 mb-2">{categoryLabels[category] || category}</h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-2">
                 {words.map(w => (
-                  <div key={w.id} className="bg-white p-3 rounded-lg border border-gray-100 flex justify-between items-center">
+                  <div key={w.id} className="bg-white dark:bg-gray-800 p-3 rounded-lg border border-gray-100 dark:border-gray-700 flex justify-between items-center">
                     <div>
-                      <span className="font-medium text-gray-800">{w.word}</span>
-                      <span className="text-gray-400 ml-2 text-sm">{w.phonetic}</span>
+                      <span className="font-medium text-gray-800 dark:text-gray-200">{w.word}</span>
+                      <span className="text-gray-400 dark:text-gray-500 ml-2 text-sm">{w.phonetic}</span>
                     </div>
-                    <span className="text-gray-600 text-sm">{w.translation}</span>
+                    <span className="text-gray-600 dark:text-gray-300 text-sm">{w.translation}</span>
                   </div>
                 ))}
               </div>

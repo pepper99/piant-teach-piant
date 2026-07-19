@@ -49,15 +49,15 @@ export default function DailyExercise() {
     return (
       <div className="space-y-6 text-center py-8">
         <div className="text-6xl mb-4">{score >= 80 ? '🎉' : score >= 50 ? '👍' : '💪'}</div>
-        <h1 className="text-2xl font-bold text-gray-800">แบบฝึกหัดวันนี้</h1>
-        <div className="bg-white p-8 rounded-xl shadow-sm border border-gray-100 inline-block">
-          <p className="text-4xl font-bold text-blue-600">{score}%</p>
-          <p className="text-gray-500 mt-2">
+        <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">แบบฝึกหัดวันนี้</h1>
+        <div className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700 inline-block">
+          <p className="text-4xl font-bold text-blue-600 dark:text-blue-400">{score}%</p>
+          <p className="text-gray-500 dark:text-gray-400 mt-2">
             {score >= 80 ? 'เยี่ยมมาก! ได้คะแนนดีมาก' : score >= 50 ? 'ใช้ได้เลย! ลองทำอีกครั้งพรุ่งนี้' : 'สู้ๆ! ฝึกอีกหน่อย'}
           </p>
         </div>
         <div className="flex gap-3 justify-center">
-          <Link to="/" className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200">กลับหน้าแรก</Link>
+          <Link to="/" className="px-4 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-200">กลับหน้าแรก</Link>
           <Link to="/lessons" className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">ไปเรียนต่อ</Link>
         </div>
       </div>
@@ -68,9 +68,9 @@ export default function DailyExercise() {
     return (
       <div className="text-center py-12 space-y-4">
         <div className="text-6xl">✅</div>
-        <h1 className="text-2xl font-bold text-gray-800">วันนี้ทำแบบฝึกหัดแล้ว!</h1>
-        <p className="text-gray-500">คะแนนวันนี้: {score}%</p>
-        <p className="text-gray-400">กลับมาใหม่พรุ่งนี้นะ</p>
+        <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">วันนี้ทำแบบฝึกหัดแล้ว!</h1>
+        <p className="text-gray-500 dark:text-gray-400">คะแนนวันนี้: {score}%</p>
+        <p className="text-gray-400 dark:text-gray-500">กลับมาใหม่พรุ่งนี้นะ</p>
         <Link to="/" className="inline-block px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">กลับหน้าแรก</Link>
       </div>
     )
@@ -78,8 +78,8 @@ export default function DailyExercise() {
 
   return (
     <div className="space-y-4">
-      <h1 className="text-2xl font-bold text-gray-800">✍️ แบบฝึกหัดประจำวัน</h1>
-      <p className="text-gray-500">ทำแบบฝึกหัด {todaysExercise.length} ข้อ</p>
+      <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-200">✍️ แบบฝึกหัดประจำวัน</h1>
+      <p className="text-gray-500 dark:text-gray-400">ทำแบบฝึกหัด {todaysExercise.length} ข้อ</p>
 
       <div className="space-y-4">
         {todaysExercise.map((ex, i) => (

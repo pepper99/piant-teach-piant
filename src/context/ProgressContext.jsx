@@ -1,9 +1,9 @@
-import { createContext, useContext } from 'react'
+import { createContext, useContext, useEffect, useMemo } from 'react'
 import useLocalStorage from '../hooks/useLocalStorage'
 
 const ProgressContext = createContext(null)
 
-const DEFAULT_SETTINGS = { wordsPerDay: 5 }
+const DEFAULT_SETTINGS = { wordsPerDay: 5, darkMode: false }
 const DEFAULT_PROGRESS = {
   completedLessons: {},
   vocabHistory: {},
@@ -14,8 +14,26 @@ const DEFAULT_PROGRESS = {
   streakData: { currentStreak: 0, lastActiveDate: null },
 }
 
+function migrateProgress(raw) {
+  return {
+    ...DEFAULT_PROGRESS,
+    ...raw,
+    settings: { ...DEFAULT_SETTINGS, ...(raw.settings || {}) },
+    streakData: { ...DEFAULT_PROGRESS.streakData, ...(raw.streakData || {}) },
+  }
+}
+
 export function ProgressProvider({ children }) {
-  const [progress, setProgress] = useLocalStorage('progress', DEFAULT_PROGRESS)
+  const [rawProgress, setProgress] = useLocalStorage('progress', DEFAULT_PROGRESS)
+  const progress = useMemo(() => migrateProgress(rawProgress), [rawProgress])
+
+  useEffect(() => {
+    if (progress.settings.darkMode) {
+      document.documentElement.classList.add('dark')
+    } else {
+      document.documentElement.classList.remove('dark')
+    }
+  }, [progress.settings.darkMode])
 
   const updateProgress = (updates) => {
     setProgress(prev => ({ ...prev, ...updates }))
