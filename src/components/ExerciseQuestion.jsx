@@ -42,7 +42,7 @@ export default function ExerciseQuestion({ exercise, index, onAnswer, lessonTitl
             } else if (opt === selected) {
               classes += 'border-red-500 bg-red-50 dark:bg-red-900/30 text-red-800 dark:text-red-200'
             } else {
-              classes += 'border-gray-200 opacity-50'
+              classes += 'border-gray-200 dark:border-gray-600 text-gray-500 dark:text-gray-400 opacity-50'
             }
             return (
               <button
