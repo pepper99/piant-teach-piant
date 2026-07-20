@@ -1,8 +1,9 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useProgress } from '../context/ProgressContext'
 import useDailyExercise from '../hooks/useDailyExercise'
 import ExerciseQuestion from '../components/ExerciseQuestion'
+import lessons from '../data/lessons.json'
 import { getTodayDate } from '../utils/helpers'
 
 export default function DailyExercise() {
@@ -11,6 +12,11 @@ export default function DailyExercise() {
   const [answers, setAnswers] = useState({})
   const [submitted, setSubmitted] = useState(false)
   const [score, setScore] = useState(0)
+  const lessonTitles = useMemo(() => {
+    const map = {}
+    for (const l of lessons) map[l.id] = l.title
+    return map
+  }, [])
 
   useEffect(() => {
     if (isDone) {
@@ -83,7 +89,7 @@ export default function DailyExercise() {
 
       <div className="space-y-4">
         {todaysExercise.map((ex, i) => (
-          <ExerciseQuestion key={ex.id} exercise={ex} index={i} onAnswer={handleAnswer} />
+          <ExerciseQuestion key={ex.id} exercise={ex} index={i} onAnswer={handleAnswer} lessonTitle={lessonTitles[ex.lessonId]} />
         ))}
       </div>
 

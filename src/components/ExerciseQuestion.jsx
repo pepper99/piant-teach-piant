@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-export default function ExerciseQuestion({ exercise, index, onAnswer }) {
+export default function ExerciseQuestion({ exercise, index, onAnswer, lessonTitle }) {
   const [selected, setSelected] = useState(null)
   const [showAnswer, setShowAnswer] = useState(false)
   const [writingAnswer, setWritingAnswer] = useState('')
@@ -21,7 +21,14 @@ export default function ExerciseQuestion({ exercise, index, onAnswer }) {
 
   return (
     <div className="bg-white dark:bg-gray-800 p-5 rounded-xl shadow-sm border border-gray-100 dark:border-gray-700">
-      <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">ข้อที่ {index + 1}</p>
+      <div className="relative group">
+        <p className="text-sm text-gray-500 dark:text-gray-400 mb-1 cursor-default">ข้อที่ {index + 1}</p>
+        {lessonTitle && (
+          <div className="absolute bottom-full left-0 mb-1 hidden group-hover:block bg-gray-800 dark:bg-gray-200 text-white dark:text-gray-800 text-xs rounded px-2 py-1 whitespace-nowrap z-10">
+            {lessonTitle}
+          </div>
+        )}
+      </div>
       <p className="text-gray-800 dark:text-gray-200 font-medium mb-3">{exercise.question}</p>
 
       {exercise.type === 'multiple-choice' && exercise.options?.length > 0 && (
