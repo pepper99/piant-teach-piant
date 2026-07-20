@@ -1,5 +1,6 @@
 import { useMemo, useCallback } from 'react'
 import vocabulary from '../data/vocabulary.json'
+import lessons from '../data/lessons.json'
 import { pickRandom, getTodayDate } from '../utils/helpers'
 
 export default function useDailyVocab(wordsPerDay, progress, updateProgress) {
@@ -12,9 +13,12 @@ export default function useDailyVocab(wordsPerDay, progress, updateProgress) {
   const todaysWords = useMemo(() => {
     if (needsNewSet) {
       const lessonIds = Object.keys(progress.completedLessons || {})
-      let eligible = vocabulary
+      let eligible
       if (lessonIds.length > 0) {
         eligible = vocabulary.filter(w => lessonIds.includes(w.lessonId))
+      } else {
+        const starterIds = lessons.filter(l => l.grade === 'p5').map(l => l.id)
+        eligible = vocabulary.filter(w => starterIds.includes(w.lessonId))
       }
       if (eligible.length === 0) eligible = vocabulary
       const picked = pickRandom(eligible, wordsPerDay)

@@ -8,7 +8,13 @@ const mockVocab = vi.hoisted(() => [
   { id: 'v3', word: 'cat', lessonId: 'l2' },
 ])
 
+const mockLessons = vi.hoisted(() => [
+  { id: 'l1', grade: 'p5' },
+  { id: 'l2', grade: 'p5' },
+])
+
 vi.mock('../../data/vocabulary.json', () => ({ default: mockVocab }))
+vi.mock('../../data/lessons.json', () => ({ default: mockLessons }))
 
 describe('useDailyVocab', () => {
   const baseProgress = {

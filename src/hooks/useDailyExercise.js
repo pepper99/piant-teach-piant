@@ -1,5 +1,6 @@
 import { useMemo, useCallback } from 'react'
 import exercises from '../data/exercises.json'
+import lessons from '../data/lessons.json'
 import { pickRandom, getTodayDate } from '../utils/helpers'
 
 export default function useDailyExercise(progress, updateProgress) {
@@ -11,9 +12,12 @@ export default function useDailyExercise(progress, updateProgress) {
   const todaysExercise = useMemo(() => {
     if (isDone) return dailyRecord?.exercises || []
     const lessonIds = Object.keys(progress.completedLessons || {})
-    let available = exercises
+    let available
     if (lessonIds.length > 0) {
       available = exercises.filter(e => lessonIds.includes(e.lessonId))
+    } else {
+      const starterIds = lessons.filter(l => l.grade === 'p5').map(l => l.id)
+      available = exercises.filter(e => starterIds.includes(e.lessonId))
     }
     return pickRandom(available, 5)
   }, [today, progress.completedLessons, isDone])

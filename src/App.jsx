@@ -1,4 +1,4 @@
-import { Routes, Route, Navigate } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
 import Dashboard from './pages/Dashboard'
 import Lessons from './pages/Lessons'
@@ -19,7 +19,6 @@ export default function App() {
         <Route path="/vocabulary" element={<Vocabulary />} />
         <Route path="/progress" element={<Progress />} />
         <Route path="/settings" element={<Settings />} />
-        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Layout>
   )

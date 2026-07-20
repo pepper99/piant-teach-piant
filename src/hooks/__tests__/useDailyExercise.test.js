@@ -8,7 +8,13 @@ const mockExercises = vi.hoisted(() => [
   { id: 'e3', lessonId: 'l2', question: 'Q3' },
 ])
 
+const mockLessons = vi.hoisted(() => [
+  { id: 'l1', grade: 'p5' },
+  { id: 'l2', grade: 'p5' },
+])
+
 vi.mock('../../data/exercises.json', () => ({ default: mockExercises }))
+vi.mock('../../data/lessons.json', () => ({ default: mockLessons }))
 
 describe('useDailyExercise', () => {
   it('returns exercises when not done', () => {
